@@ -66,6 +66,6 @@ Or: Settings → Pages → Branch: main / root – done.
 - 100% static – works on GitHub Pages / Vercel / Netlify
 
 ### License
-MIT – free for students, teachers, coaching institutes. Attribution appreciated.
+by Hitesh for all free for students, teachers.
 
 Made with ❤️ for RPSC 2nd Grade Hindi aspirants.
