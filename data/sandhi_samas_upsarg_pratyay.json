@@ -1,0 +1,2822 @@
+[
+  {
+    "q": "सूर्योदय में कौन सी संधि है?",
+    "options": [
+      "गुण संधि",
+      "यण संधि",
+      "वृद्धि संधि",
+      "अयादि"
+    ],
+    "answer": 0,
+    "explanation": "सूर्य + उदय",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संधि_604733"
+  },
+  {
+    "q": "सूर्योदय में कौन सी संधि है?",
+    "options": [
+      "यण संधि",
+      "अयादि",
+      "वृद्धि संधि",
+      "गुण संधि"
+    ],
+    "answer": 3,
+    "explanation": "सूर्य + उदय",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संधि_604733_v1",
+    "variant_of": "संधि_604733"
+  },
+  {
+    "q": "सूर्योदय में कौन सी संधि है?",
+    "options": [
+      "यण संधि",
+      "वृद्धि संधि",
+      "गुण संधि",
+      "अयादि"
+    ],
+    "answer": 2,
+    "explanation": "सूर्य + उदय",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_604733_v2",
+    "variant_of": "संधि_604733"
+  },
+  {
+    "q": "'राजपुत्र' में कौन सा समास है?",
+    "options": [
+      "कर्मधारय",
+      "बहुव्रीहि",
+      "द्वंद्व",
+      "तत्पुरुष"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "समास_545918"
+  },
+  {
+    "q": "'राजपुत्र' में कौन सा समास है?",
+    "options": [
+      "कर्मधारय",
+      "बहुव्रीहि",
+      "द्वंद्व",
+      "तत्पुरुष"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "समास_545918_v1",
+    "variant_of": "समास_545918"
+  },
+  {
+    "q": "'राजपुत्र' में कौन सा समास है?",
+    "options": [
+      "कर्मधारय",
+      "तत्पुरुष",
+      "द्वंद्व",
+      "बहुव्रीहि"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "समास_545918_v2",
+    "variant_of": "समास_545918"
+  },
+  {
+    "q": "'नीलकंठ' में समास है -",
+    "options": [
+      "तत्पुरुष",
+      "अव्ययीभाव",
+      "बहुव्रीहि",
+      "द्विगु"
+    ],
+    "answer": 2,
+    "explanation": "नीला है कंठ जिसका – शिव",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_278"
+  },
+  {
+    "q": "'नीलकंठ' में समास है -",
+    "options": [
+      "अव्ययीभाव",
+      "बहुव्रीहि",
+      "द्विगु",
+      "तत्पुरुष"
+    ],
+    "answer": 1,
+    "explanation": "नीला है कंठ जिसका – शिव",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_278_v1",
+    "variant_of": "समास_278"
+  },
+  {
+    "q": "'नीलकंठ' में समास है?",
+    "options": [
+      "बहुव्रीहि",
+      "तत्पुरुष",
+      "अव्ययीभाव",
+      "द्विगु"
+    ],
+    "answer": 0,
+    "explanation": "नीला है कंठ जिसका – शिव",
+    "topic": "समास",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "समास_278_v2",
+    "variant_of": "समास_278"
+  },
+  {
+    "q": "'प्रति' उपसर्ग से बना शब्द है -",
+    "options": [
+      "दुर्दिन",
+      "निर्दिन",
+      "सुदिन",
+      "प्रतिदिन"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "उपसर्ग_68363"
+  },
+  {
+    "q": "'प्रति' उपसर्ग से बना शब्द है -",
+    "options": [
+      "सुदिन",
+      "प्रतिदिन",
+      "दुर्दिन",
+      "निर्दिन"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "उपसर्ग_68363_v1",
+    "variant_of": "उपसर्ग_68363"
+  },
+  {
+    "q": "'प्रति' उपसर्ग से बना शब्द है?",
+    "options": [
+      "सुदिन",
+      "निर्दिन",
+      "प्रतिदिन",
+      "दुर्दिन"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "उपसर्ग_68363_v2",
+    "variant_of": "उपसर्ग_68363"
+  },
+  {
+    "q": "'लिखावट' में प्रत्यय है -",
+    "options": [
+      "आवट",
+      "ट",
+      "वट",
+      "लिख"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "प्रत्यय_208392"
+  },
+  {
+    "q": "'लिखावट' में प्रत्यय है -",
+    "options": [
+      "लिख",
+      "आवट",
+      "ट",
+      "वट"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "प्रत्यय_208392_v1",
+    "variant_of": "प्रत्यय_208392"
+  },
+  {
+    "q": "'लिखावट' में प्रत्यय है?",
+    "options": [
+      "ट",
+      "आवट",
+      "वट",
+      "लिख"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "प्रत्यय_208392_v2",
+    "variant_of": "प्रत्यय_208392"
+  },
+  {
+    "q": "'रामायण' में संधि है -",
+    "options": [
+      "यण",
+      "वृद्धि",
+      "गुण",
+      "दीर्घ"
+    ],
+    "answer": 1,
+    "explanation": "राम + अयन",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_291620"
+  },
+  {
+    "q": "'रामायण' में संधि है -",
+    "options": [
+      "वृद्धि",
+      "यण",
+      "गुण",
+      "दीर्घ"
+    ],
+    "answer": 0,
+    "explanation": "राम + अयन",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_291620_v1",
+    "variant_of": "संधि_291620"
+  },
+  {
+    "q": "'रामायण' में संधि है?",
+    "options": [
+      "दीर्घ",
+      "यण",
+      "वृद्धि",
+      "गुण"
+    ],
+    "answer": 2,
+    "explanation": "राम + अयन",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_291620_v2",
+    "variant_of": "संधि_291620"
+  },
+  {
+    "q": "'चौराहा' में समास है -",
+    "options": [
+      "तत्पुरुष",
+      "बहुव्रीहि",
+      "द्विगु",
+      "द्वंद्व"
+    ],
+    "answer": 2,
+    "explanation": "चार राहों का समूह",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_327830"
+  },
+  {
+    "q": "'चौराहा' में समास है -",
+    "options": [
+      "तत्पुरुष",
+      "द्विगु",
+      "बहुव्रीहि",
+      "द्वंद्व"
+    ],
+    "answer": 1,
+    "explanation": "चार राहों का समूह",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_327830_v1",
+    "variant_of": "समास_327830"
+  },
+  {
+    "q": "'चौराहा' में समास है?",
+    "options": [
+      "तत्पुरुष",
+      "द्विगु",
+      "बहुव्रीहि",
+      "द्वंद्व"
+    ],
+    "answer": 1,
+    "explanation": "चार राहों का समूह",
+    "topic": "समास",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "समास_327830_v2",
+    "variant_of": "समास_327830"
+  },
+  {
+    "q": "'अनुज' में उपसर्ग है -",
+    "options": [
+      "अनु",
+      "अ",
+      "ज",
+      "नुज"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "उपसर्ग_604603"
+  },
+  {
+    "q": "'अनुज' में उपसर्ग है -",
+    "options": [
+      "नुज",
+      "ज",
+      "अ",
+      "अनु"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "उपसर्ग_604603_v1",
+    "variant_of": "उपसर्ग_604603"
+  },
+  {
+    "q": "'अनुज' में उपसर्ग है?",
+    "options": [
+      "ज",
+      "अनु",
+      "अ",
+      "नुज"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "उपसर्ग_604603_v2",
+    "variant_of": "उपसर्ग_604603"
+  },
+  {
+    "q": "'सुंदरता' में प्रत्यय है -",
+    "options": [
+      "अता",
+      "रता",
+      "दरता",
+      "ता"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "प्रत्यय_382804"
+  },
+  {
+    "q": "'सुंदरता' में प्रत्यय है -",
+    "options": [
+      "ता",
+      "रता",
+      "अता",
+      "दरता"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "प्रत्यय_382804_v1",
+    "variant_of": "प्रत्यय_382804"
+  },
+  {
+    "q": "'सुंदरता' में प्रत्यय है?",
+    "options": [
+      "अता",
+      "दरता",
+      "ता",
+      "रता"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "प्रत्यय_382804_v2",
+    "variant_of": "प्रत्यय_382804"
+  },
+  {
+    "q": "'महेश' में संधि है -",
+    "options": [
+      "यण",
+      "गुण",
+      "वृद्धि",
+      "अयादि"
+    ],
+    "answer": 1,
+    "explanation": "महा + ईश",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "संधि_61835"
+  },
+  {
+    "q": "'महेश' में संधि है -",
+    "options": [
+      "वृद्धि",
+      "यण",
+      "गुण",
+      "अयादि"
+    ],
+    "answer": 2,
+    "explanation": "महा + ईश",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "संधि_61835_v1",
+    "variant_of": "संधि_61835"
+  },
+  {
+    "q": "'महेश' में संधि है?",
+    "options": [
+      "गुण",
+      "अयादि",
+      "यण",
+      "वृद्धि"
+    ],
+    "answer": 0,
+    "explanation": "महा + ईश",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "संधि_61835_v2",
+    "variant_of": "संधि_61835"
+  },
+  {
+    "q": "'विद्यालय' संधि -",
+    "options": [
+      "गुण",
+      "यण",
+      "वृद्धि",
+      "दीर्घ"
+    ],
+    "answer": 3,
+    "explanation": "विद्या + आलय",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_674896"
+  },
+  {
+    "q": "'विद्यालय' संधि -",
+    "options": [
+      "दीर्घ",
+      "वृद्धि",
+      "गुण",
+      "यण"
+    ],
+    "answer": 0,
+    "explanation": "विद्या + आलय",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_674896_v1",
+    "variant_of": "संधि_674896"
+  },
+  {
+    "q": "'विद्यालय' संधि -",
+    "options": [
+      "वृद्धि",
+      "यण",
+      "दीर्घ",
+      "गुण"
+    ],
+    "answer": 2,
+    "explanation": "विद्या + आलय",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_674896_v2",
+    "variant_of": "संधि_674896"
+  },
+  {
+    "q": "'देवेन्द्र' संधि -",
+    "options": [
+      "वृद्धि",
+      "गुण",
+      "यण",
+      "दीर्घ"
+    ],
+    "answer": 1,
+    "explanation": "देव + इन्द्र = देवेन्द्र",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "संधि_650618"
+  },
+  {
+    "q": "'देवेन्द्र' संधि -",
+    "options": [
+      "गुण",
+      "वृद्धि",
+      "यण",
+      "दीर्घ"
+    ],
+    "answer": 0,
+    "explanation": "देव + इन्द्र = देवेन्द्र",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "संधि_650618_v1",
+    "variant_of": "संधि_650618"
+  },
+  {
+    "q": "'देवेन्द्र' संधि -",
+    "options": [
+      "यण",
+      "वृद्धि",
+      "दीर्घ",
+      "गुण"
+    ],
+    "answer": 3,
+    "explanation": "देव + इन्द्र = देवेन्द्र",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "संधि_650618_v2",
+    "variant_of": "संधि_650618"
+  },
+  {
+    "q": "'पवन' संधि -",
+    "options": [
+      "गुण",
+      "यण",
+      "अयादि",
+      "वृद्धि"
+    ],
+    "answer": 2,
+    "explanation": "पो + अन",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "संधि_178673"
+  },
+  {
+    "q": "'पवन' संधि -",
+    "options": [
+      "वृद्धि",
+      "अयादि",
+      "गुण",
+      "यण"
+    ],
+    "answer": 1,
+    "explanation": "पो + अन",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "संधि_178673_v1",
+    "variant_of": "संधि_178673"
+  },
+  {
+    "q": "'पवन' संधि -",
+    "options": [
+      "गुण",
+      "यण",
+      "वृद्धि",
+      "अयादि"
+    ],
+    "answer": 3,
+    "explanation": "पो + अन",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "संधि_178673_v2",
+    "variant_of": "संधि_178673"
+  },
+  {
+    "q": "'नायक' संधि -",
+    "options": [
+      "गुण",
+      "वृद्धि",
+      "यण",
+      "अयादि"
+    ],
+    "answer": 3,
+    "explanation": "नै + अक",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संधि_73141"
+  },
+  {
+    "q": "'नायक' संधि -",
+    "options": [
+      "गुण",
+      "अयादि",
+      "यण",
+      "वृद्धि"
+    ],
+    "answer": 1,
+    "explanation": "नै + अक",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संधि_73141_v1",
+    "variant_of": "संधि_73141"
+  },
+  {
+    "q": "'नायक' संधि -",
+    "options": [
+      "अयादि",
+      "गुण",
+      "यण",
+      "वृद्धि"
+    ],
+    "answer": 0,
+    "explanation": "नै + अक",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_73141_v2",
+    "variant_of": "संधि_73141"
+  },
+  {
+    "q": "'सज्जन' संधि -",
+    "options": [
+      "कोई नहीं",
+      "स्वर",
+      "विसर्ग",
+      "व्यंजन"
+    ],
+    "answer": 3,
+    "explanation": "सत् + जन",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "संधि_532244"
+  },
+  {
+    "q": "'सज्जन' संधि -",
+    "options": [
+      "कोई नहीं",
+      "विसर्ग",
+      "व्यंजन",
+      "स्वर"
+    ],
+    "answer": 2,
+    "explanation": "सत् + जन",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "संधि_532244_v1",
+    "variant_of": "संधि_532244"
+  },
+  {
+    "q": "'सज्जन' संधि -",
+    "options": [
+      "व्यंजन",
+      "कोई नहीं",
+      "स्वर",
+      "विसर्ग"
+    ],
+    "answer": 0,
+    "explanation": "सत् + जन",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "संधि_532244_v2",
+    "variant_of": "संधि_532244"
+  },
+  {
+    "q": "'जगन्नाथ' संधि -",
+    "options": [
+      "व्यंजन",
+      "",
+      "विसर्ग",
+      "स्वर"
+    ],
+    "answer": 0,
+    "explanation": "जगत् + नाथ",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "संधि_267582"
+  },
+  {
+    "q": "'जगन्नाथ' संधि -",
+    "options": [
+      "विसर्ग",
+      "",
+      "व्यंजन",
+      "स्वर"
+    ],
+    "answer": 2,
+    "explanation": "जगत् + नाथ",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "संधि_267582_v1",
+    "variant_of": "संधि_267582"
+  },
+  {
+    "q": "'जगन्नाथ' संधि -",
+    "options": [
+      "स्वर",
+      "",
+      "व्यंजन",
+      "विसर्ग"
+    ],
+    "answer": 2,
+    "explanation": "जगत् + नाथ",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "संधि_267582_v2",
+    "variant_of": "संधि_267582"
+  },
+  {
+    "q": "'मनोरथ' संधि -",
+    "options": [
+      "स्वर",
+      "विसर्ग",
+      "व्यंजन",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "मनः + रथ",
+    "topic": "संधि",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "संधि_945017"
+  },
+  {
+    "q": "'मनोरथ' संधि -",
+    "options": [
+      "स्वर",
+      "विसर्ग",
+      "व्यंजन",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "मनः + रथ",
+    "topic": "संधि",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "संधि_945017_v1",
+    "variant_of": "संधि_945017"
+  },
+  {
+    "q": "'मनोरथ' संधि -",
+    "options": [
+      "विसर्ग",
+      "",
+      "स्वर",
+      "व्यंजन"
+    ],
+    "answer": 0,
+    "explanation": "मनः + रथ",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संधि_945017_v2",
+    "variant_of": "संधि_945017"
+  },
+  {
+    "q": "'यथाशक्ति' समास -",
+    "options": [
+      "द्वंद्व",
+      "तत्पुरुष",
+      "बहुव्रीहि",
+      "अव्ययीभाव"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_930963"
+  },
+  {
+    "q": "'यथाशक्ति' समास -",
+    "options": [
+      "द्वंद्व",
+      "अव्ययीभाव",
+      "तत्पुरुष",
+      "बहुव्रीहि"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_930963_v1",
+    "variant_of": "समास_930963"
+  },
+  {
+    "q": "'यथाशक्ति' समास -",
+    "options": [
+      "बहुव्रीहि",
+      "तत्पुरुष",
+      "द्वंद्व",
+      "अव्ययीभाव"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_930963_v2",
+    "variant_of": "समास_930963"
+  },
+  {
+    "q": "'त्रिभुज' समास -",
+    "options": [
+      "द्विगु",
+      "तत्पुरुष",
+      "कर्मधारय",
+      "द्वंद्व"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "समास_273465"
+  },
+  {
+    "q": "'त्रिभुज' समास -",
+    "options": [
+      "तत्पुरुष",
+      "द्विगु",
+      "द्वंद्व",
+      "कर्मधारय"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "समास_273465_v1",
+    "variant_of": "समास_273465"
+  },
+  {
+    "q": "'त्रिभुज' समास -",
+    "options": [
+      "द्वंद्व",
+      "कर्मधारय",
+      "तत्पुरुष",
+      "द्विगु"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "समास_273465_v2",
+    "variant_of": "समास_273465"
+  },
+  {
+    "q": "'पीतांबर' समास -",
+    "options": [
+      "द्विगु",
+      "बहुव्रीहि",
+      "तत्पुरुष",
+      "कर्मधारय"
+    ],
+    "answer": 1,
+    "explanation": "पीत है अंबर जिसका – कृष्ण",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "समास_296400"
+  },
+  {
+    "q": "'पीतांबर' समास -",
+    "options": [
+      "तत्पुरुष",
+      "कर्मधारय",
+      "बहुव्रीहि",
+      "द्विगु"
+    ],
+    "answer": 2,
+    "explanation": "पीत है अंबर जिसका – कृष्ण",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "समास_296400_v1",
+    "variant_of": "समास_296400"
+  },
+  {
+    "q": "'पीतांबर' समास -",
+    "options": [
+      "बहुव्रीहि",
+      "तत्पुरुष",
+      "कर्मधारय",
+      "द्विगु"
+    ],
+    "answer": 0,
+    "explanation": "पीत है अंबर जिसका – कृष्ण",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "समास_296400_v2",
+    "variant_of": "समास_296400"
+  },
+  {
+    "q": "'कमलनयन' समास -",
+    "options": [
+      "द्वंद्व",
+      "तत्पुरुष",
+      "बहुव्रीहि",
+      "कर्मधारय"
+    ],
+    "answer": 3,
+    "explanation": "कमल के समान नयन",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "समास_404581"
+  },
+  {
+    "q": "'कमलनयन' समास -",
+    "options": [
+      "कर्मधारय",
+      "बहुव्रीहि",
+      "तत्पुरुष",
+      "द्वंद्व"
+    ],
+    "answer": 0,
+    "explanation": "कमल के समान नयन",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "समास_404581_v1",
+    "variant_of": "समास_404581"
+  },
+  {
+    "q": "'कमलनयन' समास -",
+    "options": [
+      "बहुव्रीहि",
+      "कर्मधारय",
+      "तत्पुरुष",
+      "द्वंद्व"
+    ],
+    "answer": 1,
+    "explanation": "कमल के समान नयन",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "समास_404581_v2",
+    "variant_of": "समास_404581"
+  },
+  {
+    "q": "'माता-पिता' समास -",
+    "options": [
+      "द्वंद्व",
+      "तत्पुरुष",
+      "द्विगु",
+      "बहुव्रीहि"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "समास_201366"
+  },
+  {
+    "q": "'माता-पिता' समास -",
+    "options": [
+      "तत्पुरुष",
+      "द्वंद्व",
+      "द्विगु",
+      "बहुव्रीहि"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "समास_201366_v1",
+    "variant_of": "समास_201366"
+  },
+  {
+    "q": "'माता-पिता' समास -",
+    "options": [
+      "द्वंद्व",
+      "तत्पुरुष",
+      "बहुव्रीहि",
+      "द्विगु"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "समास_201366_v2",
+    "variant_of": "समास_201366"
+  },
+  {
+    "q": "'अनपढ़' उपसर्ग -",
+    "options": [
+      "पढ़",
+      "अन",
+      "अन्",
+      "अ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "उपसर्ग_490731"
+  },
+  {
+    "q": "'अनपढ़' उपसर्ग -",
+    "options": [
+      "अन",
+      "अन्",
+      "अ",
+      "पढ़"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "उपसर्ग_490731_v1",
+    "variant_of": "उपसर्ग_490731"
+  },
+  {
+    "q": "'अनपढ़' उपसर्ग -",
+    "options": [
+      "पढ़",
+      "अन",
+      "अ",
+      "अन्"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "उपसर्ग_490731_v2",
+    "variant_of": "उपसर्ग_490731"
+  },
+  {
+    "q": "'बेईमान' उपसर्ग -",
+    "options": [
+      "बेई",
+      "मान",
+      "बे",
+      "ईमान"
+    ],
+    "answer": 2,
+    "explanation": "उर्दू",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "उपसर्ग_246072"
+  },
+  {
+    "q": "'बेईमान' उपसर्ग -",
+    "options": [
+      "बे",
+      "मान",
+      "बेई",
+      "ईमान"
+    ],
+    "answer": 0,
+    "explanation": "उर्दू",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "उपसर्ग_246072_v1",
+    "variant_of": "उपसर्ग_246072"
+  },
+  {
+    "q": "'बेईमान' उपसर्ग -",
+    "options": [
+      "ईमान",
+      "बे",
+      "मान",
+      "बेई"
+    ],
+    "answer": 1,
+    "explanation": "उर्दू",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "उपसर्ग_246072_v2",
+    "variant_of": "उपसर्ग_246072"
+  },
+  {
+    "q": "'सुपुत्र' उपसर्ग -",
+    "options": [
+      "स",
+      "सुप",
+      "सु",
+      "पुत्र"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "उपसर्ग_185555"
+  },
+  {
+    "q": "'सुपुत्र' उपसर्ग -",
+    "options": [
+      "पुत्र",
+      "सु",
+      "स",
+      "सुप"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "उपसर्ग_185555_v1",
+    "variant_of": "उपसर्ग_185555"
+  },
+  {
+    "q": "'सुपुत्र' उपसर्ग -",
+    "options": [
+      "स",
+      "सु",
+      "पुत्र",
+      "सुप"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "उपसर्ग_185555_v2",
+    "variant_of": "उपसर्ग_185555"
+  },
+  {
+    "q": "'पराजय' उपसर्ग -",
+    "options": [
+      "परा",
+      "जय",
+      "प",
+      "पर"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "उपसर्ग_123302"
+  },
+  {
+    "q": "'पराजय' उपसर्ग -",
+    "options": [
+      "पर",
+      "परा",
+      "प",
+      "जय"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "उपसर्ग_123302_v1",
+    "variant_of": "उपसर्ग_123302"
+  },
+  {
+    "q": "'पराजय' उपसर्ग -",
+    "options": [
+      "पर",
+      "प",
+      "जय",
+      "परा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "उपसर्ग_123302_v2",
+    "variant_of": "उपसर्ग_123302"
+  },
+  {
+    "q": "'पढ़ाई' प्रत्यय -",
+    "options": [
+      "ढ़ाई",
+      "पढ़",
+      "ई",
+      "आई"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "प्रत्यय_622538"
+  },
+  {
+    "q": "'पढ़ाई' प्रत्यय -",
+    "options": [
+      "ई",
+      "आई",
+      "पढ़",
+      "ढ़ाई"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "प्रत्यय_622538_v1",
+    "variant_of": "प्रत्यय_622538"
+  },
+  {
+    "q": "'पढ़ाई' प्रत्यय -",
+    "options": [
+      "ई",
+      "ढ़ाई",
+      "आई",
+      "पढ़"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "प्रत्यय_622538_v2",
+    "variant_of": "प्रत्यय_622538"
+  },
+  {
+    "q": "'मिठास' प्रत्यय -",
+    "options": [
+      "ठास",
+      "आस",
+      "स",
+      "मीठा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "प्रत्यय_432028"
+  },
+  {
+    "q": "'मिठास' प्रत्यय -",
+    "options": [
+      "ठास",
+      "आस",
+      "स",
+      "मीठा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "प्रत्यय_432028_v1",
+    "variant_of": "प्रत्यय_432028"
+  },
+  {
+    "q": "'मिठास' प्रत्यय -",
+    "options": [
+      "मीठा",
+      "स",
+      "आस",
+      "ठास"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "प्रत्यय_432028_v2",
+    "variant_of": "प्रत्यय_432028"
+  },
+  {
+    "q": "'बुद्धिमान' प्रत्यय -",
+    "options": [
+      "आन",
+      "वान",
+      "मान",
+      "बुद्धि"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "प्रत्यय_381339"
+  },
+  {
+    "q": "'बुद्धिमान' प्रत्यय -",
+    "options": [
+      "आन",
+      "मान",
+      "बुद्धि",
+      "वान"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "प्रत्यय_381339_v1",
+    "variant_of": "प्रत्यय_381339"
+  },
+  {
+    "q": "'बुद्धिमान' प्रत्यय -",
+    "options": [
+      "बुद्धि",
+      "आन",
+      "वान",
+      "मान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "प्रत्यय_381339_v2",
+    "variant_of": "प्रत्यय_381339"
+  },
+  {
+    "q": "'सामाजिक' प्रत्यय -",
+    "options": [
+      "इक",
+      "जिक",
+      "क",
+      "समाज"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "प्रत्यय_258066"
+  },
+  {
+    "q": "'सामाजिक' प्रत्यय -",
+    "options": [
+      "समाज",
+      "जिक",
+      "क",
+      "इक"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "प्रत्यय_258066_v1",
+    "variant_of": "प्रत्यय_258066"
+  },
+  {
+    "q": "'सामाजिक' प्रत्यय -",
+    "options": [
+      "इक",
+      "समाज",
+      "जिक",
+      "क"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "प्रत्यय_258066_v2",
+    "variant_of": "प्रत्यय_258066"
+  },
+  {
+    "q": "'विद्यालय' समास -",
+    "options": [
+      "बहुव्रीहि",
+      "अव्ययीभाव",
+      "तत्पुरुष",
+      "द्वंद्व"
+    ],
+    "answer": 2,
+    "explanation": "विद्या का आलय",
+    "topic": "समास",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "समास_89196"
+  },
+  {
+    "q": "'विद्यालय' समास -",
+    "options": [
+      "द्वंद्व",
+      "अव्ययीभाव",
+      "बहुव्रीहि",
+      "तत्पुरुष"
+    ],
+    "answer": 3,
+    "explanation": "विद्या का आलय",
+    "topic": "समास",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "समास_89196_v1",
+    "variant_of": "समास_89196"
+  },
+  {
+    "q": "'विद्यालय' समास -",
+    "options": [
+      "द्वंद्व",
+      "बहुव्रीहि",
+      "अव्ययीभाव",
+      "तत्पुरुष"
+    ],
+    "answer": 3,
+    "explanation": "विद्या का आलय",
+    "topic": "समास",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "समास_89196_v2",
+    "variant_of": "समास_89196"
+  },
+  {
+    "q": "'पंचवटी' समास -",
+    "options": [
+      "बहुव्रीहि",
+      "द्वंद्व",
+      "कर्मधारय",
+      "द्विगु"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "समास_851573"
+  },
+  {
+    "q": "'पंचवटी' समास -",
+    "options": [
+      "कर्मधारय",
+      "बहुव्रीहि",
+      "द्विगु",
+      "द्वंद्व"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "समास_851573_v1",
+    "variant_of": "समास_851573"
+  },
+  {
+    "q": "'पंचवटी' समास -",
+    "options": [
+      "द्विगु",
+      "बहुव्रीहि",
+      "द्वंद्व",
+      "कर्मधारय"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "समास_851573_v2",
+    "variant_of": "समास_851573"
+  },
+  {
+    "q": "'नीलकमल' समास -",
+    "options": [
+      "बहुव्रीहि",
+      "कर्मधारय",
+      "द्विगु",
+      "तत्पुरुष"
+    ],
+    "answer": 1,
+    "explanation": "नीला है जो कमल",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "समास_217395"
+  },
+  {
+    "q": "'नीलकमल' समास -",
+    "options": [
+      "बहुव्रीहि",
+      "तत्पुरुष",
+      "कर्मधारय",
+      "द्विगु"
+    ],
+    "answer": 2,
+    "explanation": "नीला है जो कमल",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "समास_217395_v1",
+    "variant_of": "समास_217395"
+  },
+  {
+    "q": "'नीलकमल' समास -",
+    "options": [
+      "तत्पुरुष",
+      "द्विगु",
+      "कर्मधारय",
+      "बहुव्रीहि"
+    ],
+    "answer": 2,
+    "explanation": "नीला है जो कमल",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "समास_217395_v2",
+    "variant_of": "समास_217395"
+  },
+  {
+    "q": "'दशानन' समास -",
+    "options": [
+      "तत्पुरुष",
+      "बहुव्रीहि",
+      "कर्मधारय",
+      "द्विगु"
+    ],
+    "answer": 1,
+    "explanation": "दस हैं आनन जिसके – रावण",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_20137"
+  },
+  {
+    "q": "'दशानन' समास -",
+    "options": [
+      "तत्पुरुष",
+      "बहुव्रीहि",
+      "कर्मधारय",
+      "द्विगु"
+    ],
+    "answer": 1,
+    "explanation": "दस हैं आनन जिसके – रावण",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_20137_v1",
+    "variant_of": "समास_20137"
+  },
+  {
+    "q": "'दशानन' समास -",
+    "options": [
+      "द्विगु",
+      "बहुव्रीहि",
+      "कर्मधारय",
+      "तत्पुरुष"
+    ],
+    "answer": 1,
+    "explanation": "दस हैं आनन जिसके – रावण",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_20137_v2",
+    "variant_of": "समास_20137"
+  },
+  {
+    "q": "'प्रत्येक' संधि -",
+    "options": [
+      "अयादि",
+      "यण",
+      "गुण",
+      "वृद्धि"
+    ],
+    "answer": 1,
+    "explanation": "प्रति + एक",
+    "topic": "संधि",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "संधि_20077"
+  },
+  {
+    "q": "'प्रत्येक' संधि -",
+    "options": [
+      "गुण",
+      "वृद्धि",
+      "यण",
+      "अयादि"
+    ],
+    "answer": 2,
+    "explanation": "प्रति + एक",
+    "topic": "संधि",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "संधि_20077_v1",
+    "variant_of": "संधि_20077"
+  },
+  {
+    "q": "'प्रत्येक' संधि -",
+    "options": [
+      "यण",
+      "वृद्धि",
+      "अयादि",
+      "गुण"
+    ],
+    "answer": 0,
+    "explanation": "प्रति + एक",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "संधि_20077_v2",
+    "variant_of": "संधि_20077"
+  },
+  {
+    "q": "'सदैव' संधि -",
+    "options": [
+      "गुण",
+      "वृद्धि",
+      "यण",
+      "अयादि"
+    ],
+    "answer": 1,
+    "explanation": "सदा + एव",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "संधि_281955"
+  },
+  {
+    "q": "'सदैव' संधि -",
+    "options": [
+      "गुण",
+      "अयादि",
+      "वृद्धि",
+      "यण"
+    ],
+    "answer": 2,
+    "explanation": "सदा + एव",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "संधि_281955_v1",
+    "variant_of": "संधि_281955"
+  },
+  {
+    "q": "'सदैव' संधि -",
+    "options": [
+      "यण",
+      "गुण",
+      "वृद्धि",
+      "अयादि"
+    ],
+    "answer": 2,
+    "explanation": "सदा + एव",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "संधि_281955_v2",
+    "variant_of": "संधि_281955"
+  },
+  {
+    "q": "'इत्यादि' संधि -",
+    "options": [
+      "यण",
+      "वृद्धि",
+      "दीर्घ",
+      "गुण"
+    ],
+    "answer": 0,
+    "explanation": "इति + आदि",
+    "topic": "संधि",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "संधि_743175"
+  },
+  {
+    "q": "'इत्यादि' संधि -",
+    "options": [
+      "वृद्धि",
+      "गुण",
+      "दीर्घ",
+      "यण"
+    ],
+    "answer": 3,
+    "explanation": "इति + आदि",
+    "topic": "संधि",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "संधि_743175_v1",
+    "variant_of": "संधि_743175"
+  },
+  {
+    "q": "'इत्यादि' संधि -",
+    "options": [
+      "यण",
+      "वृद्धि",
+      "गुण",
+      "दीर्घ"
+    ],
+    "answer": 0,
+    "explanation": "इति + आदि",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "संधि_743175_v2",
+    "variant_of": "संधि_743175"
+  },
+  {
+    "q": "'नमस्ते' संधि -",
+    "options": [
+      "स्वर",
+      "",
+      "व्यंजन",
+      "विसर्ग"
+    ],
+    "answer": 3,
+    "explanation": "नमः + ते",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_270112"
+  },
+  {
+    "q": "'नमस्ते' संधि -",
+    "options": [
+      "",
+      "व्यंजन",
+      "स्वर",
+      "विसर्ग"
+    ],
+    "answer": 3,
+    "explanation": "नमः + ते",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_270112_v1",
+    "variant_of": "संधि_270112"
+  },
+  {
+    "q": "'नमस्ते' संधि -",
+    "options": [
+      "विसर्ग",
+      "",
+      "स्वर",
+      "व्यंजन"
+    ],
+    "answer": 0,
+    "explanation": "नमः + ते",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_270112_v2",
+    "variant_of": "संधि_270112"
+  },
+  {
+    "q": "'दुर्गुण' संधि -",
+    "options": [
+      "विसर्ग",
+      "स्वर",
+      "व्यंजन",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "दुः + गुण – विसर्ग का र्",
+    "topic": "संधि",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "संधि_632118"
+  },
+  {
+    "q": "'दुर्गुण' संधि -",
+    "options": [
+      "स्वर",
+      "व्यंजन",
+      "विसर्ग",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "दुः + गुण – विसर्ग का र्",
+    "topic": "संधि",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "संधि_632118_v1",
+    "variant_of": "संधि_632118"
+  },
+  {
+    "q": "'दुर्गुण' संधि -",
+    "options": [
+      "",
+      "स्वर",
+      "विसर्ग",
+      "व्यंजन"
+    ],
+    "answer": 3,
+    "explanation": "दुः + गुण – विसर्ग का र्",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "संधि_632118_v2",
+    "variant_of": "संधि_632118"
+  },
+  {
+    "q": "'निरोग' संधि -",
+    "options": [
+      "व्यंजन",
+      "",
+      "स्वर",
+      "विसर्ग"
+    ],
+    "answer": 3,
+    "explanation": "निः + रोग",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "संधि_182128"
+  },
+  {
+    "q": "'निरोग' संधि -",
+    "options": [
+      "",
+      "स्वर",
+      "व्यंजन",
+      "विसर्ग"
+    ],
+    "answer": 3,
+    "explanation": "निः + रोग",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "संधि_182128_v1",
+    "variant_of": "संधि_182128"
+  },
+  {
+    "q": "'निरोग' संधि -",
+    "options": [
+      "व्यंजन",
+      "स्वर",
+      "",
+      "विसर्ग"
+    ],
+    "answer": 3,
+    "explanation": "निः + रोग",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "संधि_182128_v2",
+    "variant_of": "संधि_182128"
+  },
+  {
+    "q": "'अत्याचार' संधि -",
+    "options": [
+      "गुण",
+      "वृद्धि",
+      "यण",
+      "दीर्घ"
+    ],
+    "answer": 2,
+    "explanation": "अति + आचार",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_552202"
+  },
+  {
+    "q": "'अत्याचार' संधि -",
+    "options": [
+      "यण",
+      "वृद्धि",
+      "गुण",
+      "दीर्घ"
+    ],
+    "answer": 0,
+    "explanation": "अति + आचार",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_552202_v1",
+    "variant_of": "संधि_552202"
+  },
+  {
+    "q": "'अत्याचार' संधि -",
+    "options": [
+      "गुण",
+      "यण",
+      "वृद्धि",
+      "दीर्घ"
+    ],
+    "answer": 1,
+    "explanation": "अति + आचार",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_552202_v2",
+    "variant_of": "संधि_552202"
+  },
+  {
+    "q": "सूर्योदय में कौन सी संधि है?",
+    "options": [
+      "गुण संधि",
+      "यण संधि",
+      "अयादि",
+      "वृद्धि संधि"
+    ],
+    "answer": 0,
+    "explanation": "सूर्य + उदय",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संधि_604733"
+  },
+  {
+    "q": "सूर्योदय में कौन सी संधि है?",
+    "options": [
+      "वृद्धि संधि",
+      "अयादि",
+      "गुण संधि",
+      "यण संधि"
+    ],
+    "answer": 2,
+    "explanation": "सूर्य + उदय",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संधि_604733_v1",
+    "variant_of": "संधि_604733"
+  },
+  {
+    "q": "सूर्योदय में कौन सी संधि है?",
+    "options": [
+      "गुण संधि",
+      "वृद्धि संधि",
+      "अयादि",
+      "यण संधि"
+    ],
+    "answer": 0,
+    "explanation": "सूर्य + उदय",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संधि_604733_v2",
+    "variant_of": "संधि_604733"
+  },
+  {
+    "q": "'राजपुत्र' में कौन सा समास है?",
+    "options": [
+      "द्वंद्व",
+      "तत्पुरुष",
+      "कर्मधारय",
+      "बहुव्रीहि"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "समास_545918"
+  },
+  {
+    "q": "'राजपुत्र' में कौन सा समास है?",
+    "options": [
+      "तत्पुरुष",
+      "द्वंद्व",
+      "बहुव्रीहि",
+      "कर्मधारय"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "समास_545918_v1",
+    "variant_of": "समास_545918"
+  },
+  {
+    "q": "'राजपुत्र' में कौन सा समास है?",
+    "options": [
+      "द्वंद्व",
+      "बहुव्रीहि",
+      "कर्मधारय",
+      "तत्पुरुष"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_545918_v2",
+    "variant_of": "समास_545918"
+  },
+  {
+    "q": "'नीलकंठ' में समास है -",
+    "options": [
+      "द्विगु",
+      "तत्पुरुष",
+      "अव्ययीभाव",
+      "बहुव्रीहि"
+    ],
+    "answer": 3,
+    "explanation": "नीला है कंठ जिसका – शिव",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "समास_278"
+  },
+  {
+    "q": "'नीलकंठ' में समास है -",
+    "options": [
+      "तत्पुरुष",
+      "द्विगु",
+      "अव्ययीभाव",
+      "बहुव्रीहि"
+    ],
+    "answer": 3,
+    "explanation": "नीला है कंठ जिसका – शिव",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "समास_278_v1",
+    "variant_of": "समास_278"
+  },
+  {
+    "q": "'नीलकंठ' में समास है?",
+    "options": [
+      "द्विगु",
+      "अव्ययीभाव",
+      "तत्पुरुष",
+      "बहुव्रीहि"
+    ],
+    "answer": 3,
+    "explanation": "नीला है कंठ जिसका – शिव",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "समास_278_v2",
+    "variant_of": "समास_278"
+  },
+  {
+    "q": "'प्रति' उपसर्ग से बना शब्द है -",
+    "options": [
+      "दुर्दिन",
+      "निर्दिन",
+      "प्रतिदिन",
+      "सुदिन"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "उपसर्ग_68363"
+  },
+  {
+    "q": "'प्रति' उपसर्ग से बना शब्द है -",
+    "options": [
+      "सुदिन",
+      "प्रतिदिन",
+      "निर्दिन",
+      "दुर्दिन"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "उपसर्ग_68363_v1",
+    "variant_of": "उपसर्ग_68363"
+  },
+  {
+    "q": "'प्रति' उपसर्ग से बना शब्द है?",
+    "options": [
+      "दुर्दिन",
+      "सुदिन",
+      "निर्दिन",
+      "प्रतिदिन"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "उपसर्ग_68363_v2",
+    "variant_of": "उपसर्ग_68363"
+  },
+  {
+    "q": "'लिखावट' में प्रत्यय है -",
+    "options": [
+      "लिख",
+      "ट",
+      "वट",
+      "आवट"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "प्रत्यय_208392"
+  },
+  {
+    "q": "'लिखावट' में प्रत्यय है -",
+    "options": [
+      "आवट",
+      "ट",
+      "वट",
+      "लिख"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "प्रत्यय_208392_v1",
+    "variant_of": "प्रत्यय_208392"
+  },
+  {
+    "q": "'लिखावट' में प्रत्यय है?",
+    "options": [
+      "आवट",
+      "लिख",
+      "ट",
+      "वट"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "प्रत्यय_208392_v2",
+    "variant_of": "प्रत्यय_208392"
+  },
+  {
+    "q": "'रामायण' में संधि है -",
+    "options": [
+      "वृद्धि",
+      "दीर्घ",
+      "गुण",
+      "यण"
+    ],
+    "answer": 0,
+    "explanation": "राम + अयन",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "संधि_291620"
+  },
+  {
+    "q": "'रामायण' में संधि है -",
+    "options": [
+      "गुण",
+      "दीर्घ",
+      "वृद्धि",
+      "यण"
+    ],
+    "answer": 2,
+    "explanation": "राम + अयन",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "संधि_291620_v1",
+    "variant_of": "संधि_291620"
+  },
+  {
+    "q": "'रामायण' में संधि है?",
+    "options": [
+      "दीर्घ",
+      "यण",
+      "वृद्धि",
+      "गुण"
+    ],
+    "answer": 2,
+    "explanation": "राम + अयन",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "संधि_291620_v2",
+    "variant_of": "संधि_291620"
+  },
+  {
+    "q": "'चौराहा' में समास है -",
+    "options": [
+      "बहुव्रीहि",
+      "तत्पुरुष",
+      "द्विगु",
+      "द्वंद्व"
+    ],
+    "answer": 2,
+    "explanation": "चार राहों का समूह",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "समास_327830"
+  },
+  {
+    "q": "'चौराहा' में समास है -",
+    "options": [
+      "बहुव्रीहि",
+      "द्विगु",
+      "द्वंद्व",
+      "तत्पुरुष"
+    ],
+    "answer": 1,
+    "explanation": "चार राहों का समूह",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "समास_327830_v1",
+    "variant_of": "समास_327830"
+  },
+  {
+    "q": "'चौराहा' में समास है?",
+    "options": [
+      "द्विगु",
+      "तत्पुरुष",
+      "बहुव्रीहि",
+      "द्वंद्व"
+    ],
+    "answer": 0,
+    "explanation": "चार राहों का समूह",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "समास_327830_v2",
+    "variant_of": "समास_327830"
+  },
+  {
+    "q": "'अनुज' में उपसर्ग है -",
+    "options": [
+      "ज",
+      "नुज",
+      "अ",
+      "अनु"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "उपसर्ग_604603"
+  },
+  {
+    "q": "'अनुज' में उपसर्ग है -",
+    "options": [
+      "ज",
+      "नुज",
+      "अ",
+      "अनु"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "उपसर्ग_604603_v1",
+    "variant_of": "उपसर्ग_604603"
+  },
+  {
+    "q": "'अनुज' में उपसर्ग है?",
+    "options": [
+      "नुज",
+      "अ",
+      "अनु",
+      "ज"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "उपसर्ग",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "उपसर्ग_604603_v2",
+    "variant_of": "उपसर्ग_604603"
+  },
+  {
+    "q": "'सुंदरता' में प्रत्यय है -",
+    "options": [
+      "दरता",
+      "ता",
+      "रता",
+      "अता"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "प्रत्यय_382804"
+  },
+  {
+    "q": "'सुंदरता' में प्रत्यय है -",
+    "options": [
+      "ता",
+      "अता",
+      "रता",
+      "दरता"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "प्रत्यय_382804_v1",
+    "variant_of": "प्रत्यय_382804"
+  },
+  {
+    "q": "'सुंदरता' में प्रत्यय है?",
+    "options": [
+      "ता",
+      "रता",
+      "दरता",
+      "अता"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "प्रत्यय",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "प्रत्यय_382804_v2",
+    "variant_of": "प्रत्यय_382804"
+  },
+  {
+    "q": "'महेश' में संधि है -",
+    "options": [
+      "गुण",
+      "यण",
+      "अयादि",
+      "वृद्धि"
+    ],
+    "answer": 0,
+    "explanation": "महा + ईश",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संधि_61835"
+  },
+  {
+    "q": "'महेश' में संधि है -",
+    "options": [
+      "गुण",
+      "अयादि",
+      "वृद्धि",
+      "यण"
+    ],
+    "answer": 0,
+    "explanation": "महा + ईश",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संधि_61835_v1",
+    "variant_of": "संधि_61835"
+  },
+  {
+    "q": "'महेश' में संधि है?",
+    "options": [
+      "वृद्धि",
+      "यण",
+      "गुण",
+      "अयादि"
+    ],
+    "answer": 2,
+    "explanation": "महा + ईश",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संधि_61835_v2",
+    "variant_of": "संधि_61835"
+  },
+  {
+    "q": "'विद्यालय' संधि -",
+    "options": [
+      "वृद्धि",
+      "दीर्घ",
+      "गुण",
+      "यण"
+    ],
+    "answer": 1,
+    "explanation": "विद्या + आलय",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "संधि_674896"
+  },
+  {
+    "q": "'विद्यालय' संधि -",
+    "options": [
+      "वृद्धि",
+      "गुण",
+      "दीर्घ",
+      "यण"
+    ],
+    "answer": 2,
+    "explanation": "विद्या + आलय",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "संधि_674896_v1",
+    "variant_of": "संधि_674896"
+  },
+  {
+    "q": "'विद्यालय' संधि -",
+    "options": [
+      "वृद्धि",
+      "यण",
+      "दीर्घ",
+      "गुण"
+    ],
+    "answer": 2,
+    "explanation": "विद्या + आलय",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "संधि_674896_v2",
+    "variant_of": "संधि_674896"
+  },
+  {
+    "q": "'देवेन्द्र' संधि -",
+    "options": [
+      "वृद्धि",
+      "दीर्घ",
+      "यण",
+      "गुण"
+    ],
+    "answer": 3,
+    "explanation": "देव + इन्द्र = देवेन्द्र",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_650618"
+  },
+  {
+    "q": "'देवेन्द्र' संधि -",
+    "options": [
+      "यण",
+      "दीर्घ",
+      "गुण",
+      "वृद्धि"
+    ],
+    "answer": 2,
+    "explanation": "देव + इन्द्र = देवेन्द्र",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_650618_v1",
+    "variant_of": "संधि_650618"
+  },
+  {
+    "q": "'देवेन्द्र' संधि -",
+    "options": [
+      "गुण",
+      "वृद्धि",
+      "यण",
+      "दीर्घ"
+    ],
+    "answer": 0,
+    "explanation": "देव + इन्द्र = देवेन्द्र",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संधि_650618_v2",
+    "variant_of": "संधि_650618"
+  },
+  {
+    "q": "'पवन' संधि -",
+    "options": [
+      "अयादि",
+      "यण",
+      "वृद्धि",
+      "गुण"
+    ],
+    "answer": 0,
+    "explanation": "पो + अन",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "संधि_178673"
+  },
+  {
+    "q": "'पवन' संधि -",
+    "options": [
+      "वृद्धि",
+      "अयादि",
+      "गुण",
+      "यण"
+    ],
+    "answer": 1,
+    "explanation": "पो + अन",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "संधि_178673_v1",
+    "variant_of": "संधि_178673"
+  },
+  {
+    "q": "'पवन' संधि -",
+    "options": [
+      "अयादि",
+      "वृद्धि",
+      "यण",
+      "गुण"
+    ],
+    "answer": 0,
+    "explanation": "पो + अन",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "संधि_178673_v2",
+    "variant_of": "संधि_178673"
+  },
+  {
+    "q": "'नायक' संधि -",
+    "options": [
+      "अयादि",
+      "वृद्धि",
+      "यण",
+      "गुण"
+    ],
+    "answer": 0,
+    "explanation": "नै + अक",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "संधि_73141"
+  },
+  {
+    "q": "'नायक' संधि -",
+    "options": [
+      "यण",
+      "अयादि",
+      "गुण",
+      "वृद्धि"
+    ],
+    "answer": 1,
+    "explanation": "नै + अक",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "संधि_73141_v1",
+    "variant_of": "संधि_73141"
+  },
+  {
+    "q": "'नायक' संधि -",
+    "options": [
+      "यण",
+      "गुण",
+      "वृद्धि",
+      "अयादि"
+    ],
+    "answer": 3,
+    "explanation": "नै + अक",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "संधि_73141_v2",
+    "variant_of": "संधि_73141"
+  },
+  {
+    "q": "'सज्जन' संधि -",
+    "options": [
+      "विसर्ग",
+      "स्वर",
+      "व्यंजन",
+      "कोई नहीं"
+    ],
+    "answer": 2,
+    "explanation": "सत् + जन",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "संधि_532244"
+  },
+  {
+    "q": "'सज्जन' संधि -",
+    "options": [
+      "विसर्ग",
+      "व्यंजन",
+      "कोई नहीं",
+      "स्वर"
+    ],
+    "answer": 1,
+    "explanation": "सत् + जन",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "संधि_532244_v1",
+    "variant_of": "संधि_532244"
+  },
+  {
+    "q": "'सज्जन' संधि -",
+    "options": [
+      "विसर्ग",
+      "स्वर",
+      "व्यंजन",
+      "कोई नहीं"
+    ],
+    "answer": 2,
+    "explanation": "सत् + जन",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "संधि_532244_v2",
+    "variant_of": "संधि_532244"
+  },
+  {
+    "q": "'जगन्नाथ' संधि -",
+    "options": [
+      "व्यंजन",
+      "",
+      "विसर्ग",
+      "स्वर"
+    ],
+    "answer": 0,
+    "explanation": "जगत् + नाथ",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "संधि_267582"
+  },
+  {
+    "q": "'जगन्नाथ' संधि -",
+    "options": [
+      "",
+      "विसर्ग",
+      "व्यंजन",
+      "स्वर"
+    ],
+    "answer": 2,
+    "explanation": "जगत् + नाथ",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "संधि_267582_v1",
+    "variant_of": "संधि_267582"
+  },
+  {
+    "q": "'जगन्नाथ' संधि -",
+    "options": [
+      "स्वर",
+      "विसर्ग",
+      "व्यंजन",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "जगत् + नाथ",
+    "topic": "संधि",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "संधि_267582_v2",
+    "variant_of": "संधि_267582"
+  },
+  {
+    "q": "'मनोरथ' संधि -",
+    "options": [
+      "व्यंजन",
+      "",
+      "स्वर",
+      "विसर्ग"
+    ],
+    "answer": 3,
+    "explanation": "मनः + रथ",
+    "topic": "संधि",
+    "difficulty": "Easy",
+    "pyq_year": 2013,
+    "id": "संधि_945017"
+  },
+  {
+    "q": "'मनोरथ' संधि -",
+    "options": [
+      "विसर्ग",
+      "",
+      "व्यंजन",
+      "स्वर"
+    ],
+    "answer": 0,
+    "explanation": "मनः + रथ",
+    "topic": "संधि",
+    "difficulty": "Easy",
+    "pyq_year": 2013,
+    "id": "संधि_945017_v1",
+    "variant_of": "संधि_945017"
+  },
+  {
+    "q": "'मनोरथ' संधि -",
+    "options": [
+      "",
+      "स्वर",
+      "व्यंजन",
+      "विसर्ग"
+    ],
+    "answer": 3,
+    "explanation": "मनः + रथ",
+    "topic": "संधि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "संधि_945017_v2",
+    "variant_of": "संधि_945017"
+  },
+  {
+    "q": "'यथाशक्ति' समास -",
+    "options": [
+      "तत्पुरुष",
+      "द्वंद्व",
+      "अव्ययीभाव",
+      "बहुव्रीहि"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_930963"
+  },
+  {
+    "q": "'यथाशक्ति' समास -",
+    "options": [
+      "तत्पुरुष",
+      "अव्ययीभाव",
+      "द्वंद्व",
+      "बहुव्रीहि"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_930963_v1",
+    "variant_of": "समास_930963"
+  },
+  {
+    "q": "'यथाशक्ति' समास -",
+    "options": [
+      "अव्ययीभाव",
+      "बहुव्रीहि",
+      "द्वंद्व",
+      "तत्पुरुष"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "समास_930963_v2",
+    "variant_of": "समास_930963"
+  },
+  {
+    "q": "'त्रिभुज' समास -",
+    "options": [
+      "द्वंद्व",
+      "कर्मधारय",
+      "द्विगु",
+      "तत्पुरुष"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "समास_273465"
+  },
+  {
+    "q": "'त्रिभुज' समास -",
+    "options": [
+      "कर्मधारय",
+      "तत्पुरुष",
+      "द्वंद्व",
+      "द्विगु"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "समास_273465_v1",
+    "variant_of": "समास_273465"
+  },
+  {
+    "q": "'त्रिभुज' समास -",
+    "options": [
+      "कर्मधारय",
+      "तत्पुरुष",
+      "द्वंद्व",
+      "द्विगु"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "समास",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "समास_273465_v2",
+    "variant_of": "समास_273465"
+  }
+]

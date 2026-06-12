@@ -1,0 +1,2822 @@
+[
+  {
+    "q": "हिंदी में कारकों की संख्या मानी जाती है -",
+    "options": [
+      "6",
+      "10",
+      "7",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "कारक_843479"
+  },
+  {
+    "q": "हिंदी में कारकों की संख्या मानी जाती है -",
+    "options": [
+      "7",
+      "6",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "कारक_843479_v1",
+    "variant_of": "कारक_843479"
+  },
+  {
+    "q": "हिंदी में कारकों की संख्या मानी जाती है?",
+    "options": [
+      "6",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "कारक_843479_v2",
+    "variant_of": "कारक_843479"
+  },
+  {
+    "q": "'ने' किस कारक का चिह्न है?",
+    "options": [
+      "करण",
+      "कर्ता",
+      "कर्म",
+      "संप्रदान"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "कारक_781813"
+  },
+  {
+    "q": "'ने' किस कारक का चिह्न है?",
+    "options": [
+      "कर्ता",
+      "करण",
+      "संप्रदान",
+      "कर्म"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "कारक_781813_v1",
+    "variant_of": "कारक_781813"
+  },
+  {
+    "q": "'ने' किस कारक का चिह्न है?",
+    "options": [
+      "करण",
+      "संप्रदान",
+      "कर्म",
+      "कर्ता"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "कारक_781813_v2",
+    "variant_of": "कारक_781813"
+  },
+  {
+    "q": "'को' चिह्न है -",
+    "options": [
+      "कर्ता",
+      "अपादान",
+      "कर्म / संप्रदान",
+      "करण"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_171598"
+  },
+  {
+    "q": "'को' चिह्न है -",
+    "options": [
+      "कर्म / संप्रदान",
+      "करण",
+      "अपादान",
+      "कर्ता"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_171598_v1",
+    "variant_of": "कारक_171598"
+  },
+  {
+    "q": "'को' चिह्न है?",
+    "options": [
+      "करण",
+      "कर्ता",
+      "कर्म / संप्रदान",
+      "अपादान"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_171598_v2",
+    "variant_of": "कारक_171598"
+  },
+  {
+    "q": "भूतकाल के कितने भेद हैं?",
+    "options": [
+      "6",
+      "8",
+      "2",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "काल_294962"
+  },
+  {
+    "q": "भूतकाल के कितने भेद हैं?",
+    "options": [
+      "6",
+      "2",
+      "8",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "काल_294962_v1",
+    "variant_of": "काल_294962"
+  },
+  {
+    "q": "भूतकाल के कितने भेद हैं?",
+    "options": [
+      "3",
+      "2",
+      "8",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "काल_294962_v2",
+    "variant_of": "काल_294962"
+  },
+  {
+    "q": "'लड़का' का बहुवचन है -",
+    "options": [
+      "लड़कों",
+      "लड़के",
+      "लड़कें",
+      "लड़किया"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वचन_332831"
+  },
+  {
+    "q": "'लड़का' का बहुवचन है -",
+    "options": [
+      "लड़कों",
+      "लड़किया",
+      "लड़के",
+      "लड़कें"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वचन_332831_v1",
+    "variant_of": "वचन_332831"
+  },
+  {
+    "q": "'लड़का' का बहुवचन है?",
+    "options": [
+      "लड़किया",
+      "लड़कें",
+      "लड़के",
+      "लड़कों"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वचन_332831_v2",
+    "variant_of": "वचन_332831"
+  },
+  {
+    "q": "नित्य पुल्लिंग शब्द है -",
+    "options": [
+      "खरगोश",
+      "मक्खी",
+      "तितली",
+      "कोयल"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "लिंग_934963"
+  },
+  {
+    "q": "नित्य पुल्लिंग शब्द है -",
+    "options": [
+      "तितली",
+      "मक्खी",
+      "कोयल",
+      "खरगोश"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "लिंग_934963_v1",
+    "variant_of": "लिंग_934963"
+  },
+  {
+    "q": "नित्य पुल्लिंग शब्द है?",
+    "options": [
+      "मक्खी",
+      "कोयल",
+      "तितली",
+      "खरगोश"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "लिंग_934963_v2",
+    "variant_of": "लिंग_934963"
+  },
+  {
+    "q": "'से' चिह्न है -",
+    "options": [
+      "कर्ता",
+      "संबंध",
+      "कर्म",
+      "करण / अपादान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "कारक_2125"
+  },
+  {
+    "q": "'से' चिह्न है -",
+    "options": [
+      "कर्ता",
+      "कर्म",
+      "करण / अपादान",
+      "संबंध"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "कारक_2125_v1",
+    "variant_of": "कारक_2125"
+  },
+  {
+    "q": "'से' चिह्न है?",
+    "options": [
+      "कर्ता",
+      "कर्म",
+      "करण / अपादान",
+      "संबंध"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_2125_v2",
+    "variant_of": "कारक_2125"
+  },
+  {
+    "q": "'के लिए' चिह्न -",
+    "options": [
+      "कर्म",
+      "अपादान",
+      "करण",
+      "संप्रदान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_875936"
+  },
+  {
+    "q": "'के लिए' चिह्न -",
+    "options": [
+      "संप्रदान",
+      "अपादान",
+      "कर्म",
+      "करण"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_875936_v1",
+    "variant_of": "कारक_875936"
+  },
+  {
+    "q": "'के लिए' चिह्न -",
+    "options": [
+      "कर्म",
+      "करण",
+      "अपादान",
+      "संप्रदान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_875936_v2",
+    "variant_of": "कारक_875936"
+  },
+  {
+    "q": "'का, के, की' चिह्न -",
+    "options": [
+      "संबंध",
+      "करण",
+      "कर्ता",
+      "कर्म"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_288055"
+  },
+  {
+    "q": "'का, के, की' चिह्न -",
+    "options": [
+      "संबंध",
+      "कर्ता",
+      "कर्म",
+      "करण"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_288055_v1",
+    "variant_of": "कारक_288055"
+  },
+  {
+    "q": "'का, के, की' चिह्न -",
+    "options": [
+      "करण",
+      "कर्ता",
+      "संबंध",
+      "कर्म"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_288055_v2",
+    "variant_of": "कारक_288055"
+  },
+  {
+    "q": "'में, पर' चिह्न -",
+    "options": [
+      "संप्रदान",
+      "अपादान",
+      "अधिकरण",
+      "संबंध"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_825160"
+  },
+  {
+    "q": "'में, पर' चिह्न -",
+    "options": [
+      "संबंध",
+      "संप्रदान",
+      "अपादान",
+      "अधिकरण"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_825160_v1",
+    "variant_of": "कारक_825160"
+  },
+  {
+    "q": "'में, पर' चिह्न -",
+    "options": [
+      "अपादान",
+      "अधिकरण",
+      "संबंध",
+      "संप्रदान"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_825160_v2",
+    "variant_of": "कारक_825160"
+  },
+  {
+    "q": "'हे, अरे' चिह्न -",
+    "options": [
+      "करण",
+      "कर्म",
+      "कर्ता",
+      "संबोधन"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "कारक_204297"
+  },
+  {
+    "q": "'हे, अरे' चिह्न -",
+    "options": [
+      "कर्म",
+      "करण",
+      "संबोधन",
+      "कर्ता"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "कारक_204297_v1",
+    "variant_of": "कारक_204297"
+  },
+  {
+    "q": "'हे, अरे' चिह्न -",
+    "options": [
+      "कर्ता",
+      "कर्म",
+      "संबोधन",
+      "करण"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_204297_v2",
+    "variant_of": "कारक_204297"
+  },
+  {
+    "q": "पुल्लिंग शब्द -",
+    "options": [
+      "पुस्तक? स्त्रीलिंग",
+      "माता",
+      "नदी",
+      "पुस्तक"
+    ],
+    "answer": 3,
+    "explanation": "पुस्तक स्त्रीलिंग है – trick Q, सही उत्तर फिर भी पुस्तक नहीं",
+    "topic": "लिंग",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "लिंग_232479"
+  },
+  {
+    "q": "पुल्लिंग शब्द -",
+    "options": [
+      "माता",
+      "पुस्तक",
+      "नदी",
+      "पुस्तक? स्त्रीलिंग"
+    ],
+    "answer": 1,
+    "explanation": "पुस्तक स्त्रीलिंग है – trick Q, सही उत्तर फिर भी पुस्तक नहीं",
+    "topic": "लिंग",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "लिंग_232479_v1",
+    "variant_of": "लिंग_232479"
+  },
+  {
+    "q": "पुल्लिंग शब्द -",
+    "options": [
+      "माता",
+      "नदी",
+      "पुस्तक? स्त्रीलिंग",
+      "पुस्तक"
+    ],
+    "answer": 3,
+    "explanation": "पुस्तक स्त्रीलिंग है – trick Q, सही उत्तर फिर भी पुस्तक नहीं",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिंग_232479_v2",
+    "variant_of": "लिंग_232479"
+  },
+  {
+    "q": "स्त्रीलिंग शब्द -",
+    "options": [
+      "नदी",
+      "पेड़",
+      "पर्वत",
+      "आकाश"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिंग_261869"
+  },
+  {
+    "q": "स्त्रीलिंग शब्द -",
+    "options": [
+      "पेड़",
+      "पर्वत",
+      "नदी",
+      "आकाश"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिंग_261869_v1",
+    "variant_of": "लिंग_261869"
+  },
+  {
+    "q": "स्त्रीलिंग शब्द -",
+    "options": [
+      "आकाश",
+      "पर्वत",
+      "पेड़",
+      "नदी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "लिंग_261869_v2",
+    "variant_of": "लिंग_261869"
+  },
+  {
+    "q": "नित्य स्त्रीलिंग -",
+    "options": [
+      "मक्खी",
+      "तोता",
+      "खरगोश",
+      "कौआ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिंग_621958"
+  },
+  {
+    "q": "नित्य स्त्रीलिंग -",
+    "options": [
+      "मक्खी",
+      "तोता",
+      "कौआ",
+      "खरगोश"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिंग_621958_v1",
+    "variant_of": "लिंग_621958"
+  },
+  {
+    "q": "नित्य स्त्रीलिंग -",
+    "options": [
+      "तोता",
+      "मक्खी",
+      "खरगोश",
+      "कौआ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिंग_621958_v2",
+    "variant_of": "लिंग_621958"
+  },
+  {
+    "q": "एकवचन - बहुवचन शुद्ध -",
+    "options": [
+      "लड़का-लड़कों",
+      "कोई नहीं",
+      "दोनों सही",
+      "लड़का-लड़के"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वचन_915400"
+  },
+  {
+    "q": "एकवचन - बहुवचन शुद्ध -",
+    "options": [
+      "दोनों सही",
+      "कोई नहीं",
+      "लड़का-लड़के",
+      "लड़का-लड़कों"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वचन_915400_v1",
+    "variant_of": "वचन_915400"
+  },
+  {
+    "q": "एकवचन - बहुवचन शुद्ध -",
+    "options": [
+      "दोनों सही",
+      "कोई नहीं",
+      "लड़का-लड़कों",
+      "लड़का-लड़के"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वचन_915400_v2",
+    "variant_of": "वचन_915400"
+  },
+  {
+    "q": "वचन के भेद -",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "एकवचन, बहुवचन",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वचन_351761"
+  },
+  {
+    "q": "वचन के भेद -",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "एकवचन, बहुवचन",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वचन_351761_v1",
+    "variant_of": "वचन_351761"
+  },
+  {
+    "q": "वचन के भेद -",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "एकवचन, बहुवचन",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वचन_351761_v2",
+    "variant_of": "वचन_351761"
+  },
+  {
+    "q": "वर्तमान काल के भेद -",
+    "options": [
+      "1",
+      "6",
+      "2",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "काल_197820"
+  },
+  {
+    "q": "वर्तमान काल के भेद -",
+    "options": [
+      "6",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "काल_197820_v1",
+    "variant_of": "काल_197820"
+  },
+  {
+    "q": "वर्तमान काल के भेद -",
+    "options": [
+      "2",
+      "6",
+      "3",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "काल_197820_v2",
+    "variant_of": "काल_197820"
+  },
+  {
+    "q": "भविष्यत काल के भेद -",
+    "options": [
+      "1",
+      "2",
+      "6",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "काल_995193"
+  },
+  {
+    "q": "भविष्यत काल के भेद -",
+    "options": [
+      "6",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "काल_995193_v1",
+    "variant_of": "काल_995193"
+  },
+  {
+    "q": "भविष्यत काल के भेद -",
+    "options": [
+      "3",
+      "6",
+      "2",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "काल_995193_v2",
+    "variant_of": "काल_995193"
+  },
+  {
+    "q": "'मैं खाता हूँ' काल -",
+    "options": [
+      "संदिग्ध",
+      "वर्तमान",
+      "भूत",
+      "भविष्य"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_850273"
+  },
+  {
+    "q": "'मैं खाता हूँ' काल -",
+    "options": [
+      "भविष्य",
+      "संदिग्ध",
+      "वर्तमान",
+      "भूत"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_850273_v1",
+    "variant_of": "काल_850273"
+  },
+  {
+    "q": "'मैं खाता हूँ' काल -",
+    "options": [
+      "भविष्य",
+      "भूत",
+      "संदिग्ध",
+      "वर्तमान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_850273_v2",
+    "variant_of": "काल_850273"
+  },
+  {
+    "q": "'मैं खा रहा था' -",
+    "options": [
+      "हेतुहेतुमद्",
+      "आसन्न भूत",
+      "अपूर्ण भूत",
+      "सामान्य भूत"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_539158"
+  },
+  {
+    "q": "'मैं खा रहा था' -",
+    "options": [
+      "अपूर्ण भूत",
+      "हेतुहेतुमद्",
+      "आसन्न भूत",
+      "सामान्य भूत"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_539158_v1",
+    "variant_of": "काल_539158"
+  },
+  {
+    "q": "'मैं खा रहा था' -",
+    "options": [
+      "अपूर्ण भूत",
+      "आसन्न भूत",
+      "सामान्य भूत",
+      "हेतुहेतुमद्"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_539158_v2",
+    "variant_of": "काल_539158"
+  },
+  {
+    "q": "सामान्य वर्तमान -",
+    "options": [
+      "वह जाता है",
+      "वह जाएगा",
+      "वह गया",
+      "वह जा रहा है"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "काल_709668"
+  },
+  {
+    "q": "सामान्य वर्तमान -",
+    "options": [
+      "वह जाएगा",
+      "वह जाता है",
+      "वह गया",
+      "वह जा रहा है"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "काल_709668_v1",
+    "variant_of": "काल_709668"
+  },
+  {
+    "q": "सामान्य वर्तमान -",
+    "options": [
+      "वह जा रहा है",
+      "वह गया",
+      "वह जाता है",
+      "वह जाएगा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "काल_709668_v2",
+    "variant_of": "काल_709668"
+  },
+  {
+    "q": "संदिग्ध वर्तमान -",
+    "options": [
+      "वह जाएगा",
+      "वह जाता है",
+      "वह जाता होगा",
+      "वह गया"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "काल_640308"
+  },
+  {
+    "q": "संदिग्ध वर्तमान -",
+    "options": [
+      "वह जाता होगा",
+      "वह जाएगा",
+      "वह गया",
+      "वह जाता है"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "काल_640308_v1",
+    "variant_of": "काल_640308"
+  },
+  {
+    "q": "संदिग्ध वर्तमान -",
+    "options": [
+      "वह जाता होगा",
+      "वह जाएगा",
+      "वह गया",
+      "वह जाता है"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "काल_640308_v2",
+    "variant_of": "काल_640308"
+  },
+  {
+    "q": "कारक चिह्नों को कहते हैं -",
+    "options": [
+      "विकरण",
+      "उपसर्ग",
+      "प्रत्यय",
+      "परसर्ग"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "कारक_476187"
+  },
+  {
+    "q": "कारक चिह्नों को कहते हैं -",
+    "options": [
+      "प्रत्यय",
+      "परसर्ग",
+      "उपसर्ग",
+      "विकरण"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "कारक_476187_v1",
+    "variant_of": "कारक_476187"
+  },
+  {
+    "q": "कारक चिह्नों को कहते हैं -",
+    "options": [
+      "परसर्ग",
+      "विकरण",
+      "प्रत्यय",
+      "उपसर्ग"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "कारक_476187_v2",
+    "variant_of": "कारक_476187"
+  },
+  {
+    "q": "'राम ने' में कारक -",
+    "options": [
+      "कर्ता",
+      "करण",
+      "संप्रदान",
+      "कर्म"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": 2013,
+    "id": "कारक_740817"
+  },
+  {
+    "q": "'राम ने' में कारक -",
+    "options": [
+      "संप्रदान",
+      "करण",
+      "कर्ता",
+      "कर्म"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": 2013,
+    "id": "कारक_740817_v1",
+    "variant_of": "कारक_740817"
+  },
+  {
+    "q": "'राम ने' में कारक -",
+    "options": [
+      "कर्ता",
+      "संप्रदान",
+      "करण",
+      "कर्म"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "कारक_740817_v2",
+    "variant_of": "कारक_740817"
+  },
+  {
+    "q": "'पेड़ से पत्ता गिरा' कारक -",
+    "options": [
+      "करण",
+      "संप्रदान",
+      "अपादान",
+      "अधिकरण"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "कारक_136453"
+  },
+  {
+    "q": "'पेड़ से पत्ता गिरा' कारक -",
+    "options": [
+      "अधिकरण",
+      "संप्रदान",
+      "करण",
+      "अपादान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "कारक_136453_v1",
+    "variant_of": "कारक_136453"
+  },
+  {
+    "q": "'पेड़ से पत्ता गिरा' कारक -",
+    "options": [
+      "अपादान",
+      "संप्रदान",
+      "करण",
+      "अधिकरण"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "कारक_136453_v2",
+    "variant_of": "कारक_136453"
+  },
+  {
+    "q": "हिंदी में कारकों की संख्या मानी जाती है -",
+    "options": [
+      "10",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "कारक_843479"
+  },
+  {
+    "q": "हिंदी में कारकों की संख्या मानी जाती है -",
+    "options": [
+      "7",
+      "10",
+      "6",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "कारक_843479_v1",
+    "variant_of": "कारक_843479"
+  },
+  {
+    "q": "हिंदी में कारकों की संख्या मानी जाती है?",
+    "options": [
+      "10",
+      "7",
+      "8",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "कारक_843479_v2",
+    "variant_of": "कारक_843479"
+  },
+  {
+    "q": "'ने' किस कारक का चिह्न है?",
+    "options": [
+      "करण",
+      "कर्ता",
+      "कर्म",
+      "संप्रदान"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_781813"
+  },
+  {
+    "q": "'ने' किस कारक का चिह्न है?",
+    "options": [
+      "कर्म",
+      "करण",
+      "संप्रदान",
+      "कर्ता"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_781813_v1",
+    "variant_of": "कारक_781813"
+  },
+  {
+    "q": "'ने' किस कारक का चिह्न है?",
+    "options": [
+      "कर्ता",
+      "करण",
+      "कर्म",
+      "संप्रदान"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_781813_v2",
+    "variant_of": "कारक_781813"
+  },
+  {
+    "q": "'को' चिह्न है -",
+    "options": [
+      "कर्म / संप्रदान",
+      "करण",
+      "कर्ता",
+      "अपादान"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "कारक_171598"
+  },
+  {
+    "q": "'को' चिह्न है -",
+    "options": [
+      "अपादान",
+      "करण",
+      "कर्म / संप्रदान",
+      "कर्ता"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "कारक_171598_v1",
+    "variant_of": "कारक_171598"
+  },
+  {
+    "q": "'को' चिह्न है?",
+    "options": [
+      "करण",
+      "कर्ता",
+      "कर्म / संप्रदान",
+      "अपादान"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "कारक_171598_v2",
+    "variant_of": "कारक_171598"
+  },
+  {
+    "q": "भूतकाल के कितने भेद हैं?",
+    "options": [
+      "8",
+      "3",
+      "6",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_294962"
+  },
+  {
+    "q": "भूतकाल के कितने भेद हैं?",
+    "options": [
+      "2",
+      "6",
+      "8",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_294962_v1",
+    "variant_of": "काल_294962"
+  },
+  {
+    "q": "भूतकाल के कितने भेद हैं?",
+    "options": [
+      "3",
+      "2",
+      "8",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "काल_294962_v2",
+    "variant_of": "काल_294962"
+  },
+  {
+    "q": "'लड़का' का बहुवचन है -",
+    "options": [
+      "लड़किया",
+      "लड़कों",
+      "लड़कें",
+      "लड़के"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वचन_332831"
+  },
+  {
+    "q": "'लड़का' का बहुवचन है -",
+    "options": [
+      "लड़कें",
+      "लड़किया",
+      "लड़के",
+      "लड़कों"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वचन_332831_v1",
+    "variant_of": "वचन_332831"
+  },
+  {
+    "q": "'लड़का' का बहुवचन है?",
+    "options": [
+      "लड़कें",
+      "लड़किया",
+      "लड़के",
+      "लड़कों"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वचन_332831_v2",
+    "variant_of": "वचन_332831"
+  },
+  {
+    "q": "नित्य पुल्लिंग शब्द है -",
+    "options": [
+      "मक्खी",
+      "तितली",
+      "खरगोश",
+      "कोयल"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "लिंग_934963"
+  },
+  {
+    "q": "नित्य पुल्लिंग शब्द है -",
+    "options": [
+      "खरगोश",
+      "कोयल",
+      "तितली",
+      "मक्खी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "लिंग_934963_v1",
+    "variant_of": "लिंग_934963"
+  },
+  {
+    "q": "नित्य पुल्लिंग शब्द है?",
+    "options": [
+      "कोयल",
+      "तितली",
+      "खरगोश",
+      "मक्खी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "लिंग_934963_v2",
+    "variant_of": "लिंग_934963"
+  },
+  {
+    "q": "'से' चिह्न है -",
+    "options": [
+      "संबंध",
+      "कर्ता",
+      "कर्म",
+      "करण / अपादान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "कारक_2125"
+  },
+  {
+    "q": "'से' चिह्न है -",
+    "options": [
+      "करण / अपादान",
+      "कर्ता",
+      "संबंध",
+      "कर्म"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "कारक_2125_v1",
+    "variant_of": "कारक_2125"
+  },
+  {
+    "q": "'से' चिह्न है?",
+    "options": [
+      "कर्ता",
+      "कर्म",
+      "करण / अपादान",
+      "संबंध"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_2125_v2",
+    "variant_of": "कारक_2125"
+  },
+  {
+    "q": "'के लिए' चिह्न -",
+    "options": [
+      "अपादान",
+      "संप्रदान",
+      "कर्म",
+      "करण"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "कारक_875936"
+  },
+  {
+    "q": "'के लिए' चिह्न -",
+    "options": [
+      "कर्म",
+      "अपादान",
+      "करण",
+      "संप्रदान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "कारक_875936_v1",
+    "variant_of": "कारक_875936"
+  },
+  {
+    "q": "'के लिए' चिह्न -",
+    "options": [
+      "अपादान",
+      "संप्रदान",
+      "कर्म",
+      "करण"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "कारक_875936_v2",
+    "variant_of": "कारक_875936"
+  },
+  {
+    "q": "'का, के, की' चिह्न -",
+    "options": [
+      "कर्म",
+      "संबंध",
+      "कर्ता",
+      "करण"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "कारक_288055"
+  },
+  {
+    "q": "'का, के, की' चिह्न -",
+    "options": [
+      "कर्म",
+      "करण",
+      "कर्ता",
+      "संबंध"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "कारक_288055_v1",
+    "variant_of": "कारक_288055"
+  },
+  {
+    "q": "'का, के, की' चिह्न -",
+    "options": [
+      "कर्म",
+      "कर्ता",
+      "करण",
+      "संबंध"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "कारक_288055_v2",
+    "variant_of": "कारक_288055"
+  },
+  {
+    "q": "'में, पर' चिह्न -",
+    "options": [
+      "अधिकरण",
+      "अपादान",
+      "संबंध",
+      "संप्रदान"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_825160"
+  },
+  {
+    "q": "'में, पर' चिह्न -",
+    "options": [
+      "संप्रदान",
+      "अपादान",
+      "संबंध",
+      "अधिकरण"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_825160_v1",
+    "variant_of": "कारक_825160"
+  },
+  {
+    "q": "'में, पर' चिह्न -",
+    "options": [
+      "अपादान",
+      "संबंध",
+      "संप्रदान",
+      "अधिकरण"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_825160_v2",
+    "variant_of": "कारक_825160"
+  },
+  {
+    "q": "'हे, अरे' चिह्न -",
+    "options": [
+      "कर्म",
+      "करण",
+      "कर्ता",
+      "संबोधन"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "कारक_204297"
+  },
+  {
+    "q": "'हे, अरे' चिह्न -",
+    "options": [
+      "कर्ता",
+      "करण",
+      "कर्म",
+      "संबोधन"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "कारक_204297_v1",
+    "variant_of": "कारक_204297"
+  },
+  {
+    "q": "'हे, अरे' चिह्न -",
+    "options": [
+      "करण",
+      "कर्ता",
+      "संबोधन",
+      "कर्म"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "कारक_204297_v2",
+    "variant_of": "कारक_204297"
+  },
+  {
+    "q": "पुल्लिंग शब्द -",
+    "options": [
+      "माता",
+      "पुस्तक? स्त्रीलिंग",
+      "नदी",
+      "पुस्तक"
+    ],
+    "answer": 3,
+    "explanation": "पुस्तक स्त्रीलिंग है – trick Q, सही उत्तर फिर भी पुस्तक नहीं",
+    "topic": "लिंग",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "लिंग_232479"
+  },
+  {
+    "q": "पुल्लिंग शब्द -",
+    "options": [
+      "माता",
+      "पुस्तक",
+      "नदी",
+      "पुस्तक? स्त्रीलिंग"
+    ],
+    "answer": 1,
+    "explanation": "पुस्तक स्त्रीलिंग है – trick Q, सही उत्तर फिर भी पुस्तक नहीं",
+    "topic": "लिंग",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "लिंग_232479_v1",
+    "variant_of": "लिंग_232479"
+  },
+  {
+    "q": "पुल्लिंग शब्द -",
+    "options": [
+      "माता",
+      "पुस्तक? स्त्रीलिंग",
+      "नदी",
+      "पुस्तक"
+    ],
+    "answer": 3,
+    "explanation": "पुस्तक स्त्रीलिंग है – trick Q, सही उत्तर फिर भी पुस्तक नहीं",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिंग_232479_v2",
+    "variant_of": "लिंग_232479"
+  },
+  {
+    "q": "स्त्रीलिंग शब्द -",
+    "options": [
+      "पेड़",
+      "आकाश",
+      "नदी",
+      "पर्वत"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "लिंग_261869"
+  },
+  {
+    "q": "स्त्रीलिंग शब्द -",
+    "options": [
+      "आकाश",
+      "पर्वत",
+      "पेड़",
+      "नदी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "लिंग_261869_v1",
+    "variant_of": "लिंग_261869"
+  },
+  {
+    "q": "स्त्रीलिंग शब्द -",
+    "options": [
+      "पेड़",
+      "नदी",
+      "आकाश",
+      "पर्वत"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "लिंग_261869_v2",
+    "variant_of": "लिंग_261869"
+  },
+  {
+    "q": "नित्य स्त्रीलिंग -",
+    "options": [
+      "मक्खी",
+      "खरगोश",
+      "तोता",
+      "कौआ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "लिंग_621958"
+  },
+  {
+    "q": "नित्य स्त्रीलिंग -",
+    "options": [
+      "खरगोश",
+      "तोता",
+      "कौआ",
+      "मक्खी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "लिंग_621958_v1",
+    "variant_of": "लिंग_621958"
+  },
+  {
+    "q": "नित्य स्त्रीलिंग -",
+    "options": [
+      "खरगोश",
+      "कौआ",
+      "मक्खी",
+      "तोता"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "लिंग_621958_v2",
+    "variant_of": "लिंग_621958"
+  },
+  {
+    "q": "एकवचन - बहुवचन शुद्ध -",
+    "options": [
+      "लड़का-लड़के",
+      "दोनों सही",
+      "कोई नहीं",
+      "लड़का-लड़कों"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वचन_915400"
+  },
+  {
+    "q": "एकवचन - बहुवचन शुद्ध -",
+    "options": [
+      "कोई नहीं",
+      "दोनों सही",
+      "लड़का-लड़के",
+      "लड़का-लड़कों"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वचन_915400_v1",
+    "variant_of": "वचन_915400"
+  },
+  {
+    "q": "एकवचन - बहुवचन शुद्ध -",
+    "options": [
+      "लड़का-लड़कों",
+      "दोनों सही",
+      "कोई नहीं",
+      "लड़का-लड़के"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वचन_915400_v2",
+    "variant_of": "वचन_915400"
+  },
+  {
+    "q": "वचन के भेद -",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "एकवचन, बहुवचन",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वचन_351761"
+  },
+  {
+    "q": "वचन के भेद -",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "एकवचन, बहुवचन",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वचन_351761_v1",
+    "variant_of": "वचन_351761"
+  },
+  {
+    "q": "वचन के भेद -",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "एकवचन, बहुवचन",
+    "topic": "वचन",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वचन_351761_v2",
+    "variant_of": "वचन_351761"
+  },
+  {
+    "q": "वर्तमान काल के भेद -",
+    "options": [
+      "1",
+      "3",
+      "6",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "काल_197820"
+  },
+  {
+    "q": "वर्तमान काल के भेद -",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "काल_197820_v1",
+    "variant_of": "काल_197820"
+  },
+  {
+    "q": "वर्तमान काल के भेद -",
+    "options": [
+      "6",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "काल_197820_v2",
+    "variant_of": "काल_197820"
+  },
+  {
+    "q": "भविष्यत काल के भेद -",
+    "options": [
+      "1",
+      "2",
+      "6",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "काल_995193"
+  },
+  {
+    "q": "भविष्यत काल के भेद -",
+    "options": [
+      "6",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "काल_995193_v1",
+    "variant_of": "काल_995193"
+  },
+  {
+    "q": "भविष्यत काल के भेद -",
+    "options": [
+      "2",
+      "6",
+      "3",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "काल_995193_v2",
+    "variant_of": "काल_995193"
+  },
+  {
+    "q": "'मैं खाता हूँ' काल -",
+    "options": [
+      "भूत",
+      "वर्तमान",
+      "भविष्य",
+      "संदिग्ध"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_850273"
+  },
+  {
+    "q": "'मैं खाता हूँ' काल -",
+    "options": [
+      "भविष्य",
+      "संदिग्ध",
+      "भूत",
+      "वर्तमान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_850273_v1",
+    "variant_of": "काल_850273"
+  },
+  {
+    "q": "'मैं खाता हूँ' काल -",
+    "options": [
+      "वर्तमान",
+      "भविष्य",
+      "संदिग्ध",
+      "भूत"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_850273_v2",
+    "variant_of": "काल_850273"
+  },
+  {
+    "q": "'मैं खा रहा था' -",
+    "options": [
+      "हेतुहेतुमद्",
+      "अपूर्ण भूत",
+      "सामान्य भूत",
+      "आसन्न भूत"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_539158"
+  },
+  {
+    "q": "'मैं खा रहा था' -",
+    "options": [
+      "सामान्य भूत",
+      "आसन्न भूत",
+      "अपूर्ण भूत",
+      "हेतुहेतुमद्"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_539158_v1",
+    "variant_of": "काल_539158"
+  },
+  {
+    "q": "'मैं खा रहा था' -",
+    "options": [
+      "सामान्य भूत",
+      "आसन्न भूत",
+      "अपूर्ण भूत",
+      "हेतुहेतुमद्"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_539158_v2",
+    "variant_of": "काल_539158"
+  },
+  {
+    "q": "सामान्य वर्तमान -",
+    "options": [
+      "वह गया",
+      "वह जाएगा",
+      "वह जाता है",
+      "वह जा रहा है"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "काल_709668"
+  },
+  {
+    "q": "सामान्य वर्तमान -",
+    "options": [
+      "वह जाएगा",
+      "वह जा रहा है",
+      "वह जाता है",
+      "वह गया"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "काल_709668_v1",
+    "variant_of": "काल_709668"
+  },
+  {
+    "q": "सामान्य वर्तमान -",
+    "options": [
+      "वह जाएगा",
+      "वह जा रहा है",
+      "वह गया",
+      "वह जाता है"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "काल_709668_v2",
+    "variant_of": "काल_709668"
+  },
+  {
+    "q": "संदिग्ध वर्तमान -",
+    "options": [
+      "वह जाता होगा",
+      "वह गया",
+      "वह जाता है",
+      "वह जाएगा"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "काल_640308"
+  },
+  {
+    "q": "संदिग्ध वर्तमान -",
+    "options": [
+      "वह जाता होगा",
+      "वह जाएगा",
+      "वह जाता है",
+      "वह गया"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "काल_640308_v1",
+    "variant_of": "काल_640308"
+  },
+  {
+    "q": "संदिग्ध वर्तमान -",
+    "options": [
+      "वह जाता है",
+      "वह गया",
+      "वह जाएगा",
+      "वह जाता होगा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "काल_640308_v2",
+    "variant_of": "काल_640308"
+  },
+  {
+    "q": "कारक चिह्नों को कहते हैं -",
+    "options": [
+      "परसर्ग",
+      "विकरण",
+      "उपसर्ग",
+      "प्रत्यय"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_476187"
+  },
+  {
+    "q": "कारक चिह्नों को कहते हैं -",
+    "options": [
+      "विकरण",
+      "प्रत्यय",
+      "उपसर्ग",
+      "परसर्ग"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_476187_v1",
+    "variant_of": "कारक_476187"
+  },
+  {
+    "q": "कारक चिह्नों को कहते हैं -",
+    "options": [
+      "प्रत्यय",
+      "उपसर्ग",
+      "परसर्ग",
+      "विकरण"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_476187_v2",
+    "variant_of": "कारक_476187"
+  },
+  {
+    "q": "'राम ने' में कारक -",
+    "options": [
+      "कर्म",
+      "कर्ता",
+      "करण",
+      "संप्रदान"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "कारक_740817"
+  },
+  {
+    "q": "'राम ने' में कारक -",
+    "options": [
+      "कर्म",
+      "करण",
+      "संप्रदान",
+      "कर्ता"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "कारक_740817_v1",
+    "variant_of": "कारक_740817"
+  },
+  {
+    "q": "'राम ने' में कारक -",
+    "options": [
+      "करण",
+      "कर्म",
+      "कर्ता",
+      "संप्रदान"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "कारक_740817_v2",
+    "variant_of": "कारक_740817"
+  },
+  {
+    "q": "'पेड़ से पत्ता गिरा' कारक -",
+    "options": [
+      "अपादान",
+      "अधिकरण",
+      "करण",
+      "संप्रदान"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "कारक_136453"
+  },
+  {
+    "q": "'पेड़ से पत्ता गिरा' कारक -",
+    "options": [
+      "संप्रदान",
+      "करण",
+      "अधिकरण",
+      "अपादान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "कारक_136453_v1",
+    "variant_of": "कारक_136453"
+  },
+  {
+    "q": "'पेड़ से पत्ता गिरा' कारक -",
+    "options": [
+      "अपादान",
+      "करण",
+      "संप्रदान",
+      "अधिकरण"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "कारक_136453_v2",
+    "variant_of": "कारक_136453"
+  },
+  {
+    "q": "हिंदी में कारकों की संख्या मानी जाती है -",
+    "options": [
+      "6",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "कारक_843479"
+  },
+  {
+    "q": "हिंदी में कारकों की संख्या मानी जाती है -",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "कारक_843479_v1",
+    "variant_of": "कारक_843479"
+  },
+  {
+    "q": "हिंदी में कारकों की संख्या मानी जाती है?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "कारक_843479_v2",
+    "variant_of": "कारक_843479"
+  },
+  {
+    "q": "'ने' किस कारक का चिह्न है?",
+    "options": [
+      "करण",
+      "कर्म",
+      "संप्रदान",
+      "कर्ता"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_781813"
+  },
+  {
+    "q": "'ने' किस कारक का चिह्न है?",
+    "options": [
+      "करण",
+      "कर्ता",
+      "संप्रदान",
+      "कर्म"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_781813_v1",
+    "variant_of": "कारक_781813"
+  },
+  {
+    "q": "'ने' किस कारक का चिह्न है?",
+    "options": [
+      "करण",
+      "कर्ता",
+      "कर्म",
+      "संप्रदान"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "कारक_781813_v2",
+    "variant_of": "कारक_781813"
+  },
+  {
+    "q": "'को' चिह्न है -",
+    "options": [
+      "कर्म / संप्रदान",
+      "करण",
+      "अपादान",
+      "कर्ता"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "कारक_171598"
+  },
+  {
+    "q": "'को' चिह्न है -",
+    "options": [
+      "अपादान",
+      "करण",
+      "कर्म / संप्रदान",
+      "कर्ता"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "कारक_171598_v1",
+    "variant_of": "कारक_171598"
+  },
+  {
+    "q": "'को' चिह्न है?",
+    "options": [
+      "करण",
+      "अपादान",
+      "कर्म / संप्रदान",
+      "कर्ता"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "कारक_171598_v2",
+    "variant_of": "कारक_171598"
+  },
+  {
+    "q": "भूतकाल के कितने भेद हैं?",
+    "options": [
+      "2",
+      "6",
+      "3",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "काल_294962"
+  },
+  {
+    "q": "भूतकाल के कितने भेद हैं?",
+    "options": [
+      "6",
+      "2",
+      "3",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "काल_294962_v1",
+    "variant_of": "काल_294962"
+  },
+  {
+    "q": "भूतकाल के कितने भेद हैं?",
+    "options": [
+      "8",
+      "2",
+      "6",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "काल",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "काल_294962_v2",
+    "variant_of": "काल_294962"
+  },
+  {
+    "q": "'लड़का' का बहुवचन है -",
+    "options": [
+      "लड़किया",
+      "लड़कों",
+      "लड़के",
+      "लड़कें"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वचन_332831"
+  },
+  {
+    "q": "'लड़का' का बहुवचन है -",
+    "options": [
+      "लड़कें",
+      "लड़किया",
+      "लड़कों",
+      "लड़के"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वचन_332831_v1",
+    "variant_of": "वचन_332831"
+  },
+  {
+    "q": "'लड़का' का बहुवचन है?",
+    "options": [
+      "लड़के",
+      "लड़कों",
+      "लड़किया",
+      "लड़कें"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वचन",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वचन_332831_v2",
+    "variant_of": "वचन_332831"
+  },
+  {
+    "q": "नित्य पुल्लिंग शब्द है -",
+    "options": [
+      "तितली",
+      "खरगोश",
+      "कोयल",
+      "मक्खी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "लिंग_934963"
+  },
+  {
+    "q": "नित्य पुल्लिंग शब्द है -",
+    "options": [
+      "कोयल",
+      "मक्खी",
+      "तितली",
+      "खरगोश"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "लिंग_934963_v1",
+    "variant_of": "लिंग_934963"
+  },
+  {
+    "q": "नित्य पुल्लिंग शब्द है?",
+    "options": [
+      "तितली",
+      "कोयल",
+      "मक्खी",
+      "खरगोश"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिंग",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "लिंग_934963_v2",
+    "variant_of": "लिंग_934963"
+  },
+  {
+    "q": "'से' चिह्न है -",
+    "options": [
+      "संबंध",
+      "कर्ता",
+      "करण / अपादान",
+      "कर्म"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "कारक_2125"
+  },
+  {
+    "q": "'से' चिह्न है -",
+    "options": [
+      "संबंध",
+      "करण / अपादान",
+      "कर्ता",
+      "कर्म"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "कारक_2125_v1",
+    "variant_of": "कारक_2125"
+  },
+  {
+    "q": "'से' चिह्न है?",
+    "options": [
+      "संबंध",
+      "कर्म",
+      "कर्ता",
+      "करण / अपादान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_2125_v2",
+    "variant_of": "कारक_2125"
+  },
+  {
+    "q": "'के लिए' चिह्न -",
+    "options": [
+      "कर्म",
+      "संप्रदान",
+      "अपादान",
+      "करण"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_875936"
+  },
+  {
+    "q": "'के लिए' चिह्न -",
+    "options": [
+      "अपादान",
+      "कर्म",
+      "करण",
+      "संप्रदान"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_875936_v1",
+    "variant_of": "कारक_875936"
+  },
+  {
+    "q": "'के लिए' चिह्न -",
+    "options": [
+      "करण",
+      "अपादान",
+      "संप्रदान",
+      "कर्म"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_875936_v2",
+    "variant_of": "कारक_875936"
+  },
+  {
+    "q": "'का, के, की' चिह्न -",
+    "options": [
+      "करण",
+      "कर्ता",
+      "कर्म",
+      "संबंध"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_288055"
+  },
+  {
+    "q": "'का, के, की' चिह्न -",
+    "options": [
+      "कर्म",
+      "करण",
+      "कर्ता",
+      "संबंध"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_288055_v1",
+    "variant_of": "कारक_288055"
+  },
+  {
+    "q": "'का, के, की' चिह्न -",
+    "options": [
+      "करण",
+      "कर्म",
+      "कर्ता",
+      "संबंध"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "कारक_288055_v2",
+    "variant_of": "कारक_288055"
+  },
+  {
+    "q": "'में, पर' चिह्न -",
+    "options": [
+      "संप्रदान",
+      "अधिकरण",
+      "संबंध",
+      "अपादान"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "कारक_825160"
+  },
+  {
+    "q": "'में, पर' चिह्न -",
+    "options": [
+      "अपादान",
+      "अधिकरण",
+      "संप्रदान",
+      "संबंध"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "कारक_825160_v1",
+    "variant_of": "कारक_825160"
+  },
+  {
+    "q": "'में, पर' चिह्न -",
+    "options": [
+      "अधिकरण",
+      "संप्रदान",
+      "अपादान",
+      "संबंध"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "कारक_825160_v2",
+    "variant_of": "कारक_825160"
+  }
+]

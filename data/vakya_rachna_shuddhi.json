@@ -1,0 +1,2822 @@
+[
+  {
+    "q": "शुद्ध वाक्य है -",
+    "options": [
+      "राम पुस्तक पढ़ता हूँ।",
+      "राम पुस्तक पढ़ती है।",
+      "राम पुस्तक पढ़ता है।",
+      "राम पुस्तक पढ़ते है।"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_247885"
+  },
+  {
+    "q": "शुद्ध वाक्य है -",
+    "options": [
+      "राम पुस्तक पढ़ता है।",
+      "राम पुस्तक पढ़ते है।",
+      "राम पुस्तक पढ़ता हूँ।",
+      "राम पुस्तक पढ़ती है।"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_247885_v1",
+    "variant_of": "वाक्य शु_247885"
+  },
+  {
+    "q": "शुद्ध वाक्य है?",
+    "options": [
+      "राम पुस्तक पढ़ता हूँ।",
+      "राम पुस्तक पढ़ते है।",
+      "राम पुस्तक पढ़ता है।",
+      "राम पुस्तक पढ़ती है।"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_247885_v2",
+    "variant_of": "वाक्य शु_247885"
+  },
+  {
+    "q": "'मुझे' के साथ सही क्रिया -",
+    "options": [
+      "मुझे जाता है",
+      "मुझे जाती है",
+      "मुझे जाने हैं",
+      "मुझे जाना है"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_511986"
+  },
+  {
+    "q": "'मुझे' के साथ सही क्रिया -",
+    "options": [
+      "मुझे जाना है",
+      "मुझे जाती है",
+      "मुझे जाने हैं",
+      "मुझे जाता है"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_511986_v1",
+    "variant_of": "वाक्य शु_511986"
+  },
+  {
+    "q": "'मुझे' के साथ सही क्रिया -",
+    "options": [
+      "मुझे जाना है",
+      "मुझे जाने हैं",
+      "मुझे जाता है",
+      "मुझे जाती है"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_511986_v2",
+    "variant_of": "वाक्य शु_511986"
+  },
+  {
+    "q": "अशुद्ध वाक्य छाँटिए -",
+    "options": [
+      "उसने आम खाया",
+      "मैंने पुस्तक पढ़ा",
+      "वे गए",
+      "मैंने पुस्तक पढ़ी"
+    ],
+    "answer": 1,
+    "explanation": "पुस्तक स्त्रीलिंग",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य शु_524109"
+  },
+  {
+    "q": "अशुद्ध वाक्य छाँटिए -",
+    "options": [
+      "मैंने पुस्तक पढ़ा",
+      "वे गए",
+      "मैंने पुस्तक पढ़ी",
+      "उसने आम खाया"
+    ],
+    "answer": 0,
+    "explanation": "पुस्तक स्त्रीलिंग",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य शु_524109_v1",
+    "variant_of": "वाक्य शु_524109"
+  },
+  {
+    "q": "अशुद्ध वाक्य छाँटिए -",
+    "options": [
+      "मैंने पुस्तक पढ़ी",
+      "मैंने पुस्तक पढ़ा",
+      "उसने आम खाया",
+      "वे गए"
+    ],
+    "answer": 1,
+    "explanation": "पुस्तक स्त्रीलिंग",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य शु_524109_v2",
+    "variant_of": "वाक्य शु_524109"
+  },
+  {
+    "q": "वाक्य के कितने अंग होते हैं?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "उद्देश्य, विधेय",
+    "topic": "वाक्य रचना",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य रच_683211"
+  },
+  {
+    "q": "वाक्य के कितने अंग होते हैं?",
+    "options": [
+      "5",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "उद्देश्य, विधेय",
+    "topic": "वाक्य रचना",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य रच_683211_v1",
+    "variant_of": "वाक्य रच_683211"
+  },
+  {
+    "q": "वाक्य के कितने अंग होते हैं?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "उद्देश्य, विधेय",
+    "topic": "वाक्य रचना",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य रच_683211_v2",
+    "variant_of": "वाक्य रच_683211"
+  },
+  {
+    "q": "सरल वाक्य का उदाहरण -",
+    "options": [
+      "यदि राम पढ़ेगा तो पास होगा",
+      "राम पढ़ता है",
+      "राम पढ़ता है और लिखता है",
+      "जो पढ़ेगा वह पास होगा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_651206"
+  },
+  {
+    "q": "सरल वाक्य का उदाहरण -",
+    "options": [
+      "यदि राम पढ़ेगा तो पास होगा",
+      "जो पढ़ेगा वह पास होगा",
+      "राम पढ़ता है और लिखता है",
+      "राम पढ़ता है"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_651206_v1",
+    "variant_of": "वाक्य भे_651206"
+  },
+  {
+    "q": "सरल वाक्य का उदाहरण -",
+    "options": [
+      "यदि राम पढ़ेगा तो पास होगा",
+      "राम पढ़ता है और लिखता है",
+      "राम पढ़ता है",
+      "जो पढ़ेगा वह पास होगा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_651206_v2",
+    "variant_of": "वाक्य भे_651206"
+  },
+  {
+    "q": "संयुक्त वाक्य -",
+    "options": [
+      "राम पढ़ता है",
+      "जो करेगा सो भरेगा",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम पढ़ता है और मोहन लिखता है"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_46799"
+  },
+  {
+    "q": "संयुक्त वाक्य -",
+    "options": [
+      "जो करेगा सो भरेगा",
+      "राम पढ़ता है",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम पढ़ता है और मोहन लिखता है"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_46799_v1",
+    "variant_of": "वाक्य भे_46799"
+  },
+  {
+    "q": "संयुक्त वाक्य -",
+    "options": [
+      "जो करेगा सो भरेगा",
+      "राम पढ़ता है और मोहन लिखता है",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम पढ़ता है"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_46799_v2",
+    "variant_of": "वाक्य भे_46799"
+  },
+  {
+    "q": "मिश्र वाक्य -",
+    "options": [
+      "राम पढ़ता है, श्याम लिखता है",
+      "राम पढ़ता है",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम और श्याम पढ़ते हैं"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_957966"
+  },
+  {
+    "q": "मिश्र वाक्य -",
+    "options": [
+      "राम पढ़ता है",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम और श्याम पढ़ते हैं",
+      "राम पढ़ता है, श्याम लिखता है"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_957966_v1",
+    "variant_of": "वाक्य भे_957966"
+  },
+  {
+    "q": "मिश्र वाक्य -",
+    "options": [
+      "राम और श्याम पढ़ते हैं",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम पढ़ता है, श्याम लिखता है",
+      "राम पढ़ता है"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_957966_v2",
+    "variant_of": "वाक्य भे_957966"
+  },
+  {
+    "q": "अशुद्ध –",
+    "options": [
+      "भवदीय",
+      "आपका",
+      "आपका भवदीय",
+      "भवदीया"
+    ],
+    "answer": 2,
+    "explanation": "आपका भवदीय – पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वाक्य शु_172999"
+  },
+  {
+    "q": "अशुद्ध –",
+    "options": [
+      "भवदीया",
+      "आपका भवदीय",
+      "आपका",
+      "भवदीय"
+    ],
+    "answer": 1,
+    "explanation": "आपका भवदीय – पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वाक्य शु_172999_v1",
+    "variant_of": "वाक्य शु_172999"
+  },
+  {
+    "q": "अशुद्ध –",
+    "options": [
+      "भवदीय",
+      "भवदीया",
+      "आपका",
+      "आपका भवदीय"
+    ],
+    "answer": 3,
+    "explanation": "आपका भवदीय – पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वाक्य शु_172999_v2",
+    "variant_of": "वाक्य शु_172999"
+  },
+  {
+    "q": "शुद्ध –",
+    "options": [
+      "मुझको पुस्तक चाहिए – चलता है पर मानक 'मुझे'",
+      "मुझे पुस्तक चाहिए",
+      "मेरे को पुस्तक चाहिए",
+      "मुझ पुस्तक चाहिए"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_949479"
+  },
+  {
+    "q": "शुद्ध –",
+    "options": [
+      "मेरे को पुस्तक चाहिए",
+      "मुझ पुस्तक चाहिए",
+      "मुझको पुस्तक चाहिए – चलता है पर मानक 'मुझे'",
+      "मुझे पुस्तक चाहिए"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_949479_v1",
+    "variant_of": "वाक्य शु_949479"
+  },
+  {
+    "q": "शुद्ध –",
+    "options": [
+      "मेरे को पुस्तक चाहिए",
+      "मुझे पुस्तक चाहिए",
+      "मुझको पुस्तक चाहिए – चलता है पर मानक 'मुझे'",
+      "मुझ पुस्तक चाहिए"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_949479_v2",
+    "variant_of": "वाक्य शु_949479"
+  },
+  {
+    "q": "पदक्रम सही है -",
+    "options": [
+      "मारा राम ने रावण को",
+      "राम ने रावण को मारा",
+      "राम रावण को ने मारा",
+      "रावण राम ने को मारा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_420435"
+  },
+  {
+    "q": "पदक्रम सही है -",
+    "options": [
+      "रावण राम ने को मारा",
+      "राम ने रावण को मारा",
+      "राम रावण को ने मारा",
+      "मारा राम ने रावण को"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_420435_v1",
+    "variant_of": "वाक्य शु_420435"
+  },
+  {
+    "q": "पदक्रम सही है?",
+    "options": [
+      "राम ने रावण को मारा",
+      "रावण राम ने को मारा",
+      "मारा राम ने रावण को",
+      "राम रावण को ने मारा"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_420435_v2",
+    "variant_of": "वाक्य शु_420435"
+  },
+  {
+    "q": "अशुद्ध वाक्य -",
+    "options": [
+      "मैंने जाना है",
+      "वह जाता है",
+      "वे गए",
+      "मुझे जाना है"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_135142"
+  },
+  {
+    "q": "अशुद्ध वाक्य -",
+    "options": [
+      "वह जाता है",
+      "वे गए",
+      "मैंने जाना है",
+      "मुझे जाना है"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_135142_v1",
+    "variant_of": "वाक्य शु_135142"
+  },
+  {
+    "q": "अशुद्ध वाक्य -",
+    "options": [
+      "मुझे जाना है",
+      "मैंने जाना है",
+      "वह जाता है",
+      "वे गए"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_135142_v2",
+    "variant_of": "वाक्य शु_135142"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "वे लोग गए",
+      "वे लोग गया",
+      "वह लोग गया",
+      "वह लोग गए"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_458595"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "वे लोग गया",
+      "वह लोग गया",
+      "वह लोग गए",
+      "वे लोग गए"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_458595_v1",
+    "variant_of": "वाक्य शु_458595"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "वह लोग गए",
+      "वह लोग गया",
+      "वे लोग गए",
+      "वे लोग गया"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_458595_v2",
+    "variant_of": "वाक्य शु_458595"
+  },
+  {
+    "q": "'कृपया' के साथ -",
+    "options": [
+      "कृपया बैठिए",
+      "कृपया करके बैठिए",
+      "कृपया कर बैठिए",
+      "सभी"
+    ],
+    "answer": 0,
+    "explanation": "कृपया करके – अशुद्ध, पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वाक्य शु_13486"
+  },
+  {
+    "q": "'कृपया' के साथ -",
+    "options": [
+      "कृपया बैठिए",
+      "कृपया कर बैठिए",
+      "कृपया करके बैठिए",
+      "सभी"
+    ],
+    "answer": 0,
+    "explanation": "कृपया करके – अशुद्ध, पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वाक्य शु_13486_v1",
+    "variant_of": "वाक्य शु_13486"
+  },
+  {
+    "q": "'कृपया' के साथ -",
+    "options": [
+      "कृपया करके बैठिए",
+      "कृपया कर बैठिए",
+      "सभी",
+      "कृपया बैठिए"
+    ],
+    "answer": 3,
+    "explanation": "कृपया करके – अशुद्ध, पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_13486_v2",
+    "variant_of": "वाक्य शु_13486"
+  },
+  {
+    "q": "वाक्य भेद अर्थ के आधार पर -",
+    "options": [
+      "4",
+      "8",
+      "2",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वाक्य भे_245673"
+  },
+  {
+    "q": "वाक्य भेद अर्थ के आधार पर -",
+    "options": [
+      "8",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वाक्य भे_245673_v1",
+    "variant_of": "वाक्य भे_245673"
+  },
+  {
+    "q": "वाक्य भेद अर्थ के आधार पर -",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वाक्य भे_245673_v2",
+    "variant_of": "वाक्य भे_245673"
+  },
+  {
+    "q": "इच्छावाचक वाक्य -",
+    "options": [
+      "अरे!",
+      "ईश्वर तुम्हें सफल करे",
+      "क्या राम जाता है?",
+      "राम जाता है"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_472843"
+  },
+  {
+    "q": "इच्छावाचक वाक्य -",
+    "options": [
+      "ईश्वर तुम्हें सफल करे",
+      "अरे!",
+      "क्या राम जाता है?",
+      "राम जाता है"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_472843_v1",
+    "variant_of": "वाक्य भे_472843"
+  },
+  {
+    "q": "इच्छावाचक वाक्य -",
+    "options": [
+      "राम जाता है",
+      "क्या राम जाता है?",
+      "ईश्वर तुम्हें सफल करे",
+      "अरे!"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_472843_v2",
+    "variant_of": "वाक्य भे_472843"
+  },
+  {
+    "q": "विस्मयवाचक -",
+    "options": [
+      "अरे! वह गिर गया",
+      "क्या वह गिर गया?",
+      "वह गिर गया",
+      "वह न गिरे"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वाक्य भे_943010"
+  },
+  {
+    "q": "विस्मयवाचक -",
+    "options": [
+      "वह गिर गया",
+      "क्या वह गिर गया?",
+      "वह न गिरे",
+      "अरे! वह गिर गया"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वाक्य भे_943010_v1",
+    "variant_of": "वाक्य भे_943010"
+  },
+  {
+    "q": "विस्मयवाचक -",
+    "options": [
+      "क्या वह गिर गया?",
+      "अरे! वह गिर गया",
+      "वह न गिरे",
+      "वह गिर गया"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वाक्य भे_943010_v2",
+    "variant_of": "वाक्य भे_943010"
+  },
+  {
+    "q": "निषेधवाचक -",
+    "options": [
+      "वह जाएगा",
+      "वह नहीं जाएगा",
+      "वह जाए",
+      "क्या वह जाएगा?"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_808683"
+  },
+  {
+    "q": "निषेधवाचक -",
+    "options": [
+      "वह नहीं जाएगा",
+      "वह जाए",
+      "क्या वह जाएगा?",
+      "वह जाएगा"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_808683_v1",
+    "variant_of": "वाक्य भे_808683"
+  },
+  {
+    "q": "निषेधवाचक -",
+    "options": [
+      "क्या वह जाएगा?",
+      "वह जाए",
+      "वह नहीं जाएगा",
+      "वह जाएगा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_808683_v2",
+    "variant_of": "वाक्य भे_808683"
+  },
+  {
+    "q": "प्रश्नवाचक -",
+    "options": [
+      "जाओ",
+      "तुम जा रहे हो",
+      "तुम कहाँ जा रहे हो?",
+      "अहा!"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_165986"
+  },
+  {
+    "q": "प्रश्नवाचक -",
+    "options": [
+      "तुम जा रहे हो",
+      "तुम कहाँ जा रहे हो?",
+      "अहा!",
+      "जाओ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_165986_v1",
+    "variant_of": "वाक्य भे_165986"
+  },
+  {
+    "q": "प्रश्नवाचक -",
+    "options": [
+      "तुम जा रहे हो",
+      "जाओ",
+      "अहा!",
+      "तुम कहाँ जा रहे हो?"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_165986_v2",
+    "variant_of": "वाक्य भे_165986"
+  },
+  {
+    "q": "विधानवाचक -",
+    "options": [
+      "राम पढ़ता है",
+      "राम पढ़े",
+      "अरे राम!",
+      "क्या राम पढ़ता है?"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वाक्य भे_367904"
+  },
+  {
+    "q": "विधानवाचक -",
+    "options": [
+      "अरे राम!",
+      "राम पढ़े",
+      "राम पढ़ता है",
+      "क्या राम पढ़ता है?"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वाक्य भे_367904_v1",
+    "variant_of": "वाक्य भे_367904"
+  },
+  {
+    "q": "विधानवाचक -",
+    "options": [
+      "क्या राम पढ़ता है?",
+      "अरे राम!",
+      "राम पढ़ता है",
+      "राम पढ़े"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_367904_v2",
+    "variant_of": "वाक्य भे_367904"
+  },
+  {
+    "q": "आज्ञावाचक -",
+    "options": [
+      "क्या बैठोगे?",
+      "बैठ जाओ",
+      "वह बैठता है",
+      "वाह!"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वाक्य भे_836856"
+  },
+  {
+    "q": "आज्ञावाचक -",
+    "options": [
+      "बैठ जाओ",
+      "वह बैठता है",
+      "वाह!",
+      "क्या बैठोगे?"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वाक्य भे_836856_v1",
+    "variant_of": "वाक्य भे_836856"
+  },
+  {
+    "q": "आज्ञावाचक -",
+    "options": [
+      "क्या बैठोगे?",
+      "वाह!",
+      "वह बैठता है",
+      "बैठ जाओ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वाक्य भे_836856_v2",
+    "variant_of": "वाक्य भे_836856"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "उज्वल",
+      "उज्ज्वल",
+      "उज्जवल",
+      "उजज्वल"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "उजज्वल",
+      "उज्वल",
+      "उज्ज्वल",
+      "उज्जवल"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द शुद_222642_v1",
+    "variant_of": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "उज्जवल",
+      "उजज्वल",
+      "उज्ज्वल",
+      "उज्वल"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द शुद_222642_v2",
+    "variant_of": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "आसिर्वाद",
+      "आर्शीवाद",
+      "आशीर्वाद",
+      "आशिर्वाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "आसिर्वाद",
+      "आशिर्वाद",
+      "आर्शीवाद",
+      "आशीर्वाद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द शुद_222642_v1",
+    "variant_of": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "आशिर्वाद",
+      "आशीर्वाद",
+      "आसिर्वाद",
+      "आर्शीवाद"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द शुद_222642_v2",
+    "variant_of": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध -",
+    "options": [
+      "अत्याधिक",
+      "अतिधिक",
+      "अत्यधिक",
+      "अत्याधीक"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द शुद_269469"
+  },
+  {
+    "q": "शुद्ध -",
+    "options": [
+      "अत्याधिक",
+      "अत्याधीक",
+      "अतिधिक",
+      "अत्यधिक"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द शुद_269469_v1",
+    "variant_of": "शब्द शुद_269469"
+  },
+  {
+    "q": "शुद्ध -",
+    "options": [
+      "अत्याधीक",
+      "अतिधिक",
+      "अत्यधिक",
+      "अत्याधिक"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "शब्द शुद_269469_v2",
+    "variant_of": "शब्द शुद_269469"
+  },
+  {
+    "q": "अशुद्ध -",
+    "options": [
+      "सर्जन",
+      "सृजन",
+      "सृजित",
+      "सृष्टि"
+    ],
+    "answer": 0,
+    "explanation": "सर्जन अशुद्ध, सृजन शुद्ध",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द शुद_636888"
+  },
+  {
+    "q": "अशुद्ध -",
+    "options": [
+      "सृजन",
+      "सृष्टि",
+      "सर्जन",
+      "सृजित"
+    ],
+    "answer": 2,
+    "explanation": "सर्जन अशुद्ध, सृजन शुद्ध",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द शुद_636888_v1",
+    "variant_of": "शब्द शुद_636888"
+  },
+  {
+    "q": "अशुद्ध -",
+    "options": [
+      "सृजन",
+      "सृजित",
+      "सृष्टि",
+      "सर्जन"
+    ],
+    "answer": 3,
+    "explanation": "सर्जन अशुद्ध, सृजन शुद्ध",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द शुद_636888_v2",
+    "variant_of": "शब्द शुद_636888"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "अनेक लोग आए थे – दोनों चलें",
+      "अनेक लोग आए",
+      "अनेक लोग आये थे",
+      "अनेक लोग आया"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_458595"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "अनेक लोग आए",
+      "अनेक लोग आए थे – दोनों चलें",
+      "अनेक लोग आये थे",
+      "अनेक लोग आया"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_458595_v1",
+    "variant_of": "वाक्य शु_458595"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "अनेक लोग आया",
+      "अनेक लोग आए थे – दोनों चलें",
+      "अनेक लोग आए",
+      "अनेक लोग आये थे"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_458595_v2",
+    "variant_of": "वाक्य शु_458595"
+  },
+  {
+    "q": "शुद्ध वाक्य है -",
+    "options": [
+      "राम पुस्तक पढ़ता हूँ।",
+      "राम पुस्तक पढ़ती है।",
+      "राम पुस्तक पढ़ता है।",
+      "राम पुस्तक पढ़ते है।"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_247885"
+  },
+  {
+    "q": "शुद्ध वाक्य है -",
+    "options": [
+      "राम पुस्तक पढ़ता हूँ।",
+      "राम पुस्तक पढ़ते है।",
+      "राम पुस्तक पढ़ती है।",
+      "राम पुस्तक पढ़ता है।"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_247885_v1",
+    "variant_of": "वाक्य शु_247885"
+  },
+  {
+    "q": "शुद्ध वाक्य है?",
+    "options": [
+      "राम पुस्तक पढ़ता है।",
+      "राम पुस्तक पढ़ते है।",
+      "राम पुस्तक पढ़ता हूँ।",
+      "राम पुस्तक पढ़ती है।"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_247885_v2",
+    "variant_of": "वाक्य शु_247885"
+  },
+  {
+    "q": "'मुझे' के साथ सही क्रिया -",
+    "options": [
+      "मुझे जाना है",
+      "मुझे जाने हैं",
+      "मुझे जाती है",
+      "मुझे जाता है"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_511986"
+  },
+  {
+    "q": "'मुझे' के साथ सही क्रिया -",
+    "options": [
+      "मुझे जाने हैं",
+      "मुझे जाती है",
+      "मुझे जाता है",
+      "मुझे जाना है"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_511986_v1",
+    "variant_of": "वाक्य शु_511986"
+  },
+  {
+    "q": "'मुझे' के साथ सही क्रिया -",
+    "options": [
+      "मुझे जाता है",
+      "मुझे जाती है",
+      "मुझे जाने हैं",
+      "मुझे जाना है"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_511986_v2",
+    "variant_of": "वाक्य शु_511986"
+  },
+  {
+    "q": "अशुद्ध वाक्य छाँटिए -",
+    "options": [
+      "वे गए",
+      "मैंने पुस्तक पढ़ी",
+      "उसने आम खाया",
+      "मैंने पुस्तक पढ़ा"
+    ],
+    "answer": 3,
+    "explanation": "पुस्तक स्त्रीलिंग",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य शु_524109"
+  },
+  {
+    "q": "अशुद्ध वाक्य छाँटिए -",
+    "options": [
+      "वे गए",
+      "मैंने पुस्तक पढ़ा",
+      "मैंने पुस्तक पढ़ी",
+      "उसने आम खाया"
+    ],
+    "answer": 1,
+    "explanation": "पुस्तक स्त्रीलिंग",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य शु_524109_v1",
+    "variant_of": "वाक्य शु_524109"
+  },
+  {
+    "q": "अशुद्ध वाक्य छाँटिए -",
+    "options": [
+      "मैंने पुस्तक पढ़ा",
+      "मैंने पुस्तक पढ़ी",
+      "उसने आम खाया",
+      "वे गए"
+    ],
+    "answer": 0,
+    "explanation": "पुस्तक स्त्रीलिंग",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य शु_524109_v2",
+    "variant_of": "वाक्य शु_524109"
+  },
+  {
+    "q": "वाक्य के कितने अंग होते हैं?",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "उद्देश्य, विधेय",
+    "topic": "वाक्य रचना",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य रच_683211"
+  },
+  {
+    "q": "वाक्य के कितने अंग होते हैं?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "उद्देश्य, विधेय",
+    "topic": "वाक्य रचना",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य रच_683211_v1",
+    "variant_of": "वाक्य रच_683211"
+  },
+  {
+    "q": "वाक्य के कितने अंग होते हैं?",
+    "options": [
+      "5",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "उद्देश्य, विधेय",
+    "topic": "वाक्य रचना",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य रच_683211_v2",
+    "variant_of": "वाक्य रच_683211"
+  },
+  {
+    "q": "सरल वाक्य का उदाहरण -",
+    "options": [
+      "जो पढ़ेगा वह पास होगा",
+      "राम पढ़ता है",
+      "यदि राम पढ़ेगा तो पास होगा",
+      "राम पढ़ता है और लिखता है"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_651206"
+  },
+  {
+    "q": "सरल वाक्य का उदाहरण -",
+    "options": [
+      "जो पढ़ेगा वह पास होगा",
+      "राम पढ़ता है और लिखता है",
+      "यदि राम पढ़ेगा तो पास होगा",
+      "राम पढ़ता है"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_651206_v1",
+    "variant_of": "वाक्य भे_651206"
+  },
+  {
+    "q": "सरल वाक्य का उदाहरण -",
+    "options": [
+      "राम पढ़ता है",
+      "राम पढ़ता है और लिखता है",
+      "यदि राम पढ़ेगा तो पास होगा",
+      "जो पढ़ेगा वह पास होगा"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_651206_v2",
+    "variant_of": "वाक्य भे_651206"
+  },
+  {
+    "q": "संयुक्त वाक्य -",
+    "options": [
+      "राम पढ़ता है",
+      "राम पढ़ता है और मोहन लिखता है",
+      "यदि पढ़ोगे तो पास होगे",
+      "जो करेगा सो भरेगा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_46799"
+  },
+  {
+    "q": "संयुक्त वाक्य -",
+    "options": [
+      "राम पढ़ता है और मोहन लिखता है",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम पढ़ता है",
+      "जो करेगा सो भरेगा"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_46799_v1",
+    "variant_of": "वाक्य भे_46799"
+  },
+  {
+    "q": "संयुक्त वाक्य -",
+    "options": [
+      "राम पढ़ता है",
+      "जो करेगा सो भरेगा",
+      "राम पढ़ता है और मोहन लिखता है",
+      "यदि पढ़ोगे तो पास होगे"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_46799_v2",
+    "variant_of": "वाक्य भे_46799"
+  },
+  {
+    "q": "मिश्र वाक्य -",
+    "options": [
+      "राम पढ़ता है",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम पढ़ता है, श्याम लिखता है",
+      "राम और श्याम पढ़ते हैं"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_957966"
+  },
+  {
+    "q": "मिश्र वाक्य -",
+    "options": [
+      "राम पढ़ता है, श्याम लिखता है",
+      "राम और श्याम पढ़ते हैं",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम पढ़ता है"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_957966_v1",
+    "variant_of": "वाक्य भे_957966"
+  },
+  {
+    "q": "मिश्र वाक्य -",
+    "options": [
+      "यदि पढ़ोगे तो पास होगे",
+      "राम पढ़ता है",
+      "राम और श्याम पढ़ते हैं",
+      "राम पढ़ता है, श्याम लिखता है"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_957966_v2",
+    "variant_of": "वाक्य भे_957966"
+  },
+  {
+    "q": "अशुद्ध –",
+    "options": [
+      "आपका भवदीय",
+      "भवदीया",
+      "भवदीय",
+      "आपका"
+    ],
+    "answer": 0,
+    "explanation": "आपका भवदीय – पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_172999"
+  },
+  {
+    "q": "अशुद्ध –",
+    "options": [
+      "भवदीया",
+      "आपका भवदीय",
+      "आपका",
+      "भवदीय"
+    ],
+    "answer": 1,
+    "explanation": "आपका भवदीय – पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_172999_v1",
+    "variant_of": "वाक्य शु_172999"
+  },
+  {
+    "q": "अशुद्ध –",
+    "options": [
+      "भवदीया",
+      "आपका भवदीय",
+      "आपका",
+      "भवदीय"
+    ],
+    "answer": 1,
+    "explanation": "आपका भवदीय – पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_172999_v2",
+    "variant_of": "वाक्य शु_172999"
+  },
+  {
+    "q": "शुद्ध –",
+    "options": [
+      "मेरे को पुस्तक चाहिए",
+      "मुझको पुस्तक चाहिए – चलता है पर मानक 'मुझे'",
+      "मुझे पुस्तक चाहिए",
+      "मुझ पुस्तक चाहिए"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_949479"
+  },
+  {
+    "q": "शुद्ध –",
+    "options": [
+      "मुझ पुस्तक चाहिए",
+      "मुझको पुस्तक चाहिए – चलता है पर मानक 'मुझे'",
+      "मुझे पुस्तक चाहिए",
+      "मेरे को पुस्तक चाहिए"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_949479_v1",
+    "variant_of": "वाक्य शु_949479"
+  },
+  {
+    "q": "शुद्ध –",
+    "options": [
+      "मुझको पुस्तक चाहिए – चलता है पर मानक 'मुझे'",
+      "मुझ पुस्तक चाहिए",
+      "मेरे को पुस्तक चाहिए",
+      "मुझे पुस्तक चाहिए"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_949479_v2",
+    "variant_of": "वाक्य शु_949479"
+  },
+  {
+    "q": "पदक्रम सही है -",
+    "options": [
+      "मारा राम ने रावण को",
+      "रावण राम ने को मारा",
+      "राम रावण को ने मारा",
+      "राम ने रावण को मारा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वाक्य शु_420435"
+  },
+  {
+    "q": "पदक्रम सही है -",
+    "options": [
+      "मारा राम ने रावण को",
+      "रावण राम ने को मारा",
+      "राम रावण को ने मारा",
+      "राम ने रावण को मारा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वाक्य शु_420435_v1",
+    "variant_of": "वाक्य शु_420435"
+  },
+  {
+    "q": "पदक्रम सही है?",
+    "options": [
+      "राम ने रावण को मारा",
+      "राम रावण को ने मारा",
+      "मारा राम ने रावण को",
+      "रावण राम ने को मारा"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वाक्य शु_420435_v2",
+    "variant_of": "वाक्य शु_420435"
+  },
+  {
+    "q": "अशुद्ध वाक्य -",
+    "options": [
+      "मैंने जाना है",
+      "मुझे जाना है",
+      "वे गए",
+      "वह जाता है"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_135142"
+  },
+  {
+    "q": "अशुद्ध वाक्य -",
+    "options": [
+      "वे गए",
+      "मैंने जाना है",
+      "मुझे जाना है",
+      "वह जाता है"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_135142_v1",
+    "variant_of": "वाक्य शु_135142"
+  },
+  {
+    "q": "अशुद्ध वाक्य -",
+    "options": [
+      "वह जाता है",
+      "मुझे जाना है",
+      "मैंने जाना है",
+      "वे गए"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_135142_v2",
+    "variant_of": "वाक्य शु_135142"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "वह लोग गया",
+      "वे लोग गए",
+      "वे लोग गया",
+      "वह लोग गए"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_458595"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "वे लोग गया",
+      "वह लोग गए",
+      "वे लोग गए",
+      "वह लोग गया"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_458595_v1",
+    "variant_of": "वाक्य शु_458595"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "वह लोग गया",
+      "वे लोग गया",
+      "वह लोग गए",
+      "वे लोग गए"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_458595_v2",
+    "variant_of": "वाक्य शु_458595"
+  },
+  {
+    "q": "'कृपया' के साथ -",
+    "options": [
+      "कृपया करके बैठिए",
+      "कृपया बैठिए",
+      "कृपया कर बैठिए",
+      "सभी"
+    ],
+    "answer": 1,
+    "explanation": "कृपया करके – अशुद्ध, पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_13486"
+  },
+  {
+    "q": "'कृपया' के साथ -",
+    "options": [
+      "सभी",
+      "कृपया करके बैठिए",
+      "कृपया कर बैठिए",
+      "कृपया बैठिए"
+    ],
+    "answer": 3,
+    "explanation": "कृपया करके – अशुद्ध, पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_13486_v1",
+    "variant_of": "वाक्य शु_13486"
+  },
+  {
+    "q": "'कृपया' के साथ -",
+    "options": [
+      "कृपया बैठिए",
+      "कृपया कर बैठिए",
+      "सभी",
+      "कृपया करके बैठिए"
+    ],
+    "answer": 0,
+    "explanation": "कृपया करके – अशुद्ध, पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वाक्य शु_13486_v2",
+    "variant_of": "वाक्य शु_13486"
+  },
+  {
+    "q": "वाक्य भेद अर्थ के आधार पर -",
+    "options": [
+      "2",
+      "8",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_245673"
+  },
+  {
+    "q": "वाक्य भेद अर्थ के आधार पर -",
+    "options": [
+      "3",
+      "2",
+      "8",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_245673_v1",
+    "variant_of": "वाक्य भे_245673"
+  },
+  {
+    "q": "वाक्य भेद अर्थ के आधार पर -",
+    "options": [
+      "3",
+      "4",
+      "8",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_245673_v2",
+    "variant_of": "वाक्य भे_245673"
+  },
+  {
+    "q": "इच्छावाचक वाक्य -",
+    "options": [
+      "अरे!",
+      "क्या राम जाता है?",
+      "ईश्वर तुम्हें सफल करे",
+      "राम जाता है"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_472843"
+  },
+  {
+    "q": "इच्छावाचक वाक्य -",
+    "options": [
+      "ईश्वर तुम्हें सफल करे",
+      "राम जाता है",
+      "क्या राम जाता है?",
+      "अरे!"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_472843_v1",
+    "variant_of": "वाक्य भे_472843"
+  },
+  {
+    "q": "इच्छावाचक वाक्य -",
+    "options": [
+      "क्या राम जाता है?",
+      "अरे!",
+      "ईश्वर तुम्हें सफल करे",
+      "राम जाता है"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_472843_v2",
+    "variant_of": "वाक्य भे_472843"
+  },
+  {
+    "q": "विस्मयवाचक -",
+    "options": [
+      "क्या वह गिर गया?",
+      "अरे! वह गिर गया",
+      "वह न गिरे",
+      "वह गिर गया"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "वाक्य भे_943010"
+  },
+  {
+    "q": "विस्मयवाचक -",
+    "options": [
+      "वह न गिरे",
+      "क्या वह गिर गया?",
+      "वह गिर गया",
+      "अरे! वह गिर गया"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "वाक्य भे_943010_v1",
+    "variant_of": "वाक्य भे_943010"
+  },
+  {
+    "q": "विस्मयवाचक -",
+    "options": [
+      "अरे! वह गिर गया",
+      "वह न गिरे",
+      "क्या वह गिर गया?",
+      "वह गिर गया"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वाक्य भे_943010_v2",
+    "variant_of": "वाक्य भे_943010"
+  },
+  {
+    "q": "निषेधवाचक -",
+    "options": [
+      "वह नहीं जाएगा",
+      "क्या वह जाएगा?",
+      "वह जाए",
+      "वह जाएगा"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_808683"
+  },
+  {
+    "q": "निषेधवाचक -",
+    "options": [
+      "वह नहीं जाएगा",
+      "क्या वह जाएगा?",
+      "वह जाएगा",
+      "वह जाए"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_808683_v1",
+    "variant_of": "वाक्य भे_808683"
+  },
+  {
+    "q": "निषेधवाचक -",
+    "options": [
+      "वह जाएगा",
+      "वह जाए",
+      "क्या वह जाएगा?",
+      "वह नहीं जाएगा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_808683_v2",
+    "variant_of": "वाक्य भे_808683"
+  },
+  {
+    "q": "प्रश्नवाचक -",
+    "options": [
+      "जाओ",
+      "तुम कहाँ जा रहे हो?",
+      "तुम जा रहे हो",
+      "अहा!"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_165986"
+  },
+  {
+    "q": "प्रश्नवाचक -",
+    "options": [
+      "अहा!",
+      "जाओ",
+      "तुम जा रहे हो",
+      "तुम कहाँ जा रहे हो?"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_165986_v1",
+    "variant_of": "वाक्य भे_165986"
+  },
+  {
+    "q": "प्रश्नवाचक -",
+    "options": [
+      "अहा!",
+      "तुम जा रहे हो",
+      "जाओ",
+      "तुम कहाँ जा रहे हो?"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य भे_165986_v2",
+    "variant_of": "वाक्य भे_165986"
+  },
+  {
+    "q": "विधानवाचक -",
+    "options": [
+      "राम पढ़े",
+      "राम पढ़ता है",
+      "क्या राम पढ़ता है?",
+      "अरे राम!"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वाक्य भे_367904"
+  },
+  {
+    "q": "विधानवाचक -",
+    "options": [
+      "राम पढ़ता है",
+      "अरे राम!",
+      "क्या राम पढ़ता है?",
+      "राम पढ़े"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वाक्य भे_367904_v1",
+    "variant_of": "वाक्य भे_367904"
+  },
+  {
+    "q": "विधानवाचक -",
+    "options": [
+      "राम पढ़े",
+      "क्या राम पढ़ता है?",
+      "राम पढ़ता है",
+      "अरे राम!"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_367904_v2",
+    "variant_of": "वाक्य भे_367904"
+  },
+  {
+    "q": "आज्ञावाचक -",
+    "options": [
+      "बैठ जाओ",
+      "वह बैठता है",
+      "वाह!",
+      "क्या बैठोगे?"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_836856"
+  },
+  {
+    "q": "आज्ञावाचक -",
+    "options": [
+      "क्या बैठोगे?",
+      "वह बैठता है",
+      "वाह!",
+      "बैठ जाओ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_836856_v1",
+    "variant_of": "वाक्य भे_836856"
+  },
+  {
+    "q": "आज्ञावाचक -",
+    "options": [
+      "वह बैठता है",
+      "बैठ जाओ",
+      "क्या बैठोगे?",
+      "वाह!"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य भे_836856_v2",
+    "variant_of": "वाक्य भे_836856"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "उजज्वल",
+      "उज्ज्वल",
+      "उज्वल",
+      "उज्जवल"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "उज्ज्वल",
+      "उज्वल",
+      "उजज्वल",
+      "उज्जवल"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द शुद_222642_v1",
+    "variant_of": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "उजज्वल",
+      "उज्वल",
+      "उज्जवल",
+      "उज्ज्वल"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द शुद_222642_v2",
+    "variant_of": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "आशिर्वाद",
+      "आर्शीवाद",
+      "आशीर्वाद",
+      "आसिर्वाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "आशिर्वाद",
+      "आर्शीवाद",
+      "आशीर्वाद",
+      "आसिर्वाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द शुद_222642_v1",
+    "variant_of": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध शब्द -",
+    "options": [
+      "आसिर्वाद",
+      "आशीर्वाद",
+      "आर्शीवाद",
+      "आशिर्वाद"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द शुद_222642_v2",
+    "variant_of": "शब्द शुद_222642"
+  },
+  {
+    "q": "शुद्ध -",
+    "options": [
+      "अत्याधीक",
+      "अत्याधिक",
+      "अत्यधिक",
+      "अतिधिक"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द शुद_269469"
+  },
+  {
+    "q": "शुद्ध -",
+    "options": [
+      "अतिधिक",
+      "अत्यधिक",
+      "अत्याधीक",
+      "अत्याधिक"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द शुद_269469_v1",
+    "variant_of": "शब्द शुद_269469"
+  },
+  {
+    "q": "शुद्ध -",
+    "options": [
+      "अत्यधिक",
+      "अत्याधीक",
+      "अत्याधिक",
+      "अतिधिक"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द शुद_269469_v2",
+    "variant_of": "शब्द शुद_269469"
+  },
+  {
+    "q": "अशुद्ध -",
+    "options": [
+      "सृजन",
+      "सृजित",
+      "सर्जन",
+      "सृष्टि"
+    ],
+    "answer": 2,
+    "explanation": "सर्जन अशुद्ध, सृजन शुद्ध",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द शुद_636888"
+  },
+  {
+    "q": "अशुद्ध -",
+    "options": [
+      "सृजन",
+      "सर्जन",
+      "सृजित",
+      "सृष्टि"
+    ],
+    "answer": 1,
+    "explanation": "सर्जन अशुद्ध, सृजन शुद्ध",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द शुद_636888_v1",
+    "variant_of": "शब्द शुद_636888"
+  },
+  {
+    "q": "अशुद्ध -",
+    "options": [
+      "सृजित",
+      "सृष्टि",
+      "सर्जन",
+      "सृजन"
+    ],
+    "answer": 2,
+    "explanation": "सर्जन अशुद्ध, सृजन शुद्ध",
+    "topic": "शब्द शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द शुद_636888_v2",
+    "variant_of": "शब्द शुद_636888"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "अनेक लोग आया",
+      "अनेक लोग आए",
+      "अनेक लोग आये थे",
+      "अनेक लोग आए थे – दोनों चलें"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वाक्य शु_458595"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "अनेक लोग आए थे – दोनों चलें",
+      "अनेक लोग आये थे",
+      "अनेक लोग आया",
+      "अनेक लोग आए"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वाक्य शु_458595_v1",
+    "variant_of": "वाक्य शु_458595"
+  },
+  {
+    "q": "शुद्ध वाक्य -",
+    "options": [
+      "अनेक लोग आया",
+      "अनेक लोग आए थे – दोनों चलें",
+      "अनेक लोग आए",
+      "अनेक लोग आये थे"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_458595_v2",
+    "variant_of": "वाक्य शु_458595"
+  },
+  {
+    "q": "शुद्ध वाक्य है -",
+    "options": [
+      "राम पुस्तक पढ़ता हूँ।",
+      "राम पुस्तक पढ़ती है।",
+      "राम पुस्तक पढ़ता है।",
+      "राम पुस्तक पढ़ते है।"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वाक्य शु_247885"
+  },
+  {
+    "q": "शुद्ध वाक्य है -",
+    "options": [
+      "राम पुस्तक पढ़ते है।",
+      "राम पुस्तक पढ़ती है।",
+      "राम पुस्तक पढ़ता हूँ।",
+      "राम पुस्तक पढ़ता है।"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वाक्य शु_247885_v1",
+    "variant_of": "वाक्य शु_247885"
+  },
+  {
+    "q": "शुद्ध वाक्य है?",
+    "options": [
+      "राम पुस्तक पढ़ते है।",
+      "राम पुस्तक पढ़ती है।",
+      "राम पुस्तक पढ़ता हूँ।",
+      "राम पुस्तक पढ़ता है।"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वाक्य शु_247885_v2",
+    "variant_of": "वाक्य शु_247885"
+  },
+  {
+    "q": "'मुझे' के साथ सही क्रिया -",
+    "options": [
+      "मुझे जाता है",
+      "मुझे जाती है",
+      "मुझे जाना है",
+      "मुझे जाने हैं"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_511986"
+  },
+  {
+    "q": "'मुझे' के साथ सही क्रिया -",
+    "options": [
+      "मुझे जाना है",
+      "मुझे जाती है",
+      "मुझे जाता है",
+      "मुझे जाने हैं"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_511986_v1",
+    "variant_of": "वाक्य शु_511986"
+  },
+  {
+    "q": "'मुझे' के साथ सही क्रिया -",
+    "options": [
+      "मुझे जाने हैं",
+      "मुझे जाती है",
+      "मुझे जाता है",
+      "मुझे जाना है"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य शु_511986_v2",
+    "variant_of": "वाक्य शु_511986"
+  },
+  {
+    "q": "अशुद्ध वाक्य छाँटिए -",
+    "options": [
+      "वे गए",
+      "मैंने पुस्तक पढ़ी",
+      "मैंने पुस्तक पढ़ा",
+      "उसने आम खाया"
+    ],
+    "answer": 2,
+    "explanation": "पुस्तक स्त्रीलिंग",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_524109"
+  },
+  {
+    "q": "अशुद्ध वाक्य छाँटिए -",
+    "options": [
+      "मैंने पुस्तक पढ़ी",
+      "वे गए",
+      "उसने आम खाया",
+      "मैंने पुस्तक पढ़ा"
+    ],
+    "answer": 3,
+    "explanation": "पुस्तक स्त्रीलिंग",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_524109_v1",
+    "variant_of": "वाक्य शु_524109"
+  },
+  {
+    "q": "अशुद्ध वाक्य छाँटिए -",
+    "options": [
+      "उसने आम खाया",
+      "मैंने पुस्तक पढ़ा",
+      "मैंने पुस्तक पढ़ी",
+      "वे गए"
+    ],
+    "answer": 1,
+    "explanation": "पुस्तक स्त्रीलिंग",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वाक्य शु_524109_v2",
+    "variant_of": "वाक्य शु_524109"
+  },
+  {
+    "q": "वाक्य के कितने अंग होते हैं?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "उद्देश्य, विधेय",
+    "topic": "वाक्य रचना",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य रच_683211"
+  },
+  {
+    "q": "वाक्य के कितने अंग होते हैं?",
+    "options": [
+      "5",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "उद्देश्य, विधेय",
+    "topic": "वाक्य रचना",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य रच_683211_v1",
+    "variant_of": "वाक्य रच_683211"
+  },
+  {
+    "q": "वाक्य के कितने अंग होते हैं?",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "उद्देश्य, विधेय",
+    "topic": "वाक्य रचना",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वाक्य रच_683211_v2",
+    "variant_of": "वाक्य रच_683211"
+  },
+  {
+    "q": "सरल वाक्य का उदाहरण -",
+    "options": [
+      "यदि राम पढ़ेगा तो पास होगा",
+      "जो पढ़ेगा वह पास होगा",
+      "राम पढ़ता है",
+      "राम पढ़ता है और लिखता है"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य भे_651206"
+  },
+  {
+    "q": "सरल वाक्य का उदाहरण -",
+    "options": [
+      "जो पढ़ेगा वह पास होगा",
+      "राम पढ़ता है और लिखता है",
+      "यदि राम पढ़ेगा तो पास होगा",
+      "राम पढ़ता है"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य भे_651206_v1",
+    "variant_of": "वाक्य भे_651206"
+  },
+  {
+    "q": "सरल वाक्य का उदाहरण -",
+    "options": [
+      "राम पढ़ता है और लिखता है",
+      "यदि राम पढ़ेगा तो पास होगा",
+      "राम पढ़ता है",
+      "जो पढ़ेगा वह पास होगा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वाक्य भे_651206_v2",
+    "variant_of": "वाक्य भे_651206"
+  },
+  {
+    "q": "संयुक्त वाक्य -",
+    "options": [
+      "राम पढ़ता है",
+      "राम पढ़ता है और मोहन लिखता है",
+      "जो करेगा सो भरेगा",
+      "यदि पढ़ोगे तो पास होगे"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "वाक्य भे_46799"
+  },
+  {
+    "q": "संयुक्त वाक्य -",
+    "options": [
+      "राम पढ़ता है और मोहन लिखता है",
+      "राम पढ़ता है",
+      "जो करेगा सो भरेगा",
+      "यदि पढ़ोगे तो पास होगे"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "वाक्य भे_46799_v1",
+    "variant_of": "वाक्य भे_46799"
+  },
+  {
+    "q": "संयुक्त वाक्य -",
+    "options": [
+      "जो करेगा सो भरेगा",
+      "राम पढ़ता है",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम पढ़ता है और मोहन लिखता है"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "वाक्य भे_46799_v2",
+    "variant_of": "वाक्य भे_46799"
+  },
+  {
+    "q": "मिश्र वाक्य -",
+    "options": [
+      "राम पढ़ता है, श्याम लिखता है",
+      "राम और श्याम पढ़ते हैं",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम पढ़ता है"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_957966"
+  },
+  {
+    "q": "मिश्र वाक्य -",
+    "options": [
+      "राम पढ़ता है, श्याम लिखता है",
+      "राम पढ़ता है",
+      "राम और श्याम पढ़ते हैं",
+      "यदि पढ़ोगे तो पास होगे"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_957966_v1",
+    "variant_of": "वाक्य भे_957966"
+  },
+  {
+    "q": "मिश्र वाक्य -",
+    "options": [
+      "राम पढ़ता है, श्याम लिखता है",
+      "राम पढ़ता है",
+      "यदि पढ़ोगे तो पास होगे",
+      "राम और श्याम पढ़ते हैं"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य भेद",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वाक्य भे_957966_v2",
+    "variant_of": "वाक्य भे_957966"
+  },
+  {
+    "q": "अशुद्ध –",
+    "options": [
+      "आपका",
+      "आपका भवदीय",
+      "भवदीय",
+      "भवदीया"
+    ],
+    "answer": 1,
+    "explanation": "आपका भवदीय – पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "वाक्य शु_172999"
+  },
+  {
+    "q": "अशुद्ध –",
+    "options": [
+      "आपका भवदीय",
+      "भवदीय",
+      "आपका",
+      "भवदीया"
+    ],
+    "answer": 0,
+    "explanation": "आपका भवदीय – पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "वाक्य शु_172999_v1",
+    "variant_of": "वाक्य शु_172999"
+  },
+  {
+    "q": "अशुद्ध –",
+    "options": [
+      "भवदीय",
+      "भवदीया",
+      "आपका",
+      "आपका भवदीय"
+    ],
+    "answer": 3,
+    "explanation": "आपका भवदीय – पुनरुक्ति",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "वाक्य शु_172999_v2",
+    "variant_of": "वाक्य शु_172999"
+  },
+  {
+    "q": "शुद्ध –",
+    "options": [
+      "मुझको पुस्तक चाहिए – चलता है पर मानक 'मुझे'",
+      "मुझे पुस्तक चाहिए",
+      "मुझ पुस्तक चाहिए",
+      "मेरे को पुस्तक चाहिए"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_949479"
+  },
+  {
+    "q": "शुद्ध –",
+    "options": [
+      "मुझे पुस्तक चाहिए",
+      "मुझको पुस्तक चाहिए – चलता है पर मानक 'मुझे'",
+      "मुझ पुस्तक चाहिए",
+      "मेरे को पुस्तक चाहिए"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_949479_v1",
+    "variant_of": "वाक्य शु_949479"
+  },
+  {
+    "q": "शुद्ध –",
+    "options": [
+      "मुझको पुस्तक चाहिए – चलता है पर मानक 'मुझे'",
+      "मुझ पुस्तक चाहिए",
+      "मुझे पुस्तक चाहिए",
+      "मेरे को पुस्तक चाहिए"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_949479_v2",
+    "variant_of": "वाक्य शु_949479"
+  },
+  {
+    "q": "पदक्रम सही है -",
+    "options": [
+      "मारा राम ने रावण को",
+      "राम रावण को ने मारा",
+      "रावण राम ने को मारा",
+      "राम ने रावण को मारा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_420435"
+  },
+  {
+    "q": "पदक्रम सही है -",
+    "options": [
+      "राम रावण को ने मारा",
+      "मारा राम ने रावण को",
+      "राम ने रावण को मारा",
+      "रावण राम ने को मारा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_420435_v1",
+    "variant_of": "वाक्य शु_420435"
+  },
+  {
+    "q": "पदक्रम सही है?",
+    "options": [
+      "रावण राम ने को मारा",
+      "मारा राम ने रावण को",
+      "राम रावण को ने मारा",
+      "राम ने रावण को मारा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वाक्य शुद्धि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वाक्य शु_420435_v2",
+    "variant_of": "वाक्य शु_420435"
+  }
+]

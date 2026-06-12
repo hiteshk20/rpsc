@@ -1,0 +1,2822 @@
+[
+  {
+    "q": "तत्सम शब्द है -",
+    "options": [
+      "सोरज",
+      "सूर्य",
+      "सूरज",
+      "सुर्ज"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_955225"
+  },
+  {
+    "q": "तत्सम शब्द है -",
+    "options": [
+      "सूर्य",
+      "सुर्ज",
+      "सोरज",
+      "सूरज"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_955225_v1",
+    "variant_of": "शब्द वर्_955225"
+  },
+  {
+    "q": "तत्सम शब्द है?",
+    "options": [
+      "सूरज",
+      "सूर्य",
+      "सोरज",
+      "सुर्ज"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_955225_v2",
+    "variant_of": "शब्द वर्_955225"
+  },
+  {
+    "q": "तद्भव शब्द है -",
+    "options": [
+      "अनल",
+      "पावक",
+      "आग",
+      "अग्नि"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_8097"
+  },
+  {
+    "q": "तद्भव शब्द है -",
+    "options": [
+      "अनल",
+      "पावक",
+      "आग",
+      "अग्नि"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_8097_v1",
+    "variant_of": "शब्द वर्_8097"
+  },
+  {
+    "q": "तद्भव शब्द है?",
+    "options": [
+      "आग",
+      "अग्नि",
+      "अनल",
+      "पावक"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_8097_v2",
+    "variant_of": "शब्द वर्_8097"
+  },
+  {
+    "q": "विदेशी शब्द है -",
+    "options": [
+      "पोथी",
+      "किताब",
+      "पुस्तक",
+      "ग्रंथ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_158387"
+  },
+  {
+    "q": "विदेशी शब्द है -",
+    "options": [
+      "पोथी",
+      "पुस्तक",
+      "किताब",
+      "ग्रंथ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_158387_v1",
+    "variant_of": "शब्द वर्_158387"
+  },
+  {
+    "q": "विदेशी शब्द है?",
+    "options": [
+      "ग्रंथ",
+      "पुस्तक",
+      "किताब",
+      "पोथी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_158387_v2",
+    "variant_of": "शब्द वर्_158387"
+  },
+  {
+    "q": "देशज शब्द है -",
+    "options": [
+      "कलश",
+      "घट",
+      "पात्र",
+      "लोटा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_158082"
+  },
+  {
+    "q": "देशज शब्द है -",
+    "options": [
+      "लोटा",
+      "घट",
+      "कलश",
+      "पात्र"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_158082_v1",
+    "variant_of": "शब्द वर्_158082"
+  },
+  {
+    "q": "देशज शब्द है?",
+    "options": [
+      "पात्र",
+      "कलश",
+      "लोटा",
+      "घट"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_158082_v2",
+    "variant_of": "शब्द वर्_158082"
+  },
+  {
+    "q": "'रात्रि' का तद्भव है -",
+    "options": [
+      "निशा",
+      "रात",
+      "रैन",
+      "रात्री"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_875108"
+  },
+  {
+    "q": "'रात्रि' का तद्भव है -",
+    "options": [
+      "निशा",
+      "रात्री",
+      "रात",
+      "रैन"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_875108_v1",
+    "variant_of": "शब्द वर्_875108"
+  },
+  {
+    "q": "'रात्रि' का तद्भव है?",
+    "options": [
+      "रैन",
+      "निशा",
+      "रात",
+      "रात्री"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_875108_v2",
+    "variant_of": "शब्द वर्_875108"
+  },
+  {
+    "q": "'दूध' का तत्सम है -",
+    "options": [
+      "दधि",
+      "दुग्ध",
+      "क्षीर",
+      "पय"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_753012"
+  },
+  {
+    "q": "'दूध' का तत्सम है -",
+    "options": [
+      "क्षीर",
+      "दधि",
+      "दुग्ध",
+      "पय"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_753012_v1",
+    "variant_of": "शब्द वर्_753012"
+  },
+  {
+    "q": "'दूध' का तत्सम है?",
+    "options": [
+      "दुग्ध",
+      "दधि",
+      "क्षीर",
+      "पय"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_753012_v2",
+    "variant_of": "शब्द वर्_753012"
+  },
+  {
+    "q": "'अस्पताल' शब्द है -",
+    "options": [
+      "विदेशी",
+      "तत्सम",
+      "देशज",
+      "तद्भव"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_608650"
+  },
+  {
+    "q": "'अस्पताल' शब्द है -",
+    "options": [
+      "विदेशी",
+      "तत्सम",
+      "तद्भव",
+      "देशज"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_608650_v1",
+    "variant_of": "शब्द वर्_608650"
+  },
+  {
+    "q": "'अस्पताल' शब्द है?",
+    "options": [
+      "देशज",
+      "तद्भव",
+      "तत्सम",
+      "विदेशी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_608650_v2",
+    "variant_of": "शब्द वर्_608650"
+  },
+  {
+    "q": "'कान' का तत्सम -",
+    "options": [
+      "कर्णिका",
+      "कर्ण",
+      "कन",
+      "कर"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "शब्द वर्_835797"
+  },
+  {
+    "q": "'कान' का तत्सम -",
+    "options": [
+      "कर्णिका",
+      "कन",
+      "कर",
+      "कर्ण"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "शब्द वर्_835797_v1",
+    "variant_of": "शब्द वर्_835797"
+  },
+  {
+    "q": "'कान' का तत्सम -",
+    "options": [
+      "कर्णिका",
+      "कन",
+      "कर्ण",
+      "कर"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "शब्द वर्_835797_v2",
+    "variant_of": "शब्द वर्_835797"
+  },
+  {
+    "q": "'हाथ' का तत्सम -",
+    "options": [
+      "हस्ति",
+      "हस्त",
+      "कर",
+      "हाथी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_782896"
+  },
+  {
+    "q": "'हाथ' का तत्सम -",
+    "options": [
+      "हस्त",
+      "कर",
+      "हाथी",
+      "हस्ति"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_782896_v1",
+    "variant_of": "शब्द वर्_782896"
+  },
+  {
+    "q": "'हाथ' का तत्सम -",
+    "options": [
+      "हाथी",
+      "हस्ति",
+      "हस्त",
+      "कर"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_782896_v2",
+    "variant_of": "शब्द वर्_782896"
+  },
+  {
+    "q": "'मोर' का तत्सम -",
+    "options": [
+      "मोरन",
+      "मयुर",
+      "मयूर",
+      "मर्कट"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_802201"
+  },
+  {
+    "q": "'मोर' का तत्सम -",
+    "options": [
+      "मोरन",
+      "मयुर",
+      "मयूर",
+      "मर्कट"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_802201_v1",
+    "variant_of": "शब्द वर्_802201"
+  },
+  {
+    "q": "'मोर' का तत्सम -",
+    "options": [
+      "मयुर",
+      "मर्कट",
+      "मोरन",
+      "मयूर"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_802201_v2",
+    "variant_of": "शब्द वर्_802201"
+  },
+  {
+    "q": "'साँप' का तत्सम -",
+    "options": [
+      "भुजंग",
+      "व्याल",
+      "सर्प",
+      "नाग"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_206622"
+  },
+  {
+    "q": "'साँप' का तत्सम -",
+    "options": [
+      "सर्प",
+      "व्याल",
+      "नाग",
+      "भुजंग"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_206622_v1",
+    "variant_of": "शब्द वर्_206622"
+  },
+  {
+    "q": "'साँप' का तत्सम -",
+    "options": [
+      "सर्प",
+      "भुजंग",
+      "नाग",
+      "व्याल"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_206622_v2",
+    "variant_of": "शब्द वर्_206622"
+  },
+  {
+    "q": "'आँख' का तत्सम -",
+    "options": [
+      "नयन",
+      "अक्षि",
+      "दृग",
+      "लोचन"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_65777"
+  },
+  {
+    "q": "'आँख' का तत्सम -",
+    "options": [
+      "लोचन",
+      "अक्षि",
+      "नयन",
+      "दृग"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_65777_v1",
+    "variant_of": "शब्द वर्_65777"
+  },
+  {
+    "q": "'आँख' का तत्सम -",
+    "options": [
+      "लोचन",
+      "दृग",
+      "नयन",
+      "अक्षि"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_65777_v2",
+    "variant_of": "शब्द वर्_65777"
+  },
+  {
+    "q": "'जीभ' का तत्सम -",
+    "options": [
+      "जिभ",
+      "जिव्हा",
+      "रसना",
+      "जिह्वा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "शब्द वर्_399727"
+  },
+  {
+    "q": "'जीभ' का तत्सम -",
+    "options": [
+      "जिव्हा",
+      "रसना",
+      "जिभ",
+      "जिह्वा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "शब्द वर्_399727_v1",
+    "variant_of": "शब्द वर्_399727"
+  },
+  {
+    "q": "'जीभ' का तत्सम -",
+    "options": [
+      "जिभ",
+      "रसना",
+      "जिह्वा",
+      "जिव्हा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "शब्द वर्_399727_v2",
+    "variant_of": "शब्द वर्_399727"
+  },
+  {
+    "q": "'काम' का तत्सम -",
+    "options": [
+      "कृति",
+      "कार्य",
+      "कर्म",
+      "काम्य"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_336456"
+  },
+  {
+    "q": "'काम' का तत्सम -",
+    "options": [
+      "कृति",
+      "कर्म",
+      "कार्य",
+      "काम्य"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_336456_v1",
+    "variant_of": "शब्द वर्_336456"
+  },
+  {
+    "q": "'काम' का तत्सम -",
+    "options": [
+      "काम्य",
+      "कृति",
+      "कार्य",
+      "कर्म"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_336456_v2",
+    "variant_of": "शब्द वर्_336456"
+  },
+  {
+    "q": "'आज' का तत्सम -",
+    "options": [
+      "अद्य",
+      "अज",
+      "आदि",
+      "अद्या"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_672665"
+  },
+  {
+    "q": "'आज' का तत्सम -",
+    "options": [
+      "अद्या",
+      "आदि",
+      "अज",
+      "अद्य"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_672665_v1",
+    "variant_of": "शब्द वर्_672665"
+  },
+  {
+    "q": "'आज' का तत्सम -",
+    "options": [
+      "अद्या",
+      "अद्य",
+      "अज",
+      "आदि"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_672665_v2",
+    "variant_of": "शब्द वर्_672665"
+  },
+  {
+    "q": "'सच' का तत्सम -",
+    "options": [
+      "सत्व",
+      "सत्यम",
+      "सत्य",
+      "सत"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_767297"
+  },
+  {
+    "q": "'सच' का तत्सम -",
+    "options": [
+      "सत्यम",
+      "सत",
+      "सत्व",
+      "सत्य"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_767297_v1",
+    "variant_of": "शब्द वर्_767297"
+  },
+  {
+    "q": "'सच' का तत्सम -",
+    "options": [
+      "सत्य",
+      "सत्यम",
+      "सत्व",
+      "सत"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_767297_v2",
+    "variant_of": "शब्द वर्_767297"
+  },
+  {
+    "q": "'सपना' का तत्सम -",
+    "options": [
+      "स्वपन",
+      "सुपन",
+      "सोपन",
+      "स्वप्न"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_663881"
+  },
+  {
+    "q": "'सपना' का तत्सम -",
+    "options": [
+      "स्वप्न",
+      "सुपन",
+      "सोपन",
+      "स्वपन"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_663881_v1",
+    "variant_of": "शब्द वर्_663881"
+  },
+  {
+    "q": "'सपना' का तत्सम -",
+    "options": [
+      "स्वपन",
+      "सोपन",
+      "सुपन",
+      "स्वप्न"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_663881_v2",
+    "variant_of": "शब्द वर्_663881"
+  },
+  {
+    "q": "'पत्ता' का तत्सम -",
+    "options": [
+      "पत्त्र",
+      "पत्र",
+      "पात",
+      "पर्ण"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_135130"
+  },
+  {
+    "q": "'पत्ता' का तत्सम -",
+    "options": [
+      "पर्ण",
+      "पात",
+      "पत्त्र",
+      "पत्र"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_135130_v1",
+    "variant_of": "शब्द वर्_135130"
+  },
+  {
+    "q": "'पत्ता' का तत्सम -",
+    "options": [
+      "पत्त्र",
+      "पत्र",
+      "पर्ण",
+      "पात"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_135130_v2",
+    "variant_of": "शब्द वर्_135130"
+  },
+  {
+    "q": "'अंग्रेजी' शब्द स्रोत -",
+    "options": [
+      "तत्सम",
+      "विदेशी",
+      "तद्भव",
+      "देशज"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_403381"
+  },
+  {
+    "q": "'अंग्रेजी' शब्द स्रोत -",
+    "options": [
+      "तद्भव",
+      "देशज",
+      "विदेशी",
+      "तत्सम"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_403381_v1",
+    "variant_of": "शब्द वर्_403381"
+  },
+  {
+    "q": "'अंग्रेजी' शब्द स्रोत -",
+    "options": [
+      "तद्भव",
+      "तत्सम",
+      "देशज",
+      "विदेशी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_403381_v2",
+    "variant_of": "शब्द वर्_403381"
+  },
+  {
+    "q": "'रेल' शब्द -",
+    "options": [
+      "विदेशी",
+      "तत्सम",
+      "तद्भव",
+      "देशज"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_912344"
+  },
+  {
+    "q": "'रेल' शब्द -",
+    "options": [
+      "विदेशी",
+      "तत्सम",
+      "देशज",
+      "तद्भव"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_912344_v1",
+    "variant_of": "शब्द वर्_912344"
+  },
+  {
+    "q": "'रेल' शब्द -",
+    "options": [
+      "विदेशी",
+      "देशज",
+      "तद्भव",
+      "तत्सम"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_912344_v2",
+    "variant_of": "शब्द वर्_912344"
+  },
+  {
+    "q": "'पगड़ी' शब्द -",
+    "options": [
+      "तत्सम",
+      "विदेशी",
+      "तद्भव",
+      "देशज"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_769266"
+  },
+  {
+    "q": "'पगड़ी' शब्द -",
+    "options": [
+      "देशज",
+      "तद्भव",
+      "तत्सम",
+      "विदेशी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_769266_v1",
+    "variant_of": "शब्द वर्_769266"
+  },
+  {
+    "q": "'पगड़ी' शब्द -",
+    "options": [
+      "देशज",
+      "तद्भव",
+      "तत्सम",
+      "विदेशी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_769266_v2",
+    "variant_of": "शब्द वर्_769266"
+  },
+  {
+    "q": "'खिचड़ी' शब्द -",
+    "options": [
+      "तत्सम",
+      "देशज",
+      "तद्भव",
+      "विदेशी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_620639"
+  },
+  {
+    "q": "'खिचड़ी' शब्द -",
+    "options": [
+      "विदेशी",
+      "तत्सम",
+      "देशज",
+      "तद्भव"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_620639_v1",
+    "variant_of": "शब्द वर्_620639"
+  },
+  {
+    "q": "'खिचड़ी' शब्द -",
+    "options": [
+      "तत्सम",
+      "तद्भव",
+      "विदेशी",
+      "देशज"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_620639_v2",
+    "variant_of": "शब्द वर्_620639"
+  },
+  {
+    "q": "'कूप' का तद्भव -",
+    "options": [
+      "कुप",
+      "कूपा",
+      "कुआँ",
+      "कुंआ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_112421"
+  },
+  {
+    "q": "'कूप' का तद्भव -",
+    "options": [
+      "कुंआ",
+      "कुप",
+      "कुआँ",
+      "कूपा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_112421_v1",
+    "variant_of": "शब्द वर्_112421"
+  },
+  {
+    "q": "'कूप' का तद्भव -",
+    "options": [
+      "कुंआ",
+      "कुप",
+      "कुआँ",
+      "कूपा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_112421_v2",
+    "variant_of": "शब्द वर्_112421"
+  },
+  {
+    "q": "'घृत' का तद्भव -",
+    "options": [
+      "घीया",
+      "घिरत",
+      "घी",
+      "घृतम"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_632334"
+  },
+  {
+    "q": "'घृत' का तद्भव -",
+    "options": [
+      "घी",
+      "घृतम",
+      "घिरत",
+      "घीया"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_632334_v1",
+    "variant_of": "शब्द वर्_632334"
+  },
+  {
+    "q": "'घृत' का तद्भव -",
+    "options": [
+      "घिरत",
+      "घीया",
+      "घृतम",
+      "घी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_632334_v2",
+    "variant_of": "शब्द वर्_632334"
+  },
+  {
+    "q": "'दंत' का तद्भव -",
+    "options": [
+      "दंती",
+      "दाँत",
+      "दंताल",
+      "दांत"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_380233"
+  },
+  {
+    "q": "'दंत' का तद्भव -",
+    "options": [
+      "दंताल",
+      "दंती",
+      "दांत",
+      "दाँत"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_380233_v1",
+    "variant_of": "शब्द वर्_380233"
+  },
+  {
+    "q": "'दंत' का तद्भव -",
+    "options": [
+      "दंताल",
+      "दांत",
+      "दाँत",
+      "दंती"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_380233_v2",
+    "variant_of": "शब्द वर्_380233"
+  },
+  {
+    "q": "तत्सम-तद्भव का सही युग्म -",
+    "options": [
+      "सभी गलत",
+      "सूर्य-सूरज-उल्टा",
+      "अग्नि-आग",
+      "आग-अग्नि"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_244460"
+  },
+  {
+    "q": "तत्सम-तद्भव का सही युग्म -",
+    "options": [
+      "आग-अग्नि",
+      "सभी गलत",
+      "सूर्य-सूरज-उल्टा",
+      "अग्नि-आग"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_244460_v1",
+    "variant_of": "शब्द वर्_244460"
+  },
+  {
+    "q": "तत्सम-तद्भव का सही युग्म -",
+    "options": [
+      "आग-अग्नि",
+      "सभी गलत",
+      "अग्नि-आग",
+      "सूर्य-सूरज-उल्टा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_244460_v2",
+    "variant_of": "शब्द वर्_244460"
+  },
+  {
+    "q": "विदेशी शब्द नहीं है -",
+    "options": [
+      "अलमारी",
+      "किताब",
+      "तौलिया",
+      "पुस्तक"
+    ],
+    "answer": 3,
+    "explanation": "पुस्तक तत्सम है",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_373787"
+  },
+  {
+    "q": "विदेशी शब्द नहीं है -",
+    "options": [
+      "अलमारी",
+      "किताब",
+      "तौलिया",
+      "पुस्तक"
+    ],
+    "answer": 3,
+    "explanation": "पुस्तक तत्सम है",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_373787_v1",
+    "variant_of": "शब्द वर्_373787"
+  },
+  {
+    "q": "विदेशी शब्द नहीं है?",
+    "options": [
+      "पुस्तक",
+      "तौलिया",
+      "अलमारी",
+      "किताब"
+    ],
+    "answer": 0,
+    "explanation": "पुस्तक तत्सम है",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_373787_v2",
+    "variant_of": "शब्द वर्_373787"
+  },
+  {
+    "q": "देशज शब्द है -",
+    "options": [
+      "झाड़ू",
+      "अग्नि",
+      "वायु",
+      "जल"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_158082"
+  },
+  {
+    "q": "देशज शब्द है -",
+    "options": [
+      "वायु",
+      "अग्नि",
+      "झाड़ू",
+      "जल"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_158082_v1",
+    "variant_of": "शब्द वर्_158082"
+  },
+  {
+    "q": "देशज शब्द है?",
+    "options": [
+      "झाड़ू",
+      "जल",
+      "वायु",
+      "अग्नि"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_158082_v2",
+    "variant_of": "शब्द वर्_158082"
+  },
+  {
+    "q": "'चाकू' शब्द -",
+    "options": [
+      "तत्सम",
+      "देशज",
+      "विदेशी",
+      "तद्भव"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_800146"
+  },
+  {
+    "q": "'चाकू' शब्द -",
+    "options": [
+      "विदेशी",
+      "तत्सम",
+      "देशज",
+      "तद्भव"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_800146_v1",
+    "variant_of": "शब्द वर्_800146"
+  },
+  {
+    "q": "'चाकू' शब्द -",
+    "options": [
+      "तत्सम",
+      "देशज",
+      "तद्भव",
+      "विदेशी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_800146_v2",
+    "variant_of": "शब्द वर्_800146"
+  },
+  {
+    "q": "'मिट्टी' का तत्सम -",
+    "options": [
+      "मिट्टिका",
+      "मृदा",
+      "माटी",
+      "मृत्तिका"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_181367"
+  },
+  {
+    "q": "'मिट्टी' का तत्सम -",
+    "options": [
+      "मृदा",
+      "माटी",
+      "मृत्तिका",
+      "मिट्टिका"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_181367_v1",
+    "variant_of": "शब्द वर्_181367"
+  },
+  {
+    "q": "'मिट्टी' का तत्सम -",
+    "options": [
+      "माटी",
+      "मृदा",
+      "मृत्तिका",
+      "मिट्टिका"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "शब्द वर्_181367_v2",
+    "variant_of": "शब्द वर्_181367"
+  },
+  {
+    "q": "तत्सम शब्द है -",
+    "options": [
+      "सोरज",
+      "सूर्य",
+      "सुर्ज",
+      "सूरज"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_955225"
+  },
+  {
+    "q": "तत्सम शब्द है -",
+    "options": [
+      "सूर्य",
+      "सुर्ज",
+      "सूरज",
+      "सोरज"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_955225_v1",
+    "variant_of": "शब्द वर्_955225"
+  },
+  {
+    "q": "तत्सम शब्द है?",
+    "options": [
+      "सुर्ज",
+      "सूर्य",
+      "सोरज",
+      "सूरज"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_955225_v2",
+    "variant_of": "शब्द वर्_955225"
+  },
+  {
+    "q": "तद्भव शब्द है -",
+    "options": [
+      "अनल",
+      "पावक",
+      "आग",
+      "अग्नि"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_8097"
+  },
+  {
+    "q": "तद्भव शब्द है -",
+    "options": [
+      "अनल",
+      "अग्नि",
+      "आग",
+      "पावक"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_8097_v1",
+    "variant_of": "शब्द वर्_8097"
+  },
+  {
+    "q": "तद्भव शब्द है?",
+    "options": [
+      "अनल",
+      "पावक",
+      "अग्नि",
+      "आग"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_8097_v2",
+    "variant_of": "शब्द वर्_8097"
+  },
+  {
+    "q": "विदेशी शब्द है -",
+    "options": [
+      "ग्रंथ",
+      "किताब",
+      "पोथी",
+      "पुस्तक"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_158387"
+  },
+  {
+    "q": "विदेशी शब्द है -",
+    "options": [
+      "पुस्तक",
+      "पोथी",
+      "किताब",
+      "ग्रंथ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_158387_v1",
+    "variant_of": "शब्द वर्_158387"
+  },
+  {
+    "q": "विदेशी शब्द है?",
+    "options": [
+      "ग्रंथ",
+      "पुस्तक",
+      "किताब",
+      "पोथी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_158387_v2",
+    "variant_of": "शब्द वर्_158387"
+  },
+  {
+    "q": "देशज शब्द है -",
+    "options": [
+      "लोटा",
+      "पात्र",
+      "घट",
+      "कलश"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_158082"
+  },
+  {
+    "q": "देशज शब्द है -",
+    "options": [
+      "पात्र",
+      "घट",
+      "कलश",
+      "लोटा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_158082_v1",
+    "variant_of": "शब्द वर्_158082"
+  },
+  {
+    "q": "देशज शब्द है?",
+    "options": [
+      "लोटा",
+      "कलश",
+      "पात्र",
+      "घट"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_158082_v2",
+    "variant_of": "शब्द वर्_158082"
+  },
+  {
+    "q": "'रात्रि' का तद्भव है -",
+    "options": [
+      "रैन",
+      "निशा",
+      "रात",
+      "रात्री"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_875108"
+  },
+  {
+    "q": "'रात्रि' का तद्भव है -",
+    "options": [
+      "रात्री",
+      "रैन",
+      "निशा",
+      "रात"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_875108_v1",
+    "variant_of": "शब्द वर्_875108"
+  },
+  {
+    "q": "'रात्रि' का तद्भव है?",
+    "options": [
+      "रैन",
+      "रात",
+      "निशा",
+      "रात्री"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_875108_v2",
+    "variant_of": "शब्द वर्_875108"
+  },
+  {
+    "q": "'दूध' का तत्सम है -",
+    "options": [
+      "दुग्ध",
+      "दधि",
+      "पय",
+      "क्षीर"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_753012"
+  },
+  {
+    "q": "'दूध' का तत्सम है -",
+    "options": [
+      "क्षीर",
+      "दुग्ध",
+      "दधि",
+      "पय"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_753012_v1",
+    "variant_of": "शब्द वर्_753012"
+  },
+  {
+    "q": "'दूध' का तत्सम है?",
+    "options": [
+      "दधि",
+      "क्षीर",
+      "पय",
+      "दुग्ध"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_753012_v2",
+    "variant_of": "शब्द वर्_753012"
+  },
+  {
+    "q": "'अस्पताल' शब्द है -",
+    "options": [
+      "देशज",
+      "विदेशी",
+      "तद्भव",
+      "तत्सम"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_608650"
+  },
+  {
+    "q": "'अस्पताल' शब्द है -",
+    "options": [
+      "विदेशी",
+      "देशज",
+      "तद्भव",
+      "तत्सम"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_608650_v1",
+    "variant_of": "शब्द वर्_608650"
+  },
+  {
+    "q": "'अस्पताल' शब्द है?",
+    "options": [
+      "देशज",
+      "विदेशी",
+      "तद्भव",
+      "तत्सम"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_608650_v2",
+    "variant_of": "शब्द वर्_608650"
+  },
+  {
+    "q": "'कान' का तत्सम -",
+    "options": [
+      "कर्णिका",
+      "कन",
+      "कर",
+      "कर्ण"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_835797"
+  },
+  {
+    "q": "'कान' का तत्सम -",
+    "options": [
+      "कर",
+      "कर्णिका",
+      "कर्ण",
+      "कन"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_835797_v1",
+    "variant_of": "शब्द वर्_835797"
+  },
+  {
+    "q": "'कान' का तत्सम -",
+    "options": [
+      "कर",
+      "कन",
+      "कर्ण",
+      "कर्णिका"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_835797_v2",
+    "variant_of": "शब्द वर्_835797"
+  },
+  {
+    "q": "'हाथ' का तत्सम -",
+    "options": [
+      "हस्ति",
+      "हाथी",
+      "कर",
+      "हस्त"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_782896"
+  },
+  {
+    "q": "'हाथ' का तत्सम -",
+    "options": [
+      "हस्ति",
+      "हस्त",
+      "कर",
+      "हाथी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_782896_v1",
+    "variant_of": "शब्द वर्_782896"
+  },
+  {
+    "q": "'हाथ' का तत्सम -",
+    "options": [
+      "हाथी",
+      "कर",
+      "हस्त",
+      "हस्ति"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_782896_v2",
+    "variant_of": "शब्द वर्_782896"
+  },
+  {
+    "q": "'मोर' का तत्सम -",
+    "options": [
+      "मोरन",
+      "मयूर",
+      "मयुर",
+      "मर्कट"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_802201"
+  },
+  {
+    "q": "'मोर' का तत्सम -",
+    "options": [
+      "मयूर",
+      "मोरन",
+      "मर्कट",
+      "मयुर"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_802201_v1",
+    "variant_of": "शब्द वर्_802201"
+  },
+  {
+    "q": "'मोर' का तत्सम -",
+    "options": [
+      "मर्कट",
+      "मोरन",
+      "मयूर",
+      "मयुर"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_802201_v2",
+    "variant_of": "शब्द वर्_802201"
+  },
+  {
+    "q": "'साँप' का तत्सम -",
+    "options": [
+      "व्याल",
+      "भुजंग",
+      "नाग",
+      "सर्प"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_206622"
+  },
+  {
+    "q": "'साँप' का तत्सम -",
+    "options": [
+      "भुजंग",
+      "व्याल",
+      "नाग",
+      "सर्प"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_206622_v1",
+    "variant_of": "शब्द वर्_206622"
+  },
+  {
+    "q": "'साँप' का तत्सम -",
+    "options": [
+      "नाग",
+      "भुजंग",
+      "व्याल",
+      "सर्प"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_206622_v2",
+    "variant_of": "शब्द वर्_206622"
+  },
+  {
+    "q": "'आँख' का तत्सम -",
+    "options": [
+      "नयन",
+      "दृग",
+      "लोचन",
+      "अक्षि"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_65777"
+  },
+  {
+    "q": "'आँख' का तत्सम -",
+    "options": [
+      "लोचन",
+      "अक्षि",
+      "दृग",
+      "नयन"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_65777_v1",
+    "variant_of": "शब्द वर्_65777"
+  },
+  {
+    "q": "'आँख' का तत्सम -",
+    "options": [
+      "लोचन",
+      "नयन",
+      "अक्षि",
+      "दृग"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_65777_v2",
+    "variant_of": "शब्द वर्_65777"
+  },
+  {
+    "q": "'जीभ' का तत्सम -",
+    "options": [
+      "जिव्हा",
+      "जिभ",
+      "जिह्वा",
+      "रसना"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_399727"
+  },
+  {
+    "q": "'जीभ' का तत्सम -",
+    "options": [
+      "जिव्हा",
+      "जिभ",
+      "जिह्वा",
+      "रसना"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_399727_v1",
+    "variant_of": "शब्द वर्_399727"
+  },
+  {
+    "q": "'जीभ' का तत्सम -",
+    "options": [
+      "जिभ",
+      "जिव्हा",
+      "जिह्वा",
+      "रसना"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_399727_v2",
+    "variant_of": "शब्द वर्_399727"
+  },
+  {
+    "q": "'काम' का तत्सम -",
+    "options": [
+      "काम्य",
+      "कार्य",
+      "कृति",
+      "कर्म"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_336456"
+  },
+  {
+    "q": "'काम' का तत्सम -",
+    "options": [
+      "कार्य",
+      "काम्य",
+      "कृति",
+      "कर्म"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_336456_v1",
+    "variant_of": "शब्द वर्_336456"
+  },
+  {
+    "q": "'काम' का तत्सम -",
+    "options": [
+      "कृति",
+      "कार्य",
+      "काम्य",
+      "कर्म"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "शब्द वर्_336456_v2",
+    "variant_of": "शब्द वर्_336456"
+  },
+  {
+    "q": "'आज' का तत्सम -",
+    "options": [
+      "आदि",
+      "अज",
+      "अद्या",
+      "अद्य"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_672665"
+  },
+  {
+    "q": "'आज' का तत्सम -",
+    "options": [
+      "अद्य",
+      "आदि",
+      "अज",
+      "अद्या"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_672665_v1",
+    "variant_of": "शब्द वर्_672665"
+  },
+  {
+    "q": "'आज' का तत्सम -",
+    "options": [
+      "अज",
+      "आदि",
+      "अद्य",
+      "अद्या"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_672665_v2",
+    "variant_of": "शब्द वर्_672665"
+  },
+  {
+    "q": "'सच' का तत्सम -",
+    "options": [
+      "सत्व",
+      "सत्य",
+      "सत्यम",
+      "सत"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_767297"
+  },
+  {
+    "q": "'सच' का तत्सम -",
+    "options": [
+      "सत्य",
+      "सत",
+      "सत्व",
+      "सत्यम"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_767297_v1",
+    "variant_of": "शब्द वर्_767297"
+  },
+  {
+    "q": "'सच' का तत्सम -",
+    "options": [
+      "सत्व",
+      "सत्यम",
+      "सत",
+      "सत्य"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_767297_v2",
+    "variant_of": "शब्द वर्_767297"
+  },
+  {
+    "q": "'सपना' का तत्सम -",
+    "options": [
+      "स्वप्न",
+      "सोपन",
+      "सुपन",
+      "स्वपन"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_663881"
+  },
+  {
+    "q": "'सपना' का तत्सम -",
+    "options": [
+      "स्वपन",
+      "सुपन",
+      "सोपन",
+      "स्वप्न"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "शब्द वर्_663881_v1",
+    "variant_of": "शब्द वर्_663881"
+  },
+  {
+    "q": "'सपना' का तत्सम -",
+    "options": [
+      "सोपन",
+      "सुपन",
+      "स्वपन",
+      "स्वप्न"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_663881_v2",
+    "variant_of": "शब्द वर्_663881"
+  },
+  {
+    "q": "'पत्ता' का तत्सम -",
+    "options": [
+      "पत्र",
+      "पात",
+      "पत्त्र",
+      "पर्ण"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_135130"
+  },
+  {
+    "q": "'पत्ता' का तत्सम -",
+    "options": [
+      "पर्ण",
+      "पात",
+      "पत्र",
+      "पत्त्र"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_135130_v1",
+    "variant_of": "शब्द वर्_135130"
+  },
+  {
+    "q": "'पत्ता' का तत्सम -",
+    "options": [
+      "पर्ण",
+      "पात",
+      "पत्र",
+      "पत्त्र"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_135130_v2",
+    "variant_of": "शब्द वर्_135130"
+  },
+  {
+    "q": "'अंग्रेजी' शब्द स्रोत -",
+    "options": [
+      "तद्भव",
+      "विदेशी",
+      "देशज",
+      "तत्सम"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_403381"
+  },
+  {
+    "q": "'अंग्रेजी' शब्द स्रोत -",
+    "options": [
+      "तत्सम",
+      "तद्भव",
+      "देशज",
+      "विदेशी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_403381_v1",
+    "variant_of": "शब्द वर्_403381"
+  },
+  {
+    "q": "'अंग्रेजी' शब्द स्रोत -",
+    "options": [
+      "विदेशी",
+      "तद्भव",
+      "देशज",
+      "तत्सम"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_403381_v2",
+    "variant_of": "शब्द वर्_403381"
+  },
+  {
+    "q": "'रेल' शब्द -",
+    "options": [
+      "तद्भव",
+      "तत्सम",
+      "विदेशी",
+      "देशज"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_912344"
+  },
+  {
+    "q": "'रेल' शब्द -",
+    "options": [
+      "तत्सम",
+      "तद्भव",
+      "विदेशी",
+      "देशज"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_912344_v1",
+    "variant_of": "शब्द वर्_912344"
+  },
+  {
+    "q": "'रेल' शब्द -",
+    "options": [
+      "तद्भव",
+      "देशज",
+      "विदेशी",
+      "तत्सम"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_912344_v2",
+    "variant_of": "शब्द वर्_912344"
+  },
+  {
+    "q": "'पगड़ी' शब्द -",
+    "options": [
+      "तद्भव",
+      "देशज",
+      "तत्सम",
+      "विदेशी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_769266"
+  },
+  {
+    "q": "'पगड़ी' शब्द -",
+    "options": [
+      "विदेशी",
+      "तद्भव",
+      "तत्सम",
+      "देशज"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_769266_v1",
+    "variant_of": "शब्द वर्_769266"
+  },
+  {
+    "q": "'पगड़ी' शब्द -",
+    "options": [
+      "देशज",
+      "विदेशी",
+      "तद्भव",
+      "तत्सम"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_769266_v2",
+    "variant_of": "शब्द वर्_769266"
+  },
+  {
+    "q": "'खिचड़ी' शब्द -",
+    "options": [
+      "तद्भव",
+      "देशज",
+      "विदेशी",
+      "तत्सम"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_620639"
+  },
+  {
+    "q": "'खिचड़ी' शब्द -",
+    "options": [
+      "विदेशी",
+      "तद्भव",
+      "देशज",
+      "तत्सम"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_620639_v1",
+    "variant_of": "शब्द वर्_620639"
+  },
+  {
+    "q": "'खिचड़ी' शब्द -",
+    "options": [
+      "तत्सम",
+      "तद्भव",
+      "विदेशी",
+      "देशज"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_620639_v2",
+    "variant_of": "शब्द वर्_620639"
+  },
+  {
+    "q": "'कूप' का तद्भव -",
+    "options": [
+      "कुआँ",
+      "कुंआ",
+      "कुप",
+      "कूपा"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_112421"
+  },
+  {
+    "q": "'कूप' का तद्भव -",
+    "options": [
+      "कूपा",
+      "कुंआ",
+      "कुआँ",
+      "कुप"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_112421_v1",
+    "variant_of": "शब्द वर्_112421"
+  },
+  {
+    "q": "'कूप' का तद्भव -",
+    "options": [
+      "कुंआ",
+      "कुप",
+      "कुआँ",
+      "कूपा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_112421_v2",
+    "variant_of": "शब्द वर्_112421"
+  },
+  {
+    "q": "'घृत' का तद्भव -",
+    "options": [
+      "घृतम",
+      "घिरत",
+      "घीया",
+      "घी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_632334"
+  },
+  {
+    "q": "'घृत' का तद्भव -",
+    "options": [
+      "घिरत",
+      "घृतम",
+      "घीया",
+      "घी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_632334_v1",
+    "variant_of": "शब्द वर्_632334"
+  },
+  {
+    "q": "'घृत' का तद्भव -",
+    "options": [
+      "घिरत",
+      "घृतम",
+      "घीया",
+      "घी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "शब्द वर्_632334_v2",
+    "variant_of": "शब्द वर्_632334"
+  },
+  {
+    "q": "'दंत' का तद्भव -",
+    "options": [
+      "दंती",
+      "दाँत",
+      "दांत",
+      "दंताल"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_380233"
+  },
+  {
+    "q": "'दंत' का तद्भव -",
+    "options": [
+      "दंती",
+      "दंताल",
+      "दांत",
+      "दाँत"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_380233_v1",
+    "variant_of": "शब्द वर्_380233"
+  },
+  {
+    "q": "'दंत' का तद्भव -",
+    "options": [
+      "दांत",
+      "दंती",
+      "दाँत",
+      "दंताल"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_380233_v2",
+    "variant_of": "शब्द वर्_380233"
+  },
+  {
+    "q": "तत्सम-तद्भव का सही युग्म -",
+    "options": [
+      "आग-अग्नि",
+      "सूर्य-सूरज-उल्टा",
+      "अग्नि-आग",
+      "सभी गलत"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_244460"
+  },
+  {
+    "q": "तत्सम-तद्भव का सही युग्म -",
+    "options": [
+      "सूर्य-सूरज-उल्टा",
+      "सभी गलत",
+      "आग-अग्नि",
+      "अग्नि-आग"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_244460_v1",
+    "variant_of": "शब्द वर्_244460"
+  },
+  {
+    "q": "तत्सम-तद्भव का सही युग्म -",
+    "options": [
+      "अग्नि-आग",
+      "आग-अग्नि",
+      "सभी गलत",
+      "सूर्य-सूरज-उल्टा"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_244460_v2",
+    "variant_of": "शब्द वर्_244460"
+  },
+  {
+    "q": "विदेशी शब्द नहीं है -",
+    "options": [
+      "अलमारी",
+      "पुस्तक",
+      "किताब",
+      "तौलिया"
+    ],
+    "answer": 1,
+    "explanation": "पुस्तक तत्सम है",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_373787"
+  },
+  {
+    "q": "विदेशी शब्द नहीं है -",
+    "options": [
+      "किताब",
+      "अलमारी",
+      "तौलिया",
+      "पुस्तक"
+    ],
+    "answer": 3,
+    "explanation": "पुस्तक तत्सम है",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_373787_v1",
+    "variant_of": "शब्द वर्_373787"
+  },
+  {
+    "q": "विदेशी शब्द नहीं है?",
+    "options": [
+      "किताब",
+      "तौलिया",
+      "अलमारी",
+      "पुस्तक"
+    ],
+    "answer": 3,
+    "explanation": "पुस्तक तत्सम है",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "शब्द वर्_373787_v2",
+    "variant_of": "शब्द वर्_373787"
+  },
+  {
+    "q": "देशज शब्द है -",
+    "options": [
+      "वायु",
+      "अग्नि",
+      "झाड़ू",
+      "जल"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_158082"
+  },
+  {
+    "q": "देशज शब्द है -",
+    "options": [
+      "वायु",
+      "अग्नि",
+      "झाड़ू",
+      "जल"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_158082_v1",
+    "variant_of": "शब्द वर्_158082"
+  },
+  {
+    "q": "देशज शब्द है?",
+    "options": [
+      "वायु",
+      "अग्नि",
+      "जल",
+      "झाड़ू"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "शब्द वर्_158082_v2",
+    "variant_of": "शब्द वर्_158082"
+  },
+  {
+    "q": "'चाकू' शब्द -",
+    "options": [
+      "विदेशी",
+      "तद्भव",
+      "तत्सम",
+      "देशज"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_800146"
+  },
+  {
+    "q": "'चाकू' शब्द -",
+    "options": [
+      "देशज",
+      "तद्भव",
+      "तत्सम",
+      "विदेशी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_800146_v1",
+    "variant_of": "शब्द वर्_800146"
+  },
+  {
+    "q": "'चाकू' शब्द -",
+    "options": [
+      "तत्सम",
+      "देशज",
+      "विदेशी",
+      "तद्भव"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "शब्द वर्_800146_v2",
+    "variant_of": "शब्द वर्_800146"
+  },
+  {
+    "q": "'मिट्टी' का तत्सम -",
+    "options": [
+      "मृत्तिका",
+      "मृदा",
+      "माटी",
+      "मिट्टिका"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "शब्द वर्_181367"
+  },
+  {
+    "q": "'मिट्टी' का तत्सम -",
+    "options": [
+      "माटी",
+      "मृत्तिका",
+      "मिट्टिका",
+      "मृदा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "शब्द वर्_181367_v1",
+    "variant_of": "शब्द वर्_181367"
+  },
+  {
+    "q": "'मिट्टी' का तत्सम -",
+    "options": [
+      "माटी",
+      "मिट्टिका",
+      "मृदा",
+      "मृत्तिका"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "शब्द वर्गीकरण",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "शब्द वर्_181367_v2",
+    "variant_of": "शब्द वर्_181367"
+  }
+]

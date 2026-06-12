@@ -1,0 +1,2822 @@
+[
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "पैशाची",
+      "अर्धमागधी",
+      "शौरसेनी अपभ्रंश",
+      "मागधी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "मागधी",
+      "शौरसेनी अपभ्रंश",
+      "पैशाची",
+      "अर्धमागधी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_884542_v1",
+    "variant_of": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "शौरसेनी अपभ्रंश",
+      "पैशाची",
+      "अर्धमागधी",
+      "मागधी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_884542_v2",
+    "variant_of": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "संस्कृत",
+      "प्राकृत",
+      "अपभ्रंश",
+      "पालि"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_103030"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "अपभ्रंश",
+      "प्राकृत",
+      "संस्कृत",
+      "पालि"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_103030_v1",
+    "variant_of": "भाषा_103030"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "पालि",
+      "प्राकृत",
+      "संस्कृत",
+      "अपभ्रंश"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_103030_v2",
+    "variant_of": "भाषा_103030"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "अवध",
+      "दिल्ली-मेरठ",
+      "ब्रज",
+      "बुंदेलखंड"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_625844"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "अवध",
+      "दिल्ली-मेरठ",
+      "बुंदेलखंड",
+      "ब्रज"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_625844_v1",
+    "variant_of": "बोली_625844"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "बुंदेलखंड",
+      "ब्रज",
+      "अवध",
+      "दिल्ली-मेरठ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_625844_v2",
+    "variant_of": "बोली_625844"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "ढूंढाड़ी",
+      "मेवाती",
+      "भोजपुरी",
+      "मारवाड़ी"
+    ],
+    "answer": 2,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "बोली_624459"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "ढूंढाड़ी",
+      "मारवाड़ी",
+      "भोजपुरी",
+      "मेवाती"
+    ],
+    "answer": 2,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "बोली_624459_v1",
+    "variant_of": "बोली_624459"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "भोजपुरी",
+      "ढूंढाड़ी",
+      "मारवाड़ी",
+      "मेवाती"
+    ],
+    "answer": 0,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "बोली_624459_v2",
+    "variant_of": "बोली_624459"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "बाएँ से दाएँ",
+      "नीचे से ऊपर",
+      "ऊपर से नीचे",
+      "दाएँ से बाएँ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "लिपि_243231"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "नीचे से ऊपर",
+      "ऊपर से नीचे",
+      "दाएँ से बाएँ",
+      "बाएँ से दाएँ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "लिपि_243231_v1",
+    "variant_of": "लिपि_243231"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "दाएँ से बाएँ",
+      "ऊपर से नीचे",
+      "बाएँ से दाएँ",
+      "नीचे से ऊपर"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "लिपि_243231_v2",
+    "variant_of": "लिपि_243231"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "26 जनवरी 1950",
+      "2 अक्टूबर",
+      "14 सितंबर 1949",
+      "15 अगस्त 1947"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "2 अक्टूबर",
+      "14 सितंबर 1949",
+      "15 अगस्त 1947",
+      "26 जनवरी 1950"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_793936_v1",
+    "variant_of": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "14 सितंबर 1949",
+      "2 अक्टूबर",
+      "26 जनवरी 1950",
+      "15 अगस्त 1947"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "भाषा_793936_v2",
+    "variant_of": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "348",
+      "343",
+      "344",
+      "351"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "संविधान_430059"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "344",
+      "343",
+      "351",
+      "348"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "संविधान_430059_v1",
+    "variant_of": "संविधान_430059"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "351",
+      "348",
+      "344",
+      "343"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "संविधान_430059_v2",
+    "variant_of": "संविधान_430059"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "मालवा",
+      "अवध",
+      "दिल्ली",
+      "मथुरा-आगरा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "बोली_478466"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "दिल्ली",
+      "अवध",
+      "मालवा",
+      "मथुरा-आगरा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "बोली_478466_v1",
+    "variant_of": "बोली_478466"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "मथुरा-आगरा",
+      "दिल्ली",
+      "मालवा",
+      "अवध"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "बोली_478466_v2",
+    "variant_of": "बोली_478466"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "मथुरा",
+      "जयपुर",
+      "दिल्ली",
+      "अयोध्या-लखनऊ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "बोली_318835"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "जयपुर",
+      "दिल्ली",
+      "मथुरा",
+      "अयोध्या-लखनऊ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "बोली_318835_v1",
+    "variant_of": "बोली_318835"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "जयपुर",
+      "मथुरा",
+      "अयोध्या-लखनऊ",
+      "दिल्ली"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "बोली_318835_v2",
+    "variant_of": "बोली_318835"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "दिल्ली",
+      "राजस्थान",
+      "मध्यप्रदेश",
+      "पूर्वी UP-बिहार"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_62722"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "राजस्थान",
+      "पूर्वी UP-बिहार",
+      "मध्यप्रदेश",
+      "दिल्ली"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_62722_v1",
+    "variant_of": "बोली_62722"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "दिल्ली",
+      "मध्यप्रदेश",
+      "पूर्वी UP-बिहार",
+      "राजस्थान"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_62722_v2",
+    "variant_of": "बोली_62722"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "पूर्वी हिंदी",
+      "बिहारी",
+      "पश्चिमी हिंदी",
+      "राजस्थानी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_57431"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "पूर्वी हिंदी",
+      "पश्चिमी हिंदी",
+      "बिहारी",
+      "राजस्थानी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_57431_v1",
+    "variant_of": "बोली_57431"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "पश्चिमी हिंदी",
+      "पूर्वी हिंदी",
+      "बिहारी",
+      "राजस्थानी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_57431_v2",
+    "variant_of": "बोली_57431"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "रोमन",
+      "ब्राह्मी",
+      "खरोष्ठी",
+      "फारसी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_104737"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "ब्राह्मी",
+      "फारसी",
+      "रोमन",
+      "खरोष्ठी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_104737_v1",
+    "variant_of": "लिपि_104737"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "ब्राह्मी",
+      "रोमन",
+      "खरोष्ठी",
+      "फारसी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "लिपि_104737_v2",
+    "variant_of": "लिपि_104737"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "14 सितंबर",
+      "15 अगस्त",
+      "5 सितंबर",
+      "26 जनवरी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_695540"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "26 जनवरी",
+      "5 सितंबर",
+      "14 सितंबर",
+      "15 अगस्त"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_695540_v1",
+    "variant_of": "भाषा_695540"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "14 सितंबर",
+      "5 सितंबर",
+      "15 अगस्त",
+      "26 जनवरी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "भाषा_695540_v2",
+    "variant_of": "भाषा_695540"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "भोजपुरी",
+      "खड़ी बोली",
+      "ब्रज",
+      "अवधी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_731370"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "ब्रज",
+      "अवधी",
+      "भोजपुरी",
+      "खड़ी बोली"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_731370_v1",
+    "variant_of": "भाषा_731370"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "भोजपुरी",
+      "अवधी",
+      "ब्रज",
+      "खड़ी बोली"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "भाषा_731370_v2",
+    "variant_of": "भाषा_731370"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "राष्ट्रभाषा",
+      "संपर्क भाषा",
+      "",
+      "राजभाषा"
+    ],
+    "answer": 3,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_323658"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "संपर्क भाषा",
+      "राजभाषा",
+      "",
+      "राष्ट्रभाषा"
+    ],
+    "answer": 1,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_323658_v1",
+    "variant_of": "भाषा_323658"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "",
+      "राष्ट्रभाषा",
+      "राजभाषा",
+      "संपर्क भाषा"
+    ],
+    "answer": 2,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "भाषा_323658_v2",
+    "variant_of": "भाषा_323658"
+  },
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "पैशाची",
+      "शौरसेनी अपभ्रंश",
+      "मागधी",
+      "अर्धमागधी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "शौरसेनी अपभ्रंश",
+      "मागधी",
+      "पैशाची",
+      "अर्धमागधी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "भाषा_884542_v1",
+    "variant_of": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "अर्धमागधी",
+      "पैशाची",
+      "मागधी",
+      "शौरसेनी अपभ्रंश"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "भाषा_884542_v2",
+    "variant_of": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "अपभ्रंश",
+      "संस्कृत",
+      "पालि",
+      "प्राकृत"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_103030"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "अपभ्रंश",
+      "पालि",
+      "संस्कृत",
+      "प्राकृत"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_103030_v1",
+    "variant_of": "भाषा_103030"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "पालि",
+      "प्राकृत",
+      "अपभ्रंश",
+      "संस्कृत"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_103030_v2",
+    "variant_of": "भाषा_103030"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "दिल्ली-मेरठ",
+      "बुंदेलखंड",
+      "ब्रज",
+      "अवध"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "बोली_625844"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "ब्रज",
+      "दिल्ली-मेरठ",
+      "बुंदेलखंड",
+      "अवध"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "बोली_625844_v1",
+    "variant_of": "बोली_625844"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "अवध",
+      "दिल्ली-मेरठ",
+      "बुंदेलखंड",
+      "ब्रज"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "बोली_625844_v2",
+    "variant_of": "बोली_625844"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "भोजपुरी",
+      "ढूंढाड़ी",
+      "मेवाती",
+      "मारवाड़ी"
+    ],
+    "answer": 0,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_624459"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "मेवाती",
+      "भोजपुरी",
+      "मारवाड़ी",
+      "ढूंढाड़ी"
+    ],
+    "answer": 1,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_624459_v1",
+    "variant_of": "बोली_624459"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "मेवाती",
+      "मारवाड़ी",
+      "भोजपुरी",
+      "ढूंढाड़ी"
+    ],
+    "answer": 2,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_624459_v2",
+    "variant_of": "बोली_624459"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "दाएँ से बाएँ",
+      "नीचे से ऊपर",
+      "बाएँ से दाएँ",
+      "ऊपर से नीचे"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_243231"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "दाएँ से बाएँ",
+      "नीचे से ऊपर",
+      "ऊपर से नीचे",
+      "बाएँ से दाएँ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_243231_v1",
+    "variant_of": "लिपि_243231"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "दाएँ से बाएँ",
+      "बाएँ से दाएँ",
+      "नीचे से ऊपर",
+      "ऊपर से नीचे"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "लिपि_243231_v2",
+    "variant_of": "लिपि_243231"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "2 अक्टूबर",
+      "26 जनवरी 1950",
+      "15 अगस्त 1947",
+      "14 सितंबर 1949"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "26 जनवरी 1950",
+      "2 अक्टूबर",
+      "15 अगस्त 1947",
+      "14 सितंबर 1949"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_793936_v1",
+    "variant_of": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "2 अक्टूबर",
+      "26 जनवरी 1950",
+      "15 अगस्त 1947",
+      "14 सितंबर 1949"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_793936_v2",
+    "variant_of": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "344",
+      "351",
+      "343",
+      "348"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संविधान_430059"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "343",
+      "348",
+      "351",
+      "344"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संविधान_430059_v1",
+    "variant_of": "संविधान_430059"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "351",
+      "348",
+      "343",
+      "344"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "संविधान_430059_v2",
+    "variant_of": "संविधान_430059"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "मालवा",
+      "अवध",
+      "दिल्ली",
+      "मथुरा-आगरा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_478466"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "मालवा",
+      "दिल्ली",
+      "अवध",
+      "मथुरा-आगरा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_478466_v1",
+    "variant_of": "बोली_478466"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "दिल्ली",
+      "अवध",
+      "मालवा",
+      "मथुरा-आगरा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_478466_v2",
+    "variant_of": "बोली_478466"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "मथुरा",
+      "दिल्ली",
+      "अयोध्या-लखनऊ",
+      "जयपुर"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_318835"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "दिल्ली",
+      "जयपुर",
+      "मथुरा",
+      "अयोध्या-लखनऊ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_318835_v1",
+    "variant_of": "बोली_318835"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "दिल्ली",
+      "अयोध्या-लखनऊ",
+      "जयपुर",
+      "मथुरा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_318835_v2",
+    "variant_of": "बोली_318835"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "पूर्वी UP-बिहार",
+      "राजस्थान",
+      "दिल्ली",
+      "मध्यप्रदेश"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "बोली_62722"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "पूर्वी UP-बिहार",
+      "दिल्ली",
+      "मध्यप्रदेश",
+      "राजस्थान"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "बोली_62722_v1",
+    "variant_of": "बोली_62722"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "मध्यप्रदेश",
+      "राजस्थान",
+      "पूर्वी UP-बिहार",
+      "दिल्ली"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "बोली_62722_v2",
+    "variant_of": "बोली_62722"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "पूर्वी हिंदी",
+      "बिहारी",
+      "पश्चिमी हिंदी",
+      "राजस्थानी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_57431"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "पश्चिमी हिंदी",
+      "बिहारी",
+      "राजस्थानी",
+      "पूर्वी हिंदी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_57431_v1",
+    "variant_of": "बोली_57431"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "पश्चिमी हिंदी",
+      "बिहारी",
+      "राजस्थानी",
+      "पूर्वी हिंदी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_57431_v2",
+    "variant_of": "बोली_57431"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "फारसी",
+      "ब्राह्मी",
+      "खरोष्ठी",
+      "रोमन"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_104737"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "खरोष्ठी",
+      "फारसी",
+      "रोमन",
+      "ब्राह्मी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_104737_v1",
+    "variant_of": "लिपि_104737"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "फारसी",
+      "खरोष्ठी",
+      "ब्राह्मी",
+      "रोमन"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_104737_v2",
+    "variant_of": "लिपि_104737"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "14 सितंबर",
+      "15 अगस्त",
+      "5 सितंबर",
+      "26 जनवरी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "भाषा_695540"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "5 सितंबर",
+      "26 जनवरी",
+      "14 सितंबर",
+      "15 अगस्त"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "भाषा_695540_v1",
+    "variant_of": "भाषा_695540"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "15 अगस्त",
+      "14 सितंबर",
+      "26 जनवरी",
+      "5 सितंबर"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "भाषा_695540_v2",
+    "variant_of": "भाषा_695540"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "ब्रज",
+      "अवधी",
+      "भोजपुरी",
+      "खड़ी बोली"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "भाषा_731370"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "अवधी",
+      "भोजपुरी",
+      "खड़ी बोली",
+      "ब्रज"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "भाषा_731370_v1",
+    "variant_of": "भाषा_731370"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "खड़ी बोली",
+      "भोजपुरी",
+      "अवधी",
+      "ब्रज"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "भाषा_731370_v2",
+    "variant_of": "भाषा_731370"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "",
+      "संपर्क भाषा",
+      "राष्ट्रभाषा",
+      "राजभाषा"
+    ],
+    "answer": 3,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_323658"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "राजभाषा",
+      "",
+      "राष्ट्रभाषा",
+      "संपर्क भाषा"
+    ],
+    "answer": 0,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_323658_v1",
+    "variant_of": "भाषा_323658"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "राजभाषा",
+      "राष्ट्रभाषा",
+      "संपर्क भाषा",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_323658_v2",
+    "variant_of": "भाषा_323658"
+  },
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "अर्धमागधी",
+      "शौरसेनी अपभ्रंश",
+      "मागधी",
+      "पैशाची"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "अर्धमागधी",
+      "मागधी",
+      "पैशाची",
+      "शौरसेनी अपभ्रंश"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_884542_v1",
+    "variant_of": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "अर्धमागधी",
+      "मागधी",
+      "शौरसेनी अपभ्रंश",
+      "पैशाची"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_884542_v2",
+    "variant_of": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "प्राकृत",
+      "संस्कृत",
+      "अपभ्रंश",
+      "पालि"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_103030"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "पालि",
+      "संस्कृत",
+      "अपभ्रंश",
+      "प्राकृत"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_103030_v1",
+    "variant_of": "भाषा_103030"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "पालि",
+      "प्राकृत",
+      "अपभ्रंश",
+      "संस्कृत"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_103030_v2",
+    "variant_of": "भाषा_103030"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "अवध",
+      "ब्रज",
+      "बुंदेलखंड",
+      "दिल्ली-मेरठ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_625844"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "ब्रज",
+      "अवध",
+      "दिल्ली-मेरठ",
+      "बुंदेलखंड"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_625844_v1",
+    "variant_of": "बोली_625844"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "अवध",
+      "ब्रज",
+      "बुंदेलखंड",
+      "दिल्ली-मेरठ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_625844_v2",
+    "variant_of": "बोली_625844"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "मारवाड़ी",
+      "भोजपुरी",
+      "मेवाती",
+      "ढूंढाड़ी"
+    ],
+    "answer": 1,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "बोली_624459"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "मारवाड़ी",
+      "भोजपुरी",
+      "मेवाती",
+      "ढूंढाड़ी"
+    ],
+    "answer": 1,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "बोली_624459_v1",
+    "variant_of": "बोली_624459"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "भोजपुरी",
+      "मारवाड़ी",
+      "मेवाती",
+      "ढूंढाड़ी"
+    ],
+    "answer": 0,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "बोली_624459_v2",
+    "variant_of": "बोली_624459"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "दाएँ से बाएँ",
+      "ऊपर से नीचे",
+      "बाएँ से दाएँ",
+      "नीचे से ऊपर"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "लिपि_243231"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "बाएँ से दाएँ",
+      "दाएँ से बाएँ",
+      "ऊपर से नीचे",
+      "नीचे से ऊपर"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "लिपि_243231_v1",
+    "variant_of": "लिपि_243231"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "बाएँ से दाएँ",
+      "दाएँ से बाएँ",
+      "नीचे से ऊपर",
+      "ऊपर से नीचे"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "लिपि_243231_v2",
+    "variant_of": "लिपि_243231"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "26 जनवरी 1950",
+      "14 सितंबर 1949",
+      "15 अगस्त 1947",
+      "2 अक्टूबर"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "15 अगस्त 1947",
+      "14 सितंबर 1949",
+      "2 अक्टूबर",
+      "26 जनवरी 1950"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_793936_v1",
+    "variant_of": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "26 जनवरी 1950",
+      "2 अक्टूबर",
+      "15 अगस्त 1947",
+      "14 सितंबर 1949"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_793936_v2",
+    "variant_of": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "344",
+      "343",
+      "348",
+      "351"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संविधान_430059"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "344",
+      "348",
+      "343",
+      "351"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संविधान_430059_v1",
+    "variant_of": "संविधान_430059"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "351",
+      "348",
+      "343",
+      "344"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "संविधान_430059_v2",
+    "variant_of": "संविधान_430059"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "दिल्ली",
+      "मालवा",
+      "मथुरा-आगरा",
+      "अवध"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_478466"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "अवध",
+      "मालवा",
+      "मथुरा-आगरा",
+      "दिल्ली"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_478466_v1",
+    "variant_of": "बोली_478466"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "अवध",
+      "दिल्ली",
+      "मालवा",
+      "मथुरा-आगरा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "बोली_478466_v2",
+    "variant_of": "बोली_478466"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "जयपुर",
+      "दिल्ली",
+      "मथुरा",
+      "अयोध्या-लखनऊ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_318835"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "जयपुर",
+      "मथुरा",
+      "अयोध्या-लखनऊ",
+      "दिल्ली"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_318835_v1",
+    "variant_of": "बोली_318835"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "अयोध्या-लखनऊ",
+      "जयपुर",
+      "दिल्ली",
+      "मथुरा"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "बोली_318835_v2",
+    "variant_of": "बोली_318835"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "दिल्ली",
+      "पूर्वी UP-बिहार",
+      "राजस्थान",
+      "मध्यप्रदेश"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_62722"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "राजस्थान",
+      "मध्यप्रदेश",
+      "दिल्ली",
+      "पूर्वी UP-बिहार"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_62722_v1",
+    "variant_of": "बोली_62722"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "मध्यप्रदेश",
+      "दिल्ली",
+      "राजस्थान",
+      "पूर्वी UP-बिहार"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_62722_v2",
+    "variant_of": "बोली_62722"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "बिहारी",
+      "पूर्वी हिंदी",
+      "पश्चिमी हिंदी",
+      "राजस्थानी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_57431"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "राजस्थानी",
+      "पूर्वी हिंदी",
+      "पश्चिमी हिंदी",
+      "बिहारी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_57431_v1",
+    "variant_of": "बोली_57431"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "राजस्थानी",
+      "बिहारी",
+      "पूर्वी हिंदी",
+      "पश्चिमी हिंदी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_57431_v2",
+    "variant_of": "बोली_57431"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "फारसी",
+      "खरोष्ठी",
+      "रोमन",
+      "ब्राह्मी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_104737"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "ब्राह्मी",
+      "रोमन",
+      "खरोष्ठी",
+      "फारसी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_104737_v1",
+    "variant_of": "लिपि_104737"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "फारसी",
+      "ब्राह्मी",
+      "रोमन",
+      "खरोष्ठी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "लिपि_104737_v2",
+    "variant_of": "लिपि_104737"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "26 जनवरी",
+      "5 सितंबर",
+      "14 सितंबर",
+      "15 अगस्त"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "भाषा_695540"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "14 सितंबर",
+      "15 अगस्त",
+      "5 सितंबर",
+      "26 जनवरी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "भाषा_695540_v1",
+    "variant_of": "भाषा_695540"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "26 जनवरी",
+      "14 सितंबर",
+      "15 अगस्त",
+      "5 सितंबर"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "भाषा_695540_v2",
+    "variant_of": "भाषा_695540"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "खड़ी बोली",
+      "अवधी",
+      "ब्रज",
+      "भोजपुरी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_731370"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "खड़ी बोली",
+      "ब्रज",
+      "भोजपुरी",
+      "अवधी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_731370_v1",
+    "variant_of": "भाषा_731370"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "ब्रज",
+      "अवधी",
+      "खड़ी बोली",
+      "भोजपुरी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_731370_v2",
+    "variant_of": "भाषा_731370"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "",
+      "राजभाषा",
+      "संपर्क भाषा",
+      "राष्ट्रभाषा"
+    ],
+    "answer": 1,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "भाषा_323658"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "",
+      "संपर्क भाषा",
+      "राष्ट्रभाषा",
+      "राजभाषा"
+    ],
+    "answer": 3,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "भाषा_323658_v1",
+    "variant_of": "भाषा_323658"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "राष्ट्रभाषा",
+      "संपर्क भाषा",
+      "",
+      "राजभाषा"
+    ],
+    "answer": 3,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "भाषा_323658_v2",
+    "variant_of": "भाषा_323658"
+  },
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "पैशाची",
+      "मागधी",
+      "अर्धमागधी",
+      "शौरसेनी अपभ्रंश"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "पैशाची",
+      "मागधी",
+      "अर्धमागधी",
+      "शौरसेनी अपभ्रंश"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_884542_v1",
+    "variant_of": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी उद्भव अपभ्रंश",
+    "options": [
+      "मागधी",
+      "अर्धमागधी",
+      "पैशाची",
+      "शौरसेनी अपभ्रंश"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_884542_v2",
+    "variant_of": "भाषा_884542"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "प्राकृत",
+      "अपभ्रंश",
+      "पालि",
+      "संस्कृत"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_103030"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "पालि",
+      "संस्कृत",
+      "प्राकृत",
+      "अपभ्रंश"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_103030_v1",
+    "variant_of": "भाषा_103030"
+  },
+  {
+    "q": "हिंदी आदि जननी",
+    "options": [
+      "संस्कृत",
+      "पालि",
+      "अपभ्रंश",
+      "प्राकृत"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "भाषा_103030_v2",
+    "variant_of": "भाषा_103030"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "अवध",
+      "दिल्ली-मेरठ",
+      "बुंदेलखंड",
+      "ब्रज"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_625844"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "बुंदेलखंड",
+      "दिल्ली-मेरठ",
+      "अवध",
+      "ब्रज"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_625844_v1",
+    "variant_of": "बोली_625844"
+  },
+  {
+    "q": "खड़ी बोली क्षेत्र",
+    "options": [
+      "ब्रज",
+      "बुंदेलखंड",
+      "दिल्ली-मेरठ",
+      "अवध"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "बोली_625844_v2",
+    "variant_of": "बोली_625844"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "ढूंढाड़ी",
+      "मारवाड़ी",
+      "भोजपुरी",
+      "मेवाती"
+    ],
+    "answer": 2,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_624459"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "भोजपुरी",
+      "ढूंढाड़ी",
+      "मेवाती",
+      "मारवाड़ी"
+    ],
+    "answer": 0,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_624459_v1",
+    "variant_of": "बोली_624459"
+  },
+  {
+    "q": "राजस्थानी बोली नहीं",
+    "options": [
+      "भोजपुरी",
+      "ढूंढाड़ी",
+      "मेवाती",
+      "मारवाड़ी"
+    ],
+    "answer": 0,
+    "explanation": "भोजपुरी पूर्वी हिंदी",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_624459_v2",
+    "variant_of": "बोली_624459"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "दाएँ से बाएँ",
+      "बाएँ से दाएँ",
+      "नीचे से ऊपर",
+      "ऊपर से नीचे"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_243231"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "नीचे से ऊपर",
+      "दाएँ से बाएँ",
+      "बाएँ से दाएँ",
+      "ऊपर से नीचे"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_243231_v1",
+    "variant_of": "लिपि_243231"
+  },
+  {
+    "q": "देवनागरी दिशा",
+    "options": [
+      "नीचे से ऊपर",
+      "बाएँ से दाएँ",
+      "दाएँ से बाएँ",
+      "ऊपर से नीचे"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_243231_v2",
+    "variant_of": "लिपि_243231"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "26 जनवरी 1950",
+      "14 सितंबर 1949",
+      "2 अक्टूबर",
+      "15 अगस्त 1947"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "2 अक्टूबर",
+      "26 जनवरी 1950",
+      "15 अगस्त 1947",
+      "14 सितंबर 1949"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_793936_v1",
+    "variant_of": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी राजभाषा दिवस",
+    "options": [
+      "2 अक्टूबर",
+      "26 जनवरी 1950",
+      "15 अगस्त 1947",
+      "14 सितंबर 1949"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "भाषा_793936_v2",
+    "variant_of": "भाषा_793936"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "348",
+      "344",
+      "343",
+      "351"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "संविधान_430059"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "348",
+      "344",
+      "343",
+      "351"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "संविधान_430059_v1",
+    "variant_of": "संविधान_430059"
+  },
+  {
+    "q": "हिंदी संघ की राजभाषा अनुच्छेद",
+    "options": [
+      "344",
+      "343",
+      "348",
+      "351"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "संविधान",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "संविधान_430059_v2",
+    "variant_of": "संविधान_430059"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "अवध",
+      "मालवा",
+      "दिल्ली",
+      "मथुरा-आगरा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "बोली_478466"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "अवध",
+      "दिल्ली",
+      "मथुरा-आगरा",
+      "मालवा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "बोली_478466_v1",
+    "variant_of": "बोली_478466"
+  },
+  {
+    "q": "ब्रजभाषा क्षेत्र",
+    "options": [
+      "दिल्ली",
+      "अवध",
+      "मथुरा-आगरा",
+      "मालवा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "बोली_478466_v2",
+    "variant_of": "बोली_478466"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "जयपुर",
+      "दिल्ली",
+      "मथुरा",
+      "अयोध्या-लखनऊ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_318835"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "जयपुर",
+      "अयोध्या-लखनऊ",
+      "दिल्ली",
+      "मथुरा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_318835_v1",
+    "variant_of": "बोली_318835"
+  },
+  {
+    "q": "अवधी क्षेत्र",
+    "options": [
+      "दिल्ली",
+      "जयपुर",
+      "अयोध्या-लखनऊ",
+      "मथुरा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "बोली_318835_v2",
+    "variant_of": "बोली_318835"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "दिल्ली",
+      "मध्यप्रदेश",
+      "पूर्वी UP-बिहार",
+      "राजस्थान"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_62722"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "राजस्थान",
+      "मध्यप्रदेश",
+      "पूर्वी UP-बिहार",
+      "दिल्ली"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "बोली_62722_v1",
+    "variant_of": "बोली_62722"
+  },
+  {
+    "q": "भोजपुरी क्षेत्र",
+    "options": [
+      "राजस्थान",
+      "मध्यप्रदेश",
+      "दिल्ली",
+      "पूर्वी UP-बिहार"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "बोली_62722_v2",
+    "variant_of": "बोली_62722"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "पश्चिमी हिंदी",
+      "राजस्थानी",
+      "बिहारी",
+      "पूर्वी हिंदी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_57431"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "पूर्वी हिंदी",
+      "राजस्थानी",
+      "पश्चिमी हिंदी",
+      "बिहारी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "बोली_57431_v1",
+    "variant_of": "बोली_57431"
+  },
+  {
+    "q": "मारवाड़ी किसकी बोली",
+    "options": [
+      "पूर्वी हिंदी",
+      "राजस्थानी",
+      "पश्चिमी हिंदी",
+      "बिहारी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "बोली",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "बोली_57431_v2",
+    "variant_of": "बोली_57431"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "फारसी",
+      "रोमन",
+      "खरोष्ठी",
+      "ब्राह्मी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_104737"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "खरोष्ठी",
+      "ब्राह्मी",
+      "रोमन",
+      "फारसी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "लिपि_104737_v1",
+    "variant_of": "लिपि_104737"
+  },
+  {
+    "q": "देवनागरी लिपि उद्भव",
+    "options": [
+      "ब्राह्मी",
+      "खरोष्ठी",
+      "रोमन",
+      "फारसी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "लिपि",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "लिपि_104737_v2",
+    "variant_of": "लिपि_104737"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "15 अगस्त",
+      "5 सितंबर",
+      "14 सितंबर",
+      "26 जनवरी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_695540"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "15 अगस्त",
+      "26 जनवरी",
+      "14 सितंबर",
+      "5 सितंबर"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_695540_v1",
+    "variant_of": "भाषा_695540"
+  },
+  {
+    "q": "हिंदी दिवस",
+    "options": [
+      "14 सितंबर",
+      "5 सितंबर",
+      "15 अगस्त",
+      "26 जनवरी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "भाषा_695540_v2",
+    "variant_of": "भाषा_695540"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "ब्रज",
+      "अवधी",
+      "खड़ी बोली",
+      "भोजपुरी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_731370"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "ब्रज",
+      "खड़ी बोली",
+      "भोजपुरी",
+      "अवधी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_731370_v1",
+    "variant_of": "भाषा_731370"
+  },
+  {
+    "q": "मानक हिंदी आधार",
+    "options": [
+      "अवधी",
+      "भोजपुरी",
+      "खड़ी बोली",
+      "ब्रज"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "भाषा_731370_v2",
+    "variant_of": "भाषा_731370"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "राजभाषा",
+      "संपर्क भाषा",
+      "राष्ट्रभाषा",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_323658"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "",
+      "संपर्क भाषा",
+      "राष्ट्रभाषा",
+      "राजभाषा"
+    ],
+    "answer": 3,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_323658_v1",
+    "variant_of": "भाषा_323658"
+  },
+  {
+    "q": "संविधान में हिंदी",
+    "options": [
+      "राजभाषा",
+      "संपर्क भाषा",
+      "",
+      "राष्ट्रभाषा"
+    ],
+    "answer": 0,
+    "explanation": "राजभाषा, राष्ट्रभाषा नहीं",
+    "topic": "भाषा",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "भाषा_323658_v2",
+    "variant_of": "भाषा_323658"
+  }
+]

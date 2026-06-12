@@ -1,0 +1,2825 @@
+[
+  {
+    "q": "हिंदी वर्णमाला में कुल स्वरों की संख्या कितनी है?",
+    "options": [
+      "25",
+      "13",
+      "11",
+      "33"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_195842"
+  },
+  {
+    "q": "हिंदी वर्णमाला में कुल स्वरों की संख्या कितनी है?",
+    "options": [
+      "13",
+      "25",
+      "33",
+      "11"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_195842_v1",
+    "variant_of": "वर्ण विच_195842"
+  },
+  {
+    "q": "हिंदी वर्णमाला में कुल स्वरों की संख्या कितनी है?",
+    "options": [
+      "25",
+      "33",
+      "11",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_195842_v2",
+    "variant_of": "वर्ण विच_195842"
+  },
+  {
+    "q": "स्पर्श व्यंजनों की संख्या कितनी है?",
+    "options": [
+      "11",
+      "8",
+      "4",
+      "25"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_618939"
+  },
+  {
+    "q": "स्पर्श व्यंजनों की संख्या कितनी है?",
+    "options": [
+      "8",
+      "4",
+      "11",
+      "25"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_618939_v1",
+    "variant_of": "वर्ण विच_618939"
+  },
+  {
+    "q": "स्पर्श व्यंजनों की संख्या कितनी है?",
+    "options": [
+      "4",
+      "8",
+      "25",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_618939_v2",
+    "variant_of": "वर्ण विच_618939"
+  },
+  {
+    "q": "'क' वर्ण का उच्चारण स्थान क्या है?",
+    "options": [
+      "तालु",
+      "कंठ",
+      "दंत",
+      "मूर्धा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_732121"
+  },
+  {
+    "q": "'क' वर्ण का उच्चारण स्थान क्या है?",
+    "options": [
+      "मूर्धा",
+      "कंठ",
+      "दंत",
+      "तालु"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_732121_v1",
+    "variant_of": "वर्ण विच_732121"
+  },
+  {
+    "q": "'क' वर्ण का उच्चारण स्थान क्या है?",
+    "options": [
+      "मूर्धा",
+      "कंठ",
+      "तालु",
+      "दंत"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_732121_v2",
+    "variant_of": "वर्ण विच_732121"
+  },
+  {
+    "q": "अंतःस्थ व्यंजन कौन से हैं?",
+    "options": [
+      "ट, ठ, ड, ढ",
+      "क, ख, ग, घ",
+      "य, र, ल, व",
+      "श, ष, स, ह"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_747340"
+  },
+  {
+    "q": "अंतःस्थ व्यंजन कौन से हैं?",
+    "options": [
+      "क, ख, ग, घ",
+      "ट, ठ, ड, ढ",
+      "य, र, ल, व",
+      "श, ष, स, ह"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_747340_v1",
+    "variant_of": "वर्ण विच_747340"
+  },
+  {
+    "q": "अंतःस्थ व्यंजन कौन से हैं?",
+    "options": [
+      "श, ष, स, ह",
+      "क, ख, ग, घ",
+      "ट, ठ, ड, ढ",
+      "य, र, ल, व"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_747340_v2",
+    "variant_of": "वर्ण विच_747340"
+  },
+  {
+    "q": "ऊष्म व्यंजन हैं -",
+    "options": [
+      "अ, आ, इ, ई",
+      "श, ष, स, ह",
+      "य, र, ल, व",
+      "क, च, ट, त"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_99635"
+  },
+  {
+    "q": "ऊष्म व्यंजन हैं -",
+    "options": [
+      "क, च, ट, त",
+      "श, ष, स, ह",
+      "अ, आ, इ, ई",
+      "य, र, ल, व"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_99635_v1",
+    "variant_of": "वर्ण विच_99635"
+  },
+  {
+    "q": "ऊष्म व्यंजन हैं -",
+    "options": [
+      "अ, आ, इ, ई",
+      "क, च, ट, त",
+      "श, ष, स, ह",
+      "य, र, ल, व"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वर्ण विच_99635_v2",
+    "variant_of": "वर्ण विच_99635"
+  },
+  {
+    "q": "'च' वर्ग का उच्चारण स्थान है -",
+    "options": [
+      "मूर्धा",
+      "ओष्ठ",
+      "तालु",
+      "कंठ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_123657"
+  },
+  {
+    "q": "'च' वर्ग का उच्चारण स्थान है -",
+    "options": [
+      "कंठ",
+      "तालु",
+      "ओष्ठ",
+      "मूर्धा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_123657_v1",
+    "variant_of": "वर्ण विच_123657"
+  },
+  {
+    "q": "'च' वर्ग का उच्चारण स्थान है?",
+    "options": [
+      "मूर्धा",
+      "ओष्ठ",
+      "तालु",
+      "कंठ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_123657_v2",
+    "variant_of": "वर्ण विच_123657"
+  },
+  {
+    "q": "अयोगवाह वर्ण हैं -",
+    "options": [
+      "य, व",
+      "ऋ, लृ",
+      "क्ष, त्र",
+      "अं, अः"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_283823"
+  },
+  {
+    "q": "अयोगवाह वर्ण हैं -",
+    "options": [
+      "ऋ, लृ",
+      "अं, अः",
+      "क्ष, त्र",
+      "य, व"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_283823_v1",
+    "variant_of": "वर्ण विच_283823"
+  },
+  {
+    "q": "अयोगवाह वर्ण हैं -",
+    "options": [
+      "अं, अः",
+      "क्ष, त्र",
+      "य, व",
+      "ऋ, लृ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_283823_v2",
+    "variant_of": "वर्ण विच_283823"
+  },
+  {
+    "q": "संयुक्त व्यंजन है -",
+    "options": [
+      "य",
+      "क्ष",
+      "श",
+      "क"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_355436"
+  },
+  {
+    "q": "संयुक्त व्यंजन है -",
+    "options": [
+      "श",
+      "क्ष",
+      "य",
+      "क"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_355436_v1",
+    "variant_of": "वर्ण विच_355436"
+  },
+  {
+    "q": "संयुक्त व्यंजन है?",
+    "options": [
+      "श",
+      "क",
+      "य",
+      "क्ष"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_355436_v2",
+    "variant_of": "वर्ण विच_355436"
+  },
+  {
+    "q": "हिंदी में कुल वर्ण हैं -",
+    "options": [
+      "44",
+      "33",
+      "52",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_552829"
+  },
+  {
+    "q": "हिंदी में कुल वर्ण हैं -",
+    "options": [
+      "44",
+      "33",
+      "52",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_552829_v1",
+    "variant_of": "वर्ण विच_552829"
+  },
+  {
+    "q": "हिंदी में कुल वर्ण हैं -",
+    "options": [
+      "44",
+      "52",
+      "33",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_552829_v2",
+    "variant_of": "वर्ण विच_552829"
+  },
+  {
+    "q": "'त' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "ओष्ठ",
+      "तालु",
+      "कंठ",
+      "दंत"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_27137"
+  },
+  {
+    "q": "'त' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "तालु",
+      "कंठ",
+      "दंत",
+      "ओष्ठ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_27137_v1",
+    "variant_of": "वर्ण विच_27137"
+  },
+  {
+    "q": "'त' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "ओष्ठ",
+      "तालु",
+      "कंठ",
+      "दंत"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_27137_v2",
+    "variant_of": "वर्ण विच_27137"
+  },
+  {
+    "q": "'प' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "मूर्धा",
+      "ओष्ठ",
+      "दंत",
+      "कंठ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_963286"
+  },
+  {
+    "q": "'प' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "मूर्धा",
+      "ओष्ठ",
+      "कंठ",
+      "दंत"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_963286_v1",
+    "variant_of": "वर्ण विच_963286"
+  },
+  {
+    "q": "'प' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "मूर्धा",
+      "ओष्ठ",
+      "दंत",
+      "कंठ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_963286_v2",
+    "variant_of": "वर्ण विच_963286"
+  },
+  {
+    "q": "ह्रस्व स्वर हैं -",
+    "options": [
+      "सभी",
+      "आ, ई, ऊ",
+      "ए, ऐ, ओ, औ",
+      "अ, इ, उ, ऋ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_580761"
+  },
+  {
+    "q": "ह्रस्व स्वर हैं -",
+    "options": [
+      "अ, इ, उ, ऋ",
+      "ए, ऐ, ओ, औ",
+      "आ, ई, ऊ",
+      "सभी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_580761_v1",
+    "variant_of": "वर्ण विच_580761"
+  },
+  {
+    "q": "ह्रस्व स्वर हैं -",
+    "options": [
+      "ए, ऐ, ओ, औ",
+      "आ, ई, ऊ",
+      "सभी",
+      "अ, इ, उ, ऋ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_580761_v2",
+    "variant_of": "वर्ण विच_580761"
+  },
+  {
+    "q": "दीर्घ स्वर नहीं है -",
+    "options": [
+      "ऊ",
+      "ई",
+      "इ",
+      "आ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_358617"
+  },
+  {
+    "q": "दीर्घ स्वर नहीं है -",
+    "options": [
+      "इ",
+      "ई",
+      "ऊ",
+      "आ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_358617_v1",
+    "variant_of": "वर्ण विच_358617"
+  },
+  {
+    "q": "दीर्घ स्वर नहीं है?",
+    "options": [
+      "इ",
+      "ई",
+      "ऊ",
+      "आ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_358617_v2",
+    "variant_of": "वर्ण विच_358617"
+  },
+  {
+    "q": "अनुनासिक चिह्न है -",
+    "options": [
+      "ं",
+      "्",
+      "ँ",
+      "ः"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_453844"
+  },
+  {
+    "q": "अनुनासिक चिह्न है -",
+    "options": [
+      "्",
+      "ः",
+      "ं",
+      "ँ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_453844_v1",
+    "variant_of": "वर्ण विच_453844"
+  },
+  {
+    "q": "अनुनासिक चिह्न है?",
+    "options": [
+      "ँ",
+      "्",
+      "ं",
+      "ः"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_453844_v2",
+    "variant_of": "वर्ण विच_453844"
+  },
+  {
+    "q": "अनुस्वार चिह्न -",
+    "options": [
+      "ँ",
+      "्",
+      "ः",
+      "ं"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_329836"
+  },
+  {
+    "q": "अनुस्वार चिह्न -",
+    "options": [
+      "ः",
+      "ं",
+      "्",
+      "ँ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_329836_v1",
+    "variant_of": "वर्ण विच_329836"
+  },
+  {
+    "q": "अनुस्वार चिह्न -",
+    "options": [
+      "ं",
+      "ः",
+      "ँ",
+      "्"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_329836_v2",
+    "variant_of": "वर्ण विच_329836"
+  },
+  {
+    "q": "विसर्ग चिह्न -",
+    "options": [
+      "ः",
+      "ं",
+      "ँ",
+      "़"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_927045"
+  },
+  {
+    "q": "विसर्ग चिह्न -",
+    "options": [
+      "ं",
+      "़",
+      "ः",
+      "ँ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_927045_v1",
+    "variant_of": "वर्ण विच_927045"
+  },
+  {
+    "q": "विसर्ग चिह्न -",
+    "options": [
+      "ः",
+      "ं",
+      "़",
+      "ँ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_927045_v2",
+    "variant_of": "वर्ण विच_927045"
+  },
+  {
+    "q": "'ट' वर्ग का उच्चारण स्थान -",
+    "options": [
+      "मूर्धा",
+      "कंठ",
+      "दंत",
+      "तालु"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वर्ण विच_963285"
+  },
+  {
+    "q": "'ट' वर्ग का उच्चारण स्थान -",
+    "options": [
+      "दंत",
+      "मूर्धा",
+      "तालु",
+      "कंठ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वर्ण विच_963285_v1",
+    "variant_of": "वर्ण विच_963285"
+  },
+  {
+    "q": "'ट' वर्ग का उच्चारण स्थान -",
+    "options": [
+      "तालु",
+      "कंठ",
+      "मूर्धा",
+      "दंत"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वर्ण विच_963285_v2",
+    "variant_of": "वर्ण विच_963285"
+  },
+  {
+    "q": "अल्पप्राण वर्ण -",
+    "options": [
+      "थ, ध",
+      "क, ग",
+      "ख, घ",
+      "फ, भ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_492945"
+  },
+  {
+    "q": "अल्पप्राण वर्ण -",
+    "options": [
+      "थ, ध",
+      "फ, भ",
+      "ख, घ",
+      "क, ग"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_492945_v1",
+    "variant_of": "वर्ण विच_492945"
+  },
+  {
+    "q": "अल्पप्राण वर्ण -",
+    "options": [
+      "ख, घ",
+      "थ, ध",
+      "क, ग",
+      "फ, भ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_492945_v2",
+    "variant_of": "वर्ण विच_492945"
+  },
+  {
+    "q": "महाप्राण वर्ण -",
+    "options": [
+      "ट, ड",
+      "ख, घ",
+      "च, ज",
+      "क, ग"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_85609"
+  },
+  {
+    "q": "महाप्राण वर्ण -",
+    "options": [
+      "ख, घ",
+      "च, ज",
+      "ट, ड",
+      "क, ग"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_85609_v1",
+    "variant_of": "वर्ण विच_85609"
+  },
+  {
+    "q": "महाप्राण वर्ण -",
+    "options": [
+      "ख, घ",
+      "च, ज",
+      "ट, ड",
+      "क, ग"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_85609_v2",
+    "variant_of": "वर्ण विच_85609"
+  },
+  {
+    "q": "घोष वर्ण -",
+    "options": [
+      "ट, ठ",
+      "क, ख",
+      "च, छ",
+      "ग, घ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_67825"
+  },
+  {
+    "q": "घोष वर्ण -",
+    "options": [
+      "क, ख",
+      "ग, घ",
+      "ट, ठ",
+      "च, छ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_67825_v1",
+    "variant_of": "वर्ण विच_67825"
+  },
+  {
+    "q": "घोष वर्ण -",
+    "options": [
+      "ट, ठ",
+      "च, छ",
+      "क, ख",
+      "ग, घ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_67825_v2",
+    "variant_of": "वर्ण विच_67825"
+  },
+  {
+    "q": "अघोष वर्ण -",
+    "options": [
+      "क, ख",
+      "ज, झ",
+      "ग, घ",
+      "ड, ढ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वर्ण विच_579302"
+  },
+  {
+    "q": "अघोष वर्ण -",
+    "options": [
+      "ग, घ",
+      "क, ख",
+      "ज, झ",
+      "ड, ढ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वर्ण विच_579302_v1",
+    "variant_of": "वर्ण विच_579302"
+  },
+  {
+    "q": "अघोष वर्ण -",
+    "options": [
+      "ड, ढ",
+      "क, ख",
+      "ग, घ",
+      "ज, झ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वर्ण विच_579302_v2",
+    "variant_of": "वर्ण विच_579302"
+  },
+  {
+    "q": "अंतस्थ और ऊष्म कुल मिलाकर -",
+    "options": [
+      "4",
+      "8",
+      "25",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_552385"
+  },
+  {
+    "q": "अंतस्थ और ऊष्म कुल मिलाकर -",
+    "options": [
+      "11",
+      "4",
+      "8",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_552385_v1",
+    "variant_of": "वर्ण विच_552385"
+  },
+  {
+    "q": "अंतस्थ और ऊष्म कुल मिलाकर -",
+    "options": [
+      "11",
+      "8",
+      "25",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_552385_v2",
+    "variant_of": "वर्ण विच_552385"
+  },
+  {
+    "q": "स्वर यंत्र से निकलने वाली ध्वनि -",
+    "options": [
+      "संयुक्त",
+      "व्यंजन",
+      "अयोगवाह",
+      "स्वर"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_846424"
+  },
+  {
+    "q": "स्वर यंत्र से निकलने वाली ध्वनि -",
+    "options": [
+      "स्वर",
+      "संयुक्त",
+      "अयोगवाह",
+      "व्यंजन"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_846424_v1",
+    "variant_of": "वर्ण विच_846424"
+  },
+  {
+    "q": "स्वर यंत्र से निकलने वाली ध्वनि -",
+    "options": [
+      "व्यंजन",
+      "स्वर",
+      "अयोगवाह",
+      "संयुक्त"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_846424_v2",
+    "variant_of": "वर्ण विच_846424"
+  },
+  {
+    "q": "'ज्ञ' बना है -",
+    "options": [
+      "ज् + ञ् + अ",
+      "ज् + ञ",
+      "ज् + न",
+      "ग् + य"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_168060"
+  },
+  {
+    "q": "'ज्ञ' बना है -",
+    "options": [
+      "ज् + ञ",
+      "ज् + ञ् + अ",
+      "ज् + न",
+      "ग् + य"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_168060_v1",
+    "variant_of": "वर्ण विच_168060"
+  },
+  {
+    "q": "'ज्ञ' बना है?",
+    "options": [
+      "ग् + य",
+      "ज् + ञ् + अ",
+      "ज् + न",
+      "ज् + ञ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_168060_v2",
+    "variant_of": "वर्ण विच_168060"
+  },
+  {
+    "q": "'श्र' बना है -",
+    "options": [
+      "ष् + र",
+      "श् + र",
+      "स् + र",
+      "श् + ऋ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वर्ण विच_36314"
+  },
+  {
+    "q": "'श्र' बना है -",
+    "options": [
+      "श् + ऋ",
+      "ष् + र",
+      "स् + र",
+      "श् + र"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वर्ण विच_36314_v1",
+    "variant_of": "वर्ण विच_36314"
+  },
+  {
+    "q": "'श्र' बना है?",
+    "options": [
+      "ष् + र",
+      "स् + र",
+      "श् + र",
+      "श् + ऋ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_36314_v2",
+    "variant_of": "वर्ण विच_36314"
+  },
+  {
+    "q": "'त्र' बना है -",
+    "options": [
+      "त्र स्वतंत्र",
+      "ट् + र",
+      "त् + ऋ",
+      "त् + र"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_818233"
+  },
+  {
+    "q": "'त्र' बना है -",
+    "options": [
+      "त् + र",
+      "त् + ऋ",
+      "ट् + र",
+      "त्र स्वतंत्र"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_818233_v1",
+    "variant_of": "वर्ण विच_818233"
+  },
+  {
+    "q": "'त्र' बना है?",
+    "options": [
+      "त् + ऋ",
+      "त्र स्वतंत्र",
+      "त् + र",
+      "ट् + र"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_818233_v2",
+    "variant_of": "वर्ण विच_818233"
+  },
+  {
+    "q": "देवनागरी लिपि है -",
+    "options": [
+      "अक्षरात्मक",
+      "वर्णात्मक",
+      "भावात्मक",
+      "चित्रात्मक"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_477784"
+  },
+  {
+    "q": "देवनागरी लिपि है -",
+    "options": [
+      "अक्षरात्मक",
+      "भावात्मक",
+      "वर्णात्मक",
+      "चित्रात्मक"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_477784_v1",
+    "variant_of": "वर्ण विच_477784"
+  },
+  {
+    "q": "देवनागरी लिपि है?",
+    "options": [
+      "अक्षरात्मक",
+      "भावात्मक",
+      "चित्रात्मक",
+      "वर्णात्मक"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_477784_v2",
+    "variant_of": "वर्ण विच_477784"
+  },
+  {
+    "q": "मात्रा गणना में 'आ' है -",
+    "options": [
+      "दीर्घ",
+      "ह्रस्व",
+      "प्लुत",
+      "अर्ध"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_712728"
+  },
+  {
+    "q": "मात्रा गणना में 'आ' है -",
+    "options": [
+      "अर्ध",
+      "ह्रस्व",
+      "प्लुत",
+      "दीर्घ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_712728_v1",
+    "variant_of": "वर्ण विच_712728"
+  },
+  {
+    "q": "मात्रा गणना में 'आ' है?",
+    "options": [
+      "ह्रस्व",
+      "प्लुत",
+      "अर्ध",
+      "दीर्घ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_712728_v2",
+    "variant_of": "वर्ण विच_712728"
+  },
+  {
+    "q": "संयुक्ताक्षर नहीं है -",
+    "options": [
+      "श्र",
+      "ज्ञ",
+      "त्र",
+      "क",
+      "क्ष"
+    ],
+    "answer": 0,
+    "explanation": "क स्वतंत्र है",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_882261"
+  },
+  {
+    "q": "संयुक्ताक्षर नहीं है -",
+    "options": [
+      "क्ष",
+      "ज्ञ",
+      "त्र",
+      "क",
+      "श्र"
+    ],
+    "answer": 4,
+    "explanation": "क स्वतंत्र है",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_882261_v1",
+    "variant_of": "वर्ण विच_882261"
+  },
+  {
+    "q": "संयुक्ताक्षर नहीं है?",
+    "options": [
+      "त्र",
+      "क्ष",
+      "श्र",
+      "ज्ञ",
+      "क"
+    ],
+    "answer": 2,
+    "explanation": "क स्वतंत्र है",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_882261_v2",
+    "variant_of": "वर्ण विच_882261"
+  },
+  {
+    "q": "वर्णों के व्यवस्थित समूह को कहते हैं -",
+    "options": [
+      "व्याकरण",
+      "शब्दकोश",
+      "वाक्य",
+      "वर्णमाला"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_320214"
+  },
+  {
+    "q": "वर्णों के व्यवस्थित समूह को कहते हैं -",
+    "options": [
+      "वाक्य",
+      "वर्णमाला",
+      "व्याकरण",
+      "शब्दकोश"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_320214_v1",
+    "variant_of": "वर्ण विच_320214"
+  },
+  {
+    "q": "वर्णों के व्यवस्थित समूह को कहते हैं -",
+    "options": [
+      "व्याकरण",
+      "वर्णमाला",
+      "वाक्य",
+      "शब्दकोश"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_320214_v2",
+    "variant_of": "वर्ण विच_320214"
+  },
+  {
+    "q": "हिंदी में मूल स्वर -",
+    "options": [
+      "11",
+      "4",
+      "13",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_962845"
+  },
+  {
+    "q": "हिंदी में मूल स्वर -",
+    "options": [
+      "13",
+      "7",
+      "11",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_962845_v1",
+    "variant_of": "वर्ण विच_962845"
+  },
+  {
+    "q": "हिंदी में मूल स्वर -",
+    "options": [
+      "13",
+      "7",
+      "4",
+      "11"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_962845_v2",
+    "variant_of": "वर्ण विच_962845"
+  },
+  {
+    "q": "हिंदी व्यंजनों की मूल संख्या -",
+    "options": [
+      "36",
+      "25",
+      "33",
+      "41"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वर्ण विच_759418"
+  },
+  {
+    "q": "हिंदी व्यंजनों की मूल संख्या -",
+    "options": [
+      "25",
+      "36",
+      "41",
+      "33"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वर्ण विच_759418_v1",
+    "variant_of": "वर्ण विच_759418"
+  },
+  {
+    "q": "हिंदी व्यंजनों की मूल संख्या -",
+    "options": [
+      "41",
+      "25",
+      "33",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_759418_v2",
+    "variant_of": "वर्ण विच_759418"
+  },
+  {
+    "q": "'ऋ' स्वर का उच्चारण स्थान -",
+    "options": [
+      "कंठ",
+      "तालु",
+      "मूर्धा",
+      "दंत"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_745962"
+  },
+  {
+    "q": "'ऋ' स्वर का उच्चारण स्थान -",
+    "options": [
+      "दंत",
+      "मूर्धा",
+      "तालु",
+      "कंठ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_745962_v1",
+    "variant_of": "वर्ण विच_745962"
+  },
+  {
+    "q": "'ऋ' स्वर का उच्चारण स्थान -",
+    "options": [
+      "कंठ",
+      "मूर्धा",
+      "दंत",
+      "तालु"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_745962_v2",
+    "variant_of": "वर्ण विच_745962"
+  },
+  {
+    "q": "द्विगुण व्यंजन -",
+    "options": [
+      "क्ष, त्र",
+      "य, व",
+      "ड़, ढ़",
+      "श, ष"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_250384"
+  },
+  {
+    "q": "द्विगुण व्यंजन -",
+    "options": [
+      "श, ष",
+      "क्ष, त्र",
+      "य, व",
+      "ड़, ढ़"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_250384_v1",
+    "variant_of": "वर्ण विच_250384"
+  },
+  {
+    "q": "द्विगुण व्यंजन -",
+    "options": [
+      "य, व",
+      "ड़, ढ़",
+      "श, ष",
+      "क्ष, त्र"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_250384_v2",
+    "variant_of": "वर्ण विच_250384"
+  },
+  {
+    "q": "नासिक्य व्यंजन -",
+    "options": [
+      "य, र, ल, व",
+      "क, च, ट",
+      "ङ, ञ, ण, न, म",
+      "श, ष, स"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वर्ण विच_948225"
+  },
+  {
+    "q": "नासिक्य व्यंजन -",
+    "options": [
+      "क, च, ट",
+      "श, ष, स",
+      "य, र, ल, व",
+      "ङ, ञ, ण, न, म"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "वर्ण विच_948225_v1",
+    "variant_of": "वर्ण विच_948225"
+  },
+  {
+    "q": "नासिक्य व्यंजन -",
+    "options": [
+      "य, र, ल, व",
+      "श, ष, स",
+      "क, च, ट",
+      "ङ, ञ, ण, न, म"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_948225_v2",
+    "variant_of": "वर्ण विच_948225"
+  },
+  {
+    "q": "हिंदी वर्णमाला में कुल स्वरों की संख्या कितनी है?",
+    "options": [
+      "11",
+      "33",
+      "13",
+      "25"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_195842"
+  },
+  {
+    "q": "हिंदी वर्णमाला में कुल स्वरों की संख्या कितनी है?",
+    "options": [
+      "13",
+      "11",
+      "33",
+      "25"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_195842_v1",
+    "variant_of": "वर्ण विच_195842"
+  },
+  {
+    "q": "हिंदी वर्णमाला में कुल स्वरों की संख्या कितनी है?",
+    "options": [
+      "13",
+      "11",
+      "33",
+      "25"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_195842_v2",
+    "variant_of": "वर्ण विच_195842"
+  },
+  {
+    "q": "स्पर्श व्यंजनों की संख्या कितनी है?",
+    "options": [
+      "8",
+      "11",
+      "4",
+      "25"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_618939"
+  },
+  {
+    "q": "स्पर्श व्यंजनों की संख्या कितनी है?",
+    "options": [
+      "8",
+      "4",
+      "11",
+      "25"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_618939_v1",
+    "variant_of": "वर्ण विच_618939"
+  },
+  {
+    "q": "स्पर्श व्यंजनों की संख्या कितनी है?",
+    "options": [
+      "25",
+      "11",
+      "4",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_618939_v2",
+    "variant_of": "वर्ण विच_618939"
+  },
+  {
+    "q": "'क' वर्ण का उच्चारण स्थान क्या है?",
+    "options": [
+      "कंठ",
+      "तालु",
+      "मूर्धा",
+      "दंत"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_732121"
+  },
+  {
+    "q": "'क' वर्ण का उच्चारण स्थान क्या है?",
+    "options": [
+      "दंत",
+      "कंठ",
+      "तालु",
+      "मूर्धा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_732121_v1",
+    "variant_of": "वर्ण विच_732121"
+  },
+  {
+    "q": "'क' वर्ण का उच्चारण स्थान क्या है?",
+    "options": [
+      "कंठ",
+      "दंत",
+      "तालु",
+      "मूर्धा"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_732121_v2",
+    "variant_of": "वर्ण विच_732121"
+  },
+  {
+    "q": "अंतःस्थ व्यंजन कौन से हैं?",
+    "options": [
+      "य, र, ल, व",
+      "क, ख, ग, घ",
+      "ट, ठ, ड, ढ",
+      "श, ष, स, ह"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_747340"
+  },
+  {
+    "q": "अंतःस्थ व्यंजन कौन से हैं?",
+    "options": [
+      "क, ख, ग, घ",
+      "श, ष, स, ह",
+      "य, र, ल, व",
+      "ट, ठ, ड, ढ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_747340_v1",
+    "variant_of": "वर्ण विच_747340"
+  },
+  {
+    "q": "अंतःस्थ व्यंजन कौन से हैं?",
+    "options": [
+      "क, ख, ग, घ",
+      "ट, ठ, ड, ढ",
+      "श, ष, स, ह",
+      "य, र, ल, व"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वर्ण विच_747340_v2",
+    "variant_of": "वर्ण विच_747340"
+  },
+  {
+    "q": "ऊष्म व्यंजन हैं -",
+    "options": [
+      "श, ष, स, ह",
+      "अ, आ, इ, ई",
+      "य, र, ल, व",
+      "क, च, ट, त"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_99635"
+  },
+  {
+    "q": "ऊष्म व्यंजन हैं -",
+    "options": [
+      "श, ष, स, ह",
+      "अ, आ, इ, ई",
+      "क, च, ट, त",
+      "य, र, ल, व"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_99635_v1",
+    "variant_of": "वर्ण विच_99635"
+  },
+  {
+    "q": "ऊष्म व्यंजन हैं -",
+    "options": [
+      "य, र, ल, व",
+      "क, च, ट, त",
+      "अ, आ, इ, ई",
+      "श, ष, स, ह"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_99635_v2",
+    "variant_of": "वर्ण विच_99635"
+  },
+  {
+    "q": "'च' वर्ग का उच्चारण स्थान है -",
+    "options": [
+      "ओष्ठ",
+      "मूर्धा",
+      "तालु",
+      "कंठ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_123657"
+  },
+  {
+    "q": "'च' वर्ग का उच्चारण स्थान है -",
+    "options": [
+      "तालु",
+      "मूर्धा",
+      "ओष्ठ",
+      "कंठ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_123657_v1",
+    "variant_of": "वर्ण विच_123657"
+  },
+  {
+    "q": "'च' वर्ग का उच्चारण स्थान है?",
+    "options": [
+      "कंठ",
+      "तालु",
+      "ओष्ठ",
+      "मूर्धा"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_123657_v2",
+    "variant_of": "वर्ण विच_123657"
+  },
+  {
+    "q": "अयोगवाह वर्ण हैं -",
+    "options": [
+      "ऋ, लृ",
+      "क्ष, त्र",
+      "अं, अः",
+      "य, व"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_283823"
+  },
+  {
+    "q": "अयोगवाह वर्ण हैं -",
+    "options": [
+      "क्ष, त्र",
+      "य, व",
+      "ऋ, लृ",
+      "अं, अः"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_283823_v1",
+    "variant_of": "वर्ण विच_283823"
+  },
+  {
+    "q": "अयोगवाह वर्ण हैं -",
+    "options": [
+      "अं, अः",
+      "क्ष, त्र",
+      "य, व",
+      "ऋ, लृ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_283823_v2",
+    "variant_of": "वर्ण विच_283823"
+  },
+  {
+    "q": "संयुक्त व्यंजन है -",
+    "options": [
+      "श",
+      "य",
+      "क्ष",
+      "क"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_355436"
+  },
+  {
+    "q": "संयुक्त व्यंजन है -",
+    "options": [
+      "क",
+      "श",
+      "य",
+      "क्ष"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_355436_v1",
+    "variant_of": "वर्ण विच_355436"
+  },
+  {
+    "q": "संयुक्त व्यंजन है?",
+    "options": [
+      "य",
+      "क्ष",
+      "क",
+      "श"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_355436_v2",
+    "variant_of": "वर्ण विच_355436"
+  },
+  {
+    "q": "हिंदी में कुल वर्ण हैं -",
+    "options": [
+      "52",
+      "33",
+      "36",
+      "44"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_552829"
+  },
+  {
+    "q": "हिंदी में कुल वर्ण हैं -",
+    "options": [
+      "52",
+      "33",
+      "44",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_552829_v1",
+    "variant_of": "वर्ण विच_552829"
+  },
+  {
+    "q": "हिंदी में कुल वर्ण हैं -",
+    "options": [
+      "33",
+      "44",
+      "36",
+      "52"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_552829_v2",
+    "variant_of": "वर्ण विच_552829"
+  },
+  {
+    "q": "'त' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "कंठ",
+      "ओष्ठ",
+      "तालु",
+      "दंत"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_27137"
+  },
+  {
+    "q": "'त' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "ओष्ठ",
+      "तालु",
+      "कंठ",
+      "दंत"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_27137_v1",
+    "variant_of": "वर्ण विच_27137"
+  },
+  {
+    "q": "'त' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "कंठ",
+      "दंत",
+      "तालु",
+      "ओष्ठ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_27137_v2",
+    "variant_of": "वर्ण विच_27137"
+  },
+  {
+    "q": "'प' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "ओष्ठ",
+      "दंत",
+      "मूर्धा",
+      "कंठ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_963286"
+  },
+  {
+    "q": "'प' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "ओष्ठ",
+      "कंठ",
+      "मूर्धा",
+      "दंत"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_963286_v1",
+    "variant_of": "वर्ण विच_963286"
+  },
+  {
+    "q": "'प' वर्ग का उच्चारण स्थान?",
+    "options": [
+      "कंठ",
+      "दंत",
+      "ओष्ठ",
+      "मूर्धा"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_963286_v2",
+    "variant_of": "वर्ण विच_963286"
+  },
+  {
+    "q": "ह्रस्व स्वर हैं -",
+    "options": [
+      "सभी",
+      "अ, इ, उ, ऋ",
+      "ए, ऐ, ओ, औ",
+      "आ, ई, ऊ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_580761"
+  },
+  {
+    "q": "ह्रस्व स्वर हैं -",
+    "options": [
+      "सभी",
+      "अ, इ, उ, ऋ",
+      "ए, ऐ, ओ, औ",
+      "आ, ई, ऊ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_580761_v1",
+    "variant_of": "वर्ण विच_580761"
+  },
+  {
+    "q": "ह्रस्व स्वर हैं -",
+    "options": [
+      "सभी",
+      "अ, इ, उ, ऋ",
+      "ए, ऐ, ओ, औ",
+      "आ, ई, ऊ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "वर्ण विच_580761_v2",
+    "variant_of": "वर्ण विच_580761"
+  },
+  {
+    "q": "दीर्घ स्वर नहीं है -",
+    "options": [
+      "इ",
+      "आ",
+      "ई",
+      "ऊ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_358617"
+  },
+  {
+    "q": "दीर्घ स्वर नहीं है -",
+    "options": [
+      "ई",
+      "इ",
+      "ऊ",
+      "आ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_358617_v1",
+    "variant_of": "वर्ण विच_358617"
+  },
+  {
+    "q": "दीर्घ स्वर नहीं है?",
+    "options": [
+      "इ",
+      "आ",
+      "ऊ",
+      "ई"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_358617_v2",
+    "variant_of": "वर्ण विच_358617"
+  },
+  {
+    "q": "अनुनासिक चिह्न है -",
+    "options": [
+      "ँ",
+      "ः",
+      "ं",
+      "्"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_453844"
+  },
+  {
+    "q": "अनुनासिक चिह्न है -",
+    "options": [
+      "ं",
+      "्",
+      "ँ",
+      "ः"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_453844_v1",
+    "variant_of": "वर्ण विच_453844"
+  },
+  {
+    "q": "अनुनासिक चिह्न है?",
+    "options": [
+      "ँ",
+      "ः",
+      "्",
+      "ं"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "वर्ण विच_453844_v2",
+    "variant_of": "वर्ण विच_453844"
+  },
+  {
+    "q": "अनुस्वार चिह्न -",
+    "options": [
+      "्",
+      "ः",
+      "ँ",
+      "ं"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_329836"
+  },
+  {
+    "q": "अनुस्वार चिह्न -",
+    "options": [
+      "ः",
+      "ं",
+      "ँ",
+      "्"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_329836_v1",
+    "variant_of": "वर्ण विच_329836"
+  },
+  {
+    "q": "अनुस्वार चिह्न -",
+    "options": [
+      "ः",
+      "्",
+      "ं",
+      "ँ"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_329836_v2",
+    "variant_of": "वर्ण विच_329836"
+  },
+  {
+    "q": "विसर्ग चिह्न -",
+    "options": [
+      "ं",
+      "ँ",
+      "़",
+      "ः"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_927045"
+  },
+  {
+    "q": "विसर्ग चिह्न -",
+    "options": [
+      "ः",
+      "ं",
+      "़",
+      "ँ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_927045_v1",
+    "variant_of": "वर्ण विच_927045"
+  },
+  {
+    "q": "विसर्ग चिह्न -",
+    "options": [
+      "़",
+      "ँ",
+      "ः",
+      "ं"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "वर्ण विच_927045_v2",
+    "variant_of": "वर्ण विच_927045"
+  },
+  {
+    "q": "'ट' वर्ग का उच्चारण स्थान -",
+    "options": [
+      "तालु",
+      "मूर्धा",
+      "कंठ",
+      "दंत"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_963285"
+  },
+  {
+    "q": "'ट' वर्ग का उच्चारण स्थान -",
+    "options": [
+      "मूर्धा",
+      "दंत",
+      "तालु",
+      "कंठ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_963285_v1",
+    "variant_of": "वर्ण विच_963285"
+  },
+  {
+    "q": "'ट' वर्ग का उच्चारण स्थान -",
+    "options": [
+      "तालु",
+      "कंठ",
+      "दंत",
+      "मूर्धा"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_963285_v2",
+    "variant_of": "वर्ण विच_963285"
+  },
+  {
+    "q": "अल्पप्राण वर्ण -",
+    "options": [
+      "फ, भ",
+      "थ, ध",
+      "ख, घ",
+      "क, ग"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_492945"
+  },
+  {
+    "q": "अल्पप्राण वर्ण -",
+    "options": [
+      "क, ग",
+      "थ, ध",
+      "फ, भ",
+      "ख, घ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_492945_v1",
+    "variant_of": "वर्ण विच_492945"
+  },
+  {
+    "q": "अल्पप्राण वर्ण -",
+    "options": [
+      "क, ग",
+      "फ, भ",
+      "ख, घ",
+      "थ, ध"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "वर्ण विच_492945_v2",
+    "variant_of": "वर्ण विच_492945"
+  },
+  {
+    "q": "महाप्राण वर्ण -",
+    "options": [
+      "क, ग",
+      "च, ज",
+      "ट, ड",
+      "ख, घ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_85609"
+  },
+  {
+    "q": "महाप्राण वर्ण -",
+    "options": [
+      "ट, ड",
+      "क, ग",
+      "च, ज",
+      "ख, घ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_85609_v1",
+    "variant_of": "वर्ण विच_85609"
+  },
+  {
+    "q": "महाप्राण वर्ण -",
+    "options": [
+      "ट, ड",
+      "च, ज",
+      "ख, घ",
+      "क, ग"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_85609_v2",
+    "variant_of": "वर्ण विच_85609"
+  },
+  {
+    "q": "घोष वर्ण -",
+    "options": [
+      "च, छ",
+      "ट, ठ",
+      "क, ख",
+      "ग, घ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_67825"
+  },
+  {
+    "q": "घोष वर्ण -",
+    "options": [
+      "ग, घ",
+      "क, ख",
+      "च, छ",
+      "ट, ठ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_67825_v1",
+    "variant_of": "वर्ण विच_67825"
+  },
+  {
+    "q": "घोष वर्ण -",
+    "options": [
+      "क, ख",
+      "ग, घ",
+      "ट, ठ",
+      "च, छ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_67825_v2",
+    "variant_of": "वर्ण विच_67825"
+  },
+  {
+    "q": "अघोष वर्ण -",
+    "options": [
+      "ज, झ",
+      "ग, घ",
+      "ड, ढ",
+      "क, ख"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_579302"
+  },
+  {
+    "q": "अघोष वर्ण -",
+    "options": [
+      "क, ख",
+      "ज, झ",
+      "ड, ढ",
+      "ग, घ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_579302_v1",
+    "variant_of": "वर्ण विच_579302"
+  },
+  {
+    "q": "अघोष वर्ण -",
+    "options": [
+      "ड, ढ",
+      "क, ख",
+      "ज, झ",
+      "ग, घ"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_579302_v2",
+    "variant_of": "वर्ण विच_579302"
+  },
+  {
+    "q": "अंतस्थ और ऊष्म कुल मिलाकर -",
+    "options": [
+      "8",
+      "25",
+      "11",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_552385"
+  },
+  {
+    "q": "अंतस्थ और ऊष्म कुल मिलाकर -",
+    "options": [
+      "25",
+      "4",
+      "11",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_552385_v1",
+    "variant_of": "वर्ण विच_552385"
+  },
+  {
+    "q": "अंतस्थ और ऊष्म कुल मिलाकर -",
+    "options": [
+      "8",
+      "11",
+      "25",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_552385_v2",
+    "variant_of": "वर्ण विच_552385"
+  },
+  {
+    "q": "स्वर यंत्र से निकलने वाली ध्वनि -",
+    "options": [
+      "स्वर",
+      "व्यंजन",
+      "संयुक्त",
+      "अयोगवाह"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_846424"
+  },
+  {
+    "q": "स्वर यंत्र से निकलने वाली ध्वनि -",
+    "options": [
+      "स्वर",
+      "अयोगवाह",
+      "व्यंजन",
+      "संयुक्त"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_846424_v1",
+    "variant_of": "वर्ण विच_846424"
+  },
+  {
+    "q": "स्वर यंत्र से निकलने वाली ध्वनि -",
+    "options": [
+      "व्यंजन",
+      "अयोगवाह",
+      "संयुक्त",
+      "स्वर"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "वर्ण विच_846424_v2",
+    "variant_of": "वर्ण विच_846424"
+  },
+  {
+    "q": "'ज्ञ' बना है -",
+    "options": [
+      "ग् + य",
+      "ज् + ञ् + अ",
+      "ज् + ञ",
+      "ज् + न"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_168060"
+  },
+  {
+    "q": "'ज्ञ' बना है -",
+    "options": [
+      "ज् + ञ् + अ",
+      "ज् + न",
+      "ग् + य",
+      "ज् + ञ"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_168060_v1",
+    "variant_of": "वर्ण विच_168060"
+  },
+  {
+    "q": "'ज्ञ' बना है?",
+    "options": [
+      "ज् + न",
+      "ज् + ञ",
+      "ज् + ञ् + अ",
+      "ग् + य"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "वर्ण विच_168060_v2",
+    "variant_of": "वर्ण विच_168060"
+  },
+  {
+    "q": "'श्र' बना है -",
+    "options": [
+      "श् + र",
+      "ष् + र",
+      "स् + र",
+      "श् + ऋ"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_36314"
+  },
+  {
+    "q": "'श्र' बना है -",
+    "options": [
+      "श् + र",
+      "स् + र",
+      "श् + ऋ",
+      "ष् + र"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_36314_v1",
+    "variant_of": "वर्ण विच_36314"
+  },
+  {
+    "q": "'श्र' बना है?",
+    "options": [
+      "श् + र",
+      "श् + ऋ",
+      "ष् + र",
+      "स् + र"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "वर्ण विचार",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "वर्ण विच_36314_v2",
+    "variant_of": "वर्ण विच_36314"
+  }
+]

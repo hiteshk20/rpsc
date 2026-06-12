@@ -1,0 +1,2822 @@
+[
+  {
+    "q": "छायावाद कवि",
+    "options": [
+      "बिहारी",
+      "कबीर",
+      "जयशंकर प्रसाद",
+      "तुलसीदास"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "आधुनिक_996502"
+  },
+  {
+    "q": "छायावाद कवि",
+    "options": [
+      "तुलसीदास",
+      "जयशंकर प्रसाद",
+      "बिहारी",
+      "कबीर"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "आधुनिक_996502_v1",
+    "variant_of": "आधुनिक_996502"
+  },
+  {
+    "q": "छायावाद कवि",
+    "options": [
+      "तुलसीदास",
+      "कबीर",
+      "जयशंकर प्रसाद",
+      "बिहारी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "आधुनिक_996502_v2",
+    "variant_of": "आधुनिक_996502"
+  },
+  {
+    "q": "'गोदान' लेखक",
+    "options": [
+      "पंत",
+      "प्रसाद",
+      "प्रेमचंद",
+      "निराला"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_186848"
+  },
+  {
+    "q": "'गोदान' लेखक",
+    "options": [
+      "निराला",
+      "प्रेमचंद",
+      "पंत",
+      "प्रसाद"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_186848_v1",
+    "variant_of": "आधुनिक_186848"
+  },
+  {
+    "q": "'गोदान' लेखक",
+    "options": [
+      "निराला",
+      "पंत",
+      "प्रेमचंद",
+      "प्रसाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_186848_v2",
+    "variant_of": "आधुनिक_186848"
+  },
+  {
+    "q": "भारतेंदु युग",
+    "options": [
+      "छायावाद",
+      "प्रगतिवाद",
+      "प्रयोगवाद",
+      "हिंदी नवजागरण"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "आधुनिक_589845"
+  },
+  {
+    "q": "भारतेंदु युग",
+    "options": [
+      "हिंदी नवजागरण",
+      "प्रयोगवाद",
+      "प्रगतिवाद",
+      "छायावाद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "आधुनिक_589845_v1",
+    "variant_of": "आधुनिक_589845"
+  },
+  {
+    "q": "भारतेंदु युग",
+    "options": [
+      "प्रयोगवाद",
+      "प्रगतिवाद",
+      "हिंदी नवजागरण",
+      "छायावाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "आधुनिक_589845_v2",
+    "variant_of": "आधुनिक_589845"
+  },
+  {
+    "q": "'कामायनी' रचयिता",
+    "options": [
+      "निराला",
+      "महादेवी",
+      "पंत",
+      "जयशंकर प्रसाद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_708670"
+  },
+  {
+    "q": "'कामायनी' रचयिता",
+    "options": [
+      "पंत",
+      "महादेवी",
+      "जयशंकर प्रसाद",
+      "निराला"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_708670_v1",
+    "variant_of": "आधुनिक_708670"
+  },
+  {
+    "q": "'कामायनी' रचयिता",
+    "options": [
+      "पंत",
+      "महादेवी",
+      "जयशंकर प्रसाद",
+      "निराला"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_708670_v2",
+    "variant_of": "आधुनिक_708670"
+  },
+  {
+    "q": "'उसने कहा था' लेखक",
+    "options": [
+      "यशपाल",
+      "प्रेमचंद",
+      "प्रसाद",
+      "चंद्रधर शर्मा गुलेरी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "आधुनिक_631694"
+  },
+  {
+    "q": "'उसने कहा था' लेखक",
+    "options": [
+      "प्रसाद",
+      "चंद्रधर शर्मा गुलेरी",
+      "प्रेमचंद",
+      "यशपाल"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "आधुनिक_631694_v1",
+    "variant_of": "आधुनिक_631694"
+  },
+  {
+    "q": "'उसने कहा था' लेखक",
+    "options": [
+      "प्रसाद",
+      "प्रेमचंद",
+      "चंद्रधर शर्मा गुलेरी",
+      "यशपाल"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "आधुनिक_631694_v2",
+    "variant_of": "आधुनिक_631694"
+  },
+  {
+    "q": "द्विवेदी युग प्रवर्तक",
+    "options": [
+      "प्रेमचंद",
+      "महावीर प्रसाद द्विवेदी",
+      "भारतेंदु",
+      "निराला"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "आधुनिक_9913"
+  },
+  {
+    "q": "द्विवेदी युग प्रवर्तक",
+    "options": [
+      "प्रेमचंद",
+      "भारतेंदु",
+      "निराला",
+      "महावीर प्रसाद द्विवेदी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "आधुनिक_9913_v1",
+    "variant_of": "आधुनिक_9913"
+  },
+  {
+    "q": "द्विवेदी युग प्रवर्तक",
+    "options": [
+      "निराला",
+      "महावीर प्रसाद द्विवेदी",
+      "भारतेंदु",
+      "प्रेमचंद"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "आधुनिक_9913_v2",
+    "variant_of": "आधुनिक_9913"
+  },
+  {
+    "q": "छायावाद चार स्तंभ नहीं",
+    "options": [
+      "पंत",
+      "निराला",
+      "प्रेमचंद",
+      "प्रसाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_697892"
+  },
+  {
+    "q": "छायावाद चार स्तंभ नहीं",
+    "options": [
+      "प्रेमचंद",
+      "पंत",
+      "प्रसाद",
+      "निराला"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_697892_v1",
+    "variant_of": "आधुनिक_697892"
+  },
+  {
+    "q": "छायावाद चार स्तंभ नहीं",
+    "options": [
+      "पंत",
+      "प्रसाद",
+      "निराला",
+      "प्रेमचंद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_697892_v2",
+    "variant_of": "आधुनिक_697892"
+  },
+  {
+    "q": "'पूस की रात' कहानीकार",
+    "options": [
+      "गुलेरी",
+      "यशपाल",
+      "प्रेमचंद",
+      "जैनेन्द्र"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_592136"
+  },
+  {
+    "q": "'पूस की रात' कहानीकार",
+    "options": [
+      "जैनेन्द्र",
+      "यशपाल",
+      "प्रेमचंद",
+      "गुलेरी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_592136_v1",
+    "variant_of": "आधुनिक_592136"
+  },
+  {
+    "q": "'पूस की रात' कहानीकार",
+    "options": [
+      "गुलेरी",
+      "जैनेन्द्र",
+      "यशपाल",
+      "प्रेमचंद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_592136_v2",
+    "variant_of": "आधुनिक_592136"
+  },
+  {
+    "q": "'आषाढ़ का एक दिन' नाटककार",
+    "options": [
+      "मोहन राकेश",
+      "प्रेमचंद",
+      "भारतेंदु",
+      "जयशंकर प्रसाद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_577542"
+  },
+  {
+    "q": "'आषाढ़ का एक दिन' नाटककार",
+    "options": [
+      "मोहन राकेश",
+      "भारतेंदु",
+      "जयशंकर प्रसाद",
+      "प्रेमचंद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_577542_v1",
+    "variant_of": "आधुनिक_577542"
+  },
+  {
+    "q": "'आषाढ़ का एक दिन' नाटककार",
+    "options": [
+      "भारतेंदु",
+      "मोहन राकेश",
+      "जयशंकर प्रसाद",
+      "प्रेमचंद"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_577542_v2",
+    "variant_of": "आधुनिक_577542"
+  },
+  {
+    "q": "'यही सच है' लेखिका",
+    "options": [
+      "महादेवी",
+      "मृदुला गर्ग",
+      "कृष्णा सोबती",
+      "मन्नू भंडारी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_618824"
+  },
+  {
+    "q": "'यही सच है' लेखिका",
+    "options": [
+      "महादेवी",
+      "मन्नू भंडारी",
+      "मृदुला गर्ग",
+      "कृष्णा सोबती"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_618824_v1",
+    "variant_of": "आधुनिक_618824"
+  },
+  {
+    "q": "'यही सच है' लेखिका",
+    "options": [
+      "कृष्णा सोबती",
+      "महादेवी",
+      "मृदुला गर्ग",
+      "मन्नू भंडारी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_618824_v2",
+    "variant_of": "आधुनिक_618824"
+  },
+  {
+    "q": "प्रगतिवाद समय",
+    "options": [
+      "1920-1936",
+      "1936-1943",
+      "1953-",
+      "1943-1953"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_417947"
+  },
+  {
+    "q": "प्रगतिवाद समय",
+    "options": [
+      "1953-",
+      "1943-1953",
+      "1920-1936",
+      "1936-1943"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_417947_v1",
+    "variant_of": "आधुनिक_417947"
+  },
+  {
+    "q": "प्रगतिवाद समय",
+    "options": [
+      "1953-",
+      "1920-1936",
+      "1936-1943",
+      "1943-1953"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_417947_v2",
+    "variant_of": "आधुनिक_417947"
+  },
+  {
+    "q": "प्रयोगवाद प्रवर्तक",
+    "options": [
+      "प्रेमचंद",
+      "पंत",
+      "निराला",
+      "अज्ञेय"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_156438"
+  },
+  {
+    "q": "प्रयोगवाद प्रवर्तक",
+    "options": [
+      "अज्ञेय",
+      "निराला",
+      "प्रेमचंद",
+      "पंत"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_156438_v1",
+    "variant_of": "आधुनिक_156438"
+  },
+  {
+    "q": "प्रयोगवाद प्रवर्तक",
+    "options": [
+      "अज्ञेय",
+      "पंत",
+      "प्रेमचंद",
+      "निराला"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "आधुनिक_156438_v2",
+    "variant_of": "आधुनिक_156438"
+  },
+  {
+    "q": "नई कविता",
+    "options": [
+      "1920",
+      "1936",
+      "1900",
+      "1953 के बाद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_84744"
+  },
+  {
+    "q": "नई कविता",
+    "options": [
+      "1920",
+      "1953 के बाद",
+      "1900",
+      "1936"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_84744_v1",
+    "variant_of": "आधुनिक_84744"
+  },
+  {
+    "q": "नई कविता",
+    "options": [
+      "1900",
+      "1936",
+      "1920",
+      "1953 के बाद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_84744_v2",
+    "variant_of": "आधुनिक_84744"
+  },
+  {
+    "q": "भारतेंदु हरिश्चंद्र को कहते हैं",
+    "options": [
+      "हिंदी नवजागरण अग्रदूत",
+      "",
+      "छायावाद जनक",
+      "प्रगतिवाद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_903326"
+  },
+  {
+    "q": "भारतेंदु हरिश्चंद्र को कहते हैं",
+    "options": [
+      "छायावाद जनक",
+      "",
+      "हिंदी नवजागरण अग्रदूत",
+      "प्रगतिवाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_903326_v1",
+    "variant_of": "आधुनिक_903326"
+  },
+  {
+    "q": "भारतेंदु हरिश्चंद्र को कहते हैं",
+    "options": [
+      "प्रगतिवाद",
+      "हिंदी नवजागरण अग्रदूत",
+      "छायावाद जनक",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_903326_v2",
+    "variant_of": "आधुनिक_903326"
+  },
+  {
+    "q": "छायावाद समय",
+    "options": [
+      "1943-",
+      "1900-1918",
+      "1918-1936",
+      "1936-1943"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_605893"
+  },
+  {
+    "q": "छायावाद समय",
+    "options": [
+      "1918-1936",
+      "1943-",
+      "1900-1918",
+      "1936-1943"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_605893_v1",
+    "variant_of": "आधुनिक_605893"
+  },
+  {
+    "q": "छायावाद समय",
+    "options": [
+      "1943-",
+      "1900-1918",
+      "1918-1936",
+      "1936-1943"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_605893_v2",
+    "variant_of": "आधुनिक_605893"
+  },
+  {
+    "q": "प्रेमचंद का गोदान वर्ष",
+    "options": [
+      "1926",
+      "1940",
+      "1936",
+      "1918"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_517385"
+  },
+  {
+    "q": "प्रेमचंद का गोदान वर्ष",
+    "options": [
+      "1940",
+      "1918",
+      "1926",
+      "1936"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_517385_v1",
+    "variant_of": "आधुनिक_517385"
+  },
+  {
+    "q": "प्रेमचंद का गोदान वर्ष",
+    "options": [
+      "1936",
+      "1940",
+      "1918",
+      "1926"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_517385_v2",
+    "variant_of": "आधुनिक_517385"
+  },
+  {
+    "q": "निराला का पूरा नाम",
+    "options": [
+      "जयशंकर",
+      "सुमित्रानंदन",
+      "",
+      "सूर्यकांत त्रिपाठी निराला"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "आधुनिक_174193"
+  },
+  {
+    "q": "निराला का पूरा नाम",
+    "options": [
+      "",
+      "सुमित्रानंदन",
+      "जयशंकर",
+      "सूर्यकांत त्रिपाठी निराला"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "आधुनिक_174193_v1",
+    "variant_of": "आधुनिक_174193"
+  },
+  {
+    "q": "निराला का पूरा नाम",
+    "options": [
+      "सुमित्रानंदन",
+      "सूर्यकांत त्रिपाठी निराला",
+      "जयशंकर",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_174193_v2",
+    "variant_of": "आधुनिक_174193"
+  },
+  {
+    "q": "महादेवी वर्मा –",
+    "options": [
+      "प्रगतिवाद",
+      "भारतेंदु",
+      "प्रयोगवाद",
+      "छायावाद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2013,
+    "id": "आधुनिक_953522"
+  },
+  {
+    "q": "महादेवी वर्मा –",
+    "options": [
+      "छायावाद",
+      "प्रगतिवाद",
+      "भारतेंदु",
+      "प्रयोगवाद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2013,
+    "id": "आधुनिक_953522_v1",
+    "variant_of": "आधुनिक_953522"
+  },
+  {
+    "q": "महादेवी वर्मा –",
+    "options": [
+      "प्रगतिवाद",
+      "भारतेंदु",
+      "प्रयोगवाद",
+      "छायावाद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_953522_v2",
+    "variant_of": "आधुनिक_953522"
+  },
+  {
+    "q": "हिंदी का प्रथम उपन्यास",
+    "options": [
+      "परीक्षा गुरु",
+      "सेवासदन",
+      "गोदान",
+      "चंद्रकांता"
+    ],
+    "answer": 0,
+    "explanation": "लाला श्रीनिवास दास",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "आधुनिक_448799"
+  },
+  {
+    "q": "हिंदी का प्रथम उपन्यास",
+    "options": [
+      "चंद्रकांता",
+      "परीक्षा गुरु",
+      "गोदान",
+      "सेवासदन"
+    ],
+    "answer": 1,
+    "explanation": "लाला श्रीनिवास दास",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "आधुनिक_448799_v1",
+    "variant_of": "आधुनिक_448799"
+  },
+  {
+    "q": "हिंदी का प्रथम उपन्यास",
+    "options": [
+      "सेवासदन",
+      "परीक्षा गुरु",
+      "चंद्रकांता",
+      "गोदान"
+    ],
+    "answer": 1,
+    "explanation": "लाला श्रीनिवास दास",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "आधुनिक_448799_v2",
+    "variant_of": "आधुनिक_448799"
+  },
+  {
+    "q": "हिंदी की प्रथम कहानी",
+    "options": [
+      "",
+      "इंदुमती",
+      "पूस की रात",
+      "उसने कहा था"
+    ],
+    "answer": 1,
+    "explanation": "किशोरीलाल गोस्वामी",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "आधुनिक_592383"
+  },
+  {
+    "q": "हिंदी की प्रथम कहानी",
+    "options": [
+      "इंदुमती",
+      "उसने कहा था",
+      "",
+      "पूस की रात"
+    ],
+    "answer": 0,
+    "explanation": "किशोरीलाल गोस्वामी",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "आधुनिक_592383_v1",
+    "variant_of": "आधुनिक_592383"
+  },
+  {
+    "q": "हिंदी की प्रथम कहानी",
+    "options": [
+      "उसने कहा था",
+      "पूस की रात",
+      "",
+      "इंदुमती"
+    ],
+    "answer": 3,
+    "explanation": "किशोरीलाल गोस्वामी",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_592383_v2",
+    "variant_of": "आधुनिक_592383"
+  },
+  {
+    "q": "छायावाद कवि",
+    "options": [
+      "तुलसीदास",
+      "कबीर",
+      "बिहारी",
+      "जयशंकर प्रसाद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_996502"
+  },
+  {
+    "q": "छायावाद कवि",
+    "options": [
+      "तुलसीदास",
+      "कबीर",
+      "जयशंकर प्रसाद",
+      "बिहारी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_996502_v1",
+    "variant_of": "आधुनिक_996502"
+  },
+  {
+    "q": "छायावाद कवि",
+    "options": [
+      "जयशंकर प्रसाद",
+      "बिहारी",
+      "कबीर",
+      "तुलसीदास"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_996502_v2",
+    "variant_of": "आधुनिक_996502"
+  },
+  {
+    "q": "'गोदान' लेखक",
+    "options": [
+      "निराला",
+      "प्रेमचंद",
+      "पंत",
+      "प्रसाद"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_186848"
+  },
+  {
+    "q": "'गोदान' लेखक",
+    "options": [
+      "निराला",
+      "पंत",
+      "प्रेमचंद",
+      "प्रसाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_186848_v1",
+    "variant_of": "आधुनिक_186848"
+  },
+  {
+    "q": "'गोदान' लेखक",
+    "options": [
+      "प्रेमचंद",
+      "पंत",
+      "प्रसाद",
+      "निराला"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_186848_v2",
+    "variant_of": "आधुनिक_186848"
+  },
+  {
+    "q": "भारतेंदु युग",
+    "options": [
+      "हिंदी नवजागरण",
+      "प्रयोगवाद",
+      "प्रगतिवाद",
+      "छायावाद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_589845"
+  },
+  {
+    "q": "भारतेंदु युग",
+    "options": [
+      "प्रयोगवाद",
+      "छायावाद",
+      "प्रगतिवाद",
+      "हिंदी नवजागरण"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_589845_v1",
+    "variant_of": "आधुनिक_589845"
+  },
+  {
+    "q": "भारतेंदु युग",
+    "options": [
+      "प्रगतिवाद",
+      "प्रयोगवाद",
+      "हिंदी नवजागरण",
+      "छायावाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_589845_v2",
+    "variant_of": "आधुनिक_589845"
+  },
+  {
+    "q": "'कामायनी' रचयिता",
+    "options": [
+      "पंत",
+      "जयशंकर प्रसाद",
+      "निराला",
+      "महादेवी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_708670"
+  },
+  {
+    "q": "'कामायनी' रचयिता",
+    "options": [
+      "जयशंकर प्रसाद",
+      "निराला",
+      "महादेवी",
+      "पंत"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_708670_v1",
+    "variant_of": "आधुनिक_708670"
+  },
+  {
+    "q": "'कामायनी' रचयिता",
+    "options": [
+      "जयशंकर प्रसाद",
+      "निराला",
+      "पंत",
+      "महादेवी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_708670_v2",
+    "variant_of": "आधुनिक_708670"
+  },
+  {
+    "q": "'उसने कहा था' लेखक",
+    "options": [
+      "चंद्रधर शर्मा गुलेरी",
+      "यशपाल",
+      "प्रेमचंद",
+      "प्रसाद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "आधुनिक_631694"
+  },
+  {
+    "q": "'उसने कहा था' लेखक",
+    "options": [
+      "प्रसाद",
+      "प्रेमचंद",
+      "चंद्रधर शर्मा गुलेरी",
+      "यशपाल"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "आधुनिक_631694_v1",
+    "variant_of": "आधुनिक_631694"
+  },
+  {
+    "q": "'उसने कहा था' लेखक",
+    "options": [
+      "प्रसाद",
+      "चंद्रधर शर्मा गुलेरी",
+      "यशपाल",
+      "प्रेमचंद"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "आधुनिक_631694_v2",
+    "variant_of": "आधुनिक_631694"
+  },
+  {
+    "q": "द्विवेदी युग प्रवर्तक",
+    "options": [
+      "निराला",
+      "प्रेमचंद",
+      "भारतेंदु",
+      "महावीर प्रसाद द्विवेदी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "आधुनिक_9913"
+  },
+  {
+    "q": "द्विवेदी युग प्रवर्तक",
+    "options": [
+      "निराला",
+      "भारतेंदु",
+      "प्रेमचंद",
+      "महावीर प्रसाद द्विवेदी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "आधुनिक_9913_v1",
+    "variant_of": "आधुनिक_9913"
+  },
+  {
+    "q": "द्विवेदी युग प्रवर्तक",
+    "options": [
+      "भारतेंदु",
+      "महावीर प्रसाद द्विवेदी",
+      "प्रेमचंद",
+      "निराला"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_9913_v2",
+    "variant_of": "आधुनिक_9913"
+  },
+  {
+    "q": "छायावाद चार स्तंभ नहीं",
+    "options": [
+      "निराला",
+      "प्रसाद",
+      "पंत",
+      "प्रेमचंद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "आधुनिक_697892"
+  },
+  {
+    "q": "छायावाद चार स्तंभ नहीं",
+    "options": [
+      "प्रेमचंद",
+      "प्रसाद",
+      "पंत",
+      "निराला"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "आधुनिक_697892_v1",
+    "variant_of": "आधुनिक_697892"
+  },
+  {
+    "q": "छायावाद चार स्तंभ नहीं",
+    "options": [
+      "प्रेमचंद",
+      "प्रसाद",
+      "पंत",
+      "निराला"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_697892_v2",
+    "variant_of": "आधुनिक_697892"
+  },
+  {
+    "q": "'पूस की रात' कहानीकार",
+    "options": [
+      "प्रेमचंद",
+      "जैनेन्द्र",
+      "यशपाल",
+      "गुलेरी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_592136"
+  },
+  {
+    "q": "'पूस की रात' कहानीकार",
+    "options": [
+      "गुलेरी",
+      "यशपाल",
+      "जैनेन्द्र",
+      "प्रेमचंद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_592136_v1",
+    "variant_of": "आधुनिक_592136"
+  },
+  {
+    "q": "'पूस की रात' कहानीकार",
+    "options": [
+      "प्रेमचंद",
+      "गुलेरी",
+      "जैनेन्द्र",
+      "यशपाल"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_592136_v2",
+    "variant_of": "आधुनिक_592136"
+  },
+  {
+    "q": "'आषाढ़ का एक दिन' नाटककार",
+    "options": [
+      "प्रेमचंद",
+      "मोहन राकेश",
+      "जयशंकर प्रसाद",
+      "भारतेंदु"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_577542"
+  },
+  {
+    "q": "'आषाढ़ का एक दिन' नाटककार",
+    "options": [
+      "मोहन राकेश",
+      "भारतेंदु",
+      "जयशंकर प्रसाद",
+      "प्रेमचंद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_577542_v1",
+    "variant_of": "आधुनिक_577542"
+  },
+  {
+    "q": "'आषाढ़ का एक दिन' नाटककार",
+    "options": [
+      "भारतेंदु",
+      "मोहन राकेश",
+      "जयशंकर प्रसाद",
+      "प्रेमचंद"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_577542_v2",
+    "variant_of": "आधुनिक_577542"
+  },
+  {
+    "q": "'यही सच है' लेखिका",
+    "options": [
+      "कृष्णा सोबती",
+      "मृदुला गर्ग",
+      "महादेवी",
+      "मन्नू भंडारी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_618824"
+  },
+  {
+    "q": "'यही सच है' लेखिका",
+    "options": [
+      "कृष्णा सोबती",
+      "महादेवी",
+      "मन्नू भंडारी",
+      "मृदुला गर्ग"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_618824_v1",
+    "variant_of": "आधुनिक_618824"
+  },
+  {
+    "q": "'यही सच है' लेखिका",
+    "options": [
+      "मन्नू भंडारी",
+      "मृदुला गर्ग",
+      "कृष्णा सोबती",
+      "महादेवी"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_618824_v2",
+    "variant_of": "आधुनिक_618824"
+  },
+  {
+    "q": "प्रगतिवाद समय",
+    "options": [
+      "1953-",
+      "1920-1936",
+      "1936-1943",
+      "1943-1953"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_417947"
+  },
+  {
+    "q": "प्रगतिवाद समय",
+    "options": [
+      "1943-1953",
+      "1953-",
+      "1936-1943",
+      "1920-1936"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_417947_v1",
+    "variant_of": "आधुनिक_417947"
+  },
+  {
+    "q": "प्रगतिवाद समय",
+    "options": [
+      "1953-",
+      "1936-1943",
+      "1920-1936",
+      "1943-1953"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_417947_v2",
+    "variant_of": "आधुनिक_417947"
+  },
+  {
+    "q": "प्रयोगवाद प्रवर्तक",
+    "options": [
+      "प्रेमचंद",
+      "पंत",
+      "अज्ञेय",
+      "निराला"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_156438"
+  },
+  {
+    "q": "प्रयोगवाद प्रवर्तक",
+    "options": [
+      "प्रेमचंद",
+      "अज्ञेय",
+      "निराला",
+      "पंत"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2013,
+    "id": "आधुनिक_156438_v1",
+    "variant_of": "आधुनिक_156438"
+  },
+  {
+    "q": "प्रयोगवाद प्रवर्तक",
+    "options": [
+      "अज्ञेय",
+      "निराला",
+      "पंत",
+      "प्रेमचंद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2013,
+    "id": "आधुनिक_156438_v2",
+    "variant_of": "आधुनिक_156438"
+  },
+  {
+    "q": "नई कविता",
+    "options": [
+      "1936",
+      "1900",
+      "1953 के बाद",
+      "1920"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_84744"
+  },
+  {
+    "q": "नई कविता",
+    "options": [
+      "1953 के बाद",
+      "1920",
+      "1936",
+      "1900"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_84744_v1",
+    "variant_of": "आधुनिक_84744"
+  },
+  {
+    "q": "नई कविता",
+    "options": [
+      "1953 के बाद",
+      "1936",
+      "1920",
+      "1900"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_84744_v2",
+    "variant_of": "आधुनिक_84744"
+  },
+  {
+    "q": "भारतेंदु हरिश्चंद्र को कहते हैं",
+    "options": [
+      "प्रगतिवाद",
+      "छायावाद जनक",
+      "",
+      "हिंदी नवजागरण अग्रदूत"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_903326"
+  },
+  {
+    "q": "भारतेंदु हरिश्चंद्र को कहते हैं",
+    "options": [
+      "छायावाद जनक",
+      "",
+      "हिंदी नवजागरण अग्रदूत",
+      "प्रगतिवाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_903326_v1",
+    "variant_of": "आधुनिक_903326"
+  },
+  {
+    "q": "भारतेंदु हरिश्चंद्र को कहते हैं",
+    "options": [
+      "",
+      "छायावाद जनक",
+      "प्रगतिवाद",
+      "हिंदी नवजागरण अग्रदूत"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "आधुनिक_903326_v2",
+    "variant_of": "आधुनिक_903326"
+  },
+  {
+    "q": "छायावाद समय",
+    "options": [
+      "1918-1936",
+      "1900-1918",
+      "1936-1943",
+      "1943-"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_605893"
+  },
+  {
+    "q": "छायावाद समय",
+    "options": [
+      "1918-1936",
+      "1936-1943",
+      "1900-1918",
+      "1943-"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_605893_v1",
+    "variant_of": "आधुनिक_605893"
+  },
+  {
+    "q": "छायावाद समय",
+    "options": [
+      "1936-1943",
+      "1900-1918",
+      "1918-1936",
+      "1943-"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_605893_v2",
+    "variant_of": "आधुनिक_605893"
+  },
+  {
+    "q": "प्रेमचंद का गोदान वर्ष",
+    "options": [
+      "1926",
+      "1940",
+      "1936",
+      "1918"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_517385"
+  },
+  {
+    "q": "प्रेमचंद का गोदान वर्ष",
+    "options": [
+      "1918",
+      "1926",
+      "1940",
+      "1936"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_517385_v1",
+    "variant_of": "आधुनिक_517385"
+  },
+  {
+    "q": "प्रेमचंद का गोदान वर्ष",
+    "options": [
+      "1940",
+      "1926",
+      "1918",
+      "1936"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_517385_v2",
+    "variant_of": "आधुनिक_517385"
+  },
+  {
+    "q": "निराला का पूरा नाम",
+    "options": [
+      "जयशंकर",
+      "सुमित्रानंदन",
+      "सूर्यकांत त्रिपाठी निराला",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "आधुनिक_174193"
+  },
+  {
+    "q": "निराला का पूरा नाम",
+    "options": [
+      "सुमित्रानंदन",
+      "",
+      "जयशंकर",
+      "सूर्यकांत त्रिपाठी निराला"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2011,
+    "id": "आधुनिक_174193_v1",
+    "variant_of": "आधुनिक_174193"
+  },
+  {
+    "q": "निराला का पूरा नाम",
+    "options": [
+      "",
+      "सुमित्रानंदन",
+      "जयशंकर",
+      "सूर्यकांत त्रिपाठी निराला"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_174193_v2",
+    "variant_of": "आधुनिक_174193"
+  },
+  {
+    "q": "महादेवी वर्मा –",
+    "options": [
+      "प्रगतिवाद",
+      "भारतेंदु",
+      "प्रयोगवाद",
+      "छायावाद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "आधुनिक_953522"
+  },
+  {
+    "q": "महादेवी वर्मा –",
+    "options": [
+      "प्रगतिवाद",
+      "प्रयोगवाद",
+      "छायावाद",
+      "भारतेंदु"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2016,
+    "id": "आधुनिक_953522_v1",
+    "variant_of": "आधुनिक_953522"
+  },
+  {
+    "q": "महादेवी वर्मा –",
+    "options": [
+      "भारतेंदु",
+      "छायावाद",
+      "प्रगतिवाद",
+      "प्रयोगवाद"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2016,
+    "id": "आधुनिक_953522_v2",
+    "variant_of": "आधुनिक_953522"
+  },
+  {
+    "q": "हिंदी का प्रथम उपन्यास",
+    "options": [
+      "गोदान",
+      "परीक्षा गुरु",
+      "सेवासदन",
+      "चंद्रकांता"
+    ],
+    "answer": 1,
+    "explanation": "लाला श्रीनिवास दास",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "आधुनिक_448799"
+  },
+  {
+    "q": "हिंदी का प्रथम उपन्यास",
+    "options": [
+      "सेवासदन",
+      "परीक्षा गुरु",
+      "चंद्रकांता",
+      "गोदान"
+    ],
+    "answer": 1,
+    "explanation": "लाला श्रीनिवास दास",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "आधुनिक_448799_v1",
+    "variant_of": "आधुनिक_448799"
+  },
+  {
+    "q": "हिंदी का प्रथम उपन्यास",
+    "options": [
+      "गोदान",
+      "चंद्रकांता",
+      "सेवासदन",
+      "परीक्षा गुरु"
+    ],
+    "answer": 3,
+    "explanation": "लाला श्रीनिवास दास",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2022,
+    "id": "आधुनिक_448799_v2",
+    "variant_of": "आधुनिक_448799"
+  },
+  {
+    "q": "हिंदी की प्रथम कहानी",
+    "options": [
+      "पूस की रात",
+      "",
+      "इंदुमती",
+      "उसने कहा था"
+    ],
+    "answer": 2,
+    "explanation": "किशोरीलाल गोस्वामी",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_592383"
+  },
+  {
+    "q": "हिंदी की प्रथम कहानी",
+    "options": [
+      "",
+      "पूस की रात",
+      "उसने कहा था",
+      "इंदुमती"
+    ],
+    "answer": 3,
+    "explanation": "किशोरीलाल गोस्वामी",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_592383_v1",
+    "variant_of": "आधुनिक_592383"
+  },
+  {
+    "q": "हिंदी की प्रथम कहानी",
+    "options": [
+      "",
+      "उसने कहा था",
+      "पूस की रात",
+      "इंदुमती"
+    ],
+    "answer": 3,
+    "explanation": "किशोरीलाल गोस्वामी",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_592383_v2",
+    "variant_of": "आधुनिक_592383"
+  },
+  {
+    "q": "छायावाद कवि",
+    "options": [
+      "बिहारी",
+      "तुलसीदास",
+      "कबीर",
+      "जयशंकर प्रसाद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "आधुनिक_996502"
+  },
+  {
+    "q": "छायावाद कवि",
+    "options": [
+      "तुलसीदास",
+      "बिहारी",
+      "कबीर",
+      "जयशंकर प्रसाद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "आधुनिक_996502_v1",
+    "variant_of": "आधुनिक_996502"
+  },
+  {
+    "q": "छायावाद कवि",
+    "options": [
+      "तुलसीदास",
+      "जयशंकर प्रसाद",
+      "बिहारी",
+      "कबीर"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2016,
+    "id": "आधुनिक_996502_v2",
+    "variant_of": "आधुनिक_996502"
+  },
+  {
+    "q": "'गोदान' लेखक",
+    "options": [
+      "प्रसाद",
+      "प्रेमचंद",
+      "निराला",
+      "पंत"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_186848"
+  },
+  {
+    "q": "'गोदान' लेखक",
+    "options": [
+      "निराला",
+      "प्रसाद",
+      "प्रेमचंद",
+      "पंत"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_186848_v1",
+    "variant_of": "आधुनिक_186848"
+  },
+  {
+    "q": "'गोदान' लेखक",
+    "options": [
+      "पंत",
+      "प्रसाद",
+      "निराला",
+      "प्रेमचंद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_186848_v2",
+    "variant_of": "आधुनिक_186848"
+  },
+  {
+    "q": "भारतेंदु युग",
+    "options": [
+      "हिंदी नवजागरण",
+      "प्रयोगवाद",
+      "प्रगतिवाद",
+      "छायावाद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_589845"
+  },
+  {
+    "q": "भारतेंदु युग",
+    "options": [
+      "छायावाद",
+      "प्रगतिवाद",
+      "हिंदी नवजागरण",
+      "प्रयोगवाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_589845_v1",
+    "variant_of": "आधुनिक_589845"
+  },
+  {
+    "q": "भारतेंदु युग",
+    "options": [
+      "प्रगतिवाद",
+      "प्रयोगवाद",
+      "हिंदी नवजागरण",
+      "छायावाद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_589845_v2",
+    "variant_of": "आधुनिक_589845"
+  },
+  {
+    "q": "'कामायनी' रचयिता",
+    "options": [
+      "जयशंकर प्रसाद",
+      "महादेवी",
+      "पंत",
+      "निराला"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_708670"
+  },
+  {
+    "q": "'कामायनी' रचयिता",
+    "options": [
+      "पंत",
+      "महादेवी",
+      "जयशंकर प्रसाद",
+      "निराला"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_708670_v1",
+    "variant_of": "आधुनिक_708670"
+  },
+  {
+    "q": "'कामायनी' रचयिता",
+    "options": [
+      "पंत",
+      "महादेवी",
+      "जयशंकर प्रसाद",
+      "निराला"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_708670_v2",
+    "variant_of": "आधुनिक_708670"
+  },
+  {
+    "q": "'उसने कहा था' लेखक",
+    "options": [
+      "प्रसाद",
+      "प्रेमचंद",
+      "चंद्रधर शर्मा गुलेरी",
+      "यशपाल"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_631694"
+  },
+  {
+    "q": "'उसने कहा था' लेखक",
+    "options": [
+      "प्रेमचंद",
+      "यशपाल",
+      "प्रसाद",
+      "चंद्रधर शर्मा गुलेरी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_631694_v1",
+    "variant_of": "आधुनिक_631694"
+  },
+  {
+    "q": "'उसने कहा था' लेखक",
+    "options": [
+      "चंद्रधर शर्मा गुलेरी",
+      "प्रसाद",
+      "प्रेमचंद",
+      "यशपाल"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_631694_v2",
+    "variant_of": "आधुनिक_631694"
+  },
+  {
+    "q": "द्विवेदी युग प्रवर्तक",
+    "options": [
+      "भारतेंदु",
+      "निराला",
+      "महावीर प्रसाद द्विवेदी",
+      "प्रेमचंद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_9913"
+  },
+  {
+    "q": "द्विवेदी युग प्रवर्तक",
+    "options": [
+      "महावीर प्रसाद द्विवेदी",
+      "निराला",
+      "प्रेमचंद",
+      "भारतेंदु"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_9913_v1",
+    "variant_of": "आधुनिक_9913"
+  },
+  {
+    "q": "द्विवेदी युग प्रवर्तक",
+    "options": [
+      "निराला",
+      "भारतेंदु",
+      "महावीर प्रसाद द्विवेदी",
+      "प्रेमचंद"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_9913_v2",
+    "variant_of": "आधुनिक_9913"
+  },
+  {
+    "q": "छायावाद चार स्तंभ नहीं",
+    "options": [
+      "प्रेमचंद",
+      "पंत",
+      "निराला",
+      "प्रसाद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_697892"
+  },
+  {
+    "q": "छायावाद चार स्तंभ नहीं",
+    "options": [
+      "पंत",
+      "प्रसाद",
+      "प्रेमचंद",
+      "निराला"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_697892_v1",
+    "variant_of": "आधुनिक_697892"
+  },
+  {
+    "q": "छायावाद चार स्तंभ नहीं",
+    "options": [
+      "निराला",
+      "पंत",
+      "प्रसाद",
+      "प्रेमचंद"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_697892_v2",
+    "variant_of": "आधुनिक_697892"
+  },
+  {
+    "q": "'पूस की रात' कहानीकार",
+    "options": [
+      "जैनेन्द्र",
+      "प्रेमचंद",
+      "यशपाल",
+      "गुलेरी"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_592136"
+  },
+  {
+    "q": "'पूस की रात' कहानीकार",
+    "options": [
+      "यशपाल",
+      "जैनेन्द्र",
+      "प्रेमचंद",
+      "गुलेरी"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_592136_v1",
+    "variant_of": "आधुनिक_592136"
+  },
+  {
+    "q": "'पूस की रात' कहानीकार",
+    "options": [
+      "गुलेरी",
+      "प्रेमचंद",
+      "यशपाल",
+      "जैनेन्द्र"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_592136_v2",
+    "variant_of": "आधुनिक_592136"
+  },
+  {
+    "q": "'आषाढ़ का एक दिन' नाटककार",
+    "options": [
+      "प्रेमचंद",
+      "जयशंकर प्रसाद",
+      "भारतेंदु",
+      "मोहन राकेश"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_577542"
+  },
+  {
+    "q": "'आषाढ़ का एक दिन' नाटककार",
+    "options": [
+      "मोहन राकेश",
+      "प्रेमचंद",
+      "जयशंकर प्रसाद",
+      "भारतेंदु"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_577542_v1",
+    "variant_of": "आधुनिक_577542"
+  },
+  {
+    "q": "'आषाढ़ का एक दिन' नाटककार",
+    "options": [
+      "प्रेमचंद",
+      "जयशंकर प्रसाद",
+      "मोहन राकेश",
+      "भारतेंदु"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_577542_v2",
+    "variant_of": "आधुनिक_577542"
+  },
+  {
+    "q": "'यही सच है' लेखिका",
+    "options": [
+      "महादेवी",
+      "मृदुला गर्ग",
+      "मन्नू भंडारी",
+      "कृष्णा सोबती"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_618824"
+  },
+  {
+    "q": "'यही सच है' लेखिका",
+    "options": [
+      "महादेवी",
+      "कृष्णा सोबती",
+      "मृदुला गर्ग",
+      "मन्नू भंडारी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_618824_v1",
+    "variant_of": "आधुनिक_618824"
+  },
+  {
+    "q": "'यही सच है' लेखिका",
+    "options": [
+      "मृदुला गर्ग",
+      "महादेवी",
+      "कृष्णा सोबती",
+      "मन्नू भंडारी"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_618824_v2",
+    "variant_of": "आधुनिक_618824"
+  },
+  {
+    "q": "प्रगतिवाद समय",
+    "options": [
+      "1920-1936",
+      "1953-",
+      "1943-1953",
+      "1936-1943"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_417947"
+  },
+  {
+    "q": "प्रगतिवाद समय",
+    "options": [
+      "1953-",
+      "1936-1943",
+      "1943-1953",
+      "1920-1936"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_417947_v1",
+    "variant_of": "आधुनिक_417947"
+  },
+  {
+    "q": "प्रगतिवाद समय",
+    "options": [
+      "1953-",
+      "1943-1953",
+      "1920-1936",
+      "1936-1943"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_417947_v2",
+    "variant_of": "आधुनिक_417947"
+  },
+  {
+    "q": "प्रयोगवाद प्रवर्तक",
+    "options": [
+      "निराला",
+      "पंत",
+      "प्रेमचंद",
+      "अज्ञेय"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_156438"
+  },
+  {
+    "q": "प्रयोगवाद प्रवर्तक",
+    "options": [
+      "अज्ञेय",
+      "पंत",
+      "निराला",
+      "प्रेमचंद"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2011,
+    "id": "आधुनिक_156438_v1",
+    "variant_of": "आधुनिक_156438"
+  },
+  {
+    "q": "प्रयोगवाद प्रवर्तक",
+    "options": [
+      "प्रेमचंद",
+      "निराला",
+      "अज्ञेय",
+      "पंत"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "आधुनिक_156438_v2",
+    "variant_of": "आधुनिक_156438"
+  },
+  {
+    "q": "नई कविता",
+    "options": [
+      "1900",
+      "1953 के बाद",
+      "1920",
+      "1936"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_84744"
+  },
+  {
+    "q": "नई कविता",
+    "options": [
+      "1920",
+      "1953 के बाद",
+      "1936",
+      "1900"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_84744_v1",
+    "variant_of": "आधुनिक_84744"
+  },
+  {
+    "q": "नई कविता",
+    "options": [
+      "1900",
+      "1920",
+      "1953 के बाद",
+      "1936"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_84744_v2",
+    "variant_of": "आधुनिक_84744"
+  },
+  {
+    "q": "भारतेंदु हरिश्चंद्र को कहते हैं",
+    "options": [
+      "हिंदी नवजागरण अग्रदूत",
+      "छायावाद जनक",
+      "प्रगतिवाद",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_903326"
+  },
+  {
+    "q": "भारतेंदु हरिश्चंद्र को कहते हैं",
+    "options": [
+      "प्रगतिवाद",
+      "हिंदी नवजागरण अग्रदूत",
+      "छायावाद जनक",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_903326_v1",
+    "variant_of": "आधुनिक_903326"
+  },
+  {
+    "q": "भारतेंदु हरिश्चंद्र को कहते हैं",
+    "options": [
+      "प्रगतिवाद",
+      "हिंदी नवजागरण अग्रदूत",
+      "छायावाद जनक",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_903326_v2",
+    "variant_of": "आधुनिक_903326"
+  },
+  {
+    "q": "छायावाद समय",
+    "options": [
+      "1900-1918",
+      "1936-1943",
+      "1918-1936",
+      "1943-"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_605893"
+  },
+  {
+    "q": "छायावाद समय",
+    "options": [
+      "1918-1936",
+      "1943-",
+      "1936-1943",
+      "1900-1918"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_605893_v1",
+    "variant_of": "आधुनिक_605893"
+  },
+  {
+    "q": "छायावाद समय",
+    "options": [
+      "1936-1943",
+      "1943-",
+      "1918-1936",
+      "1900-1918"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": null,
+    "id": "आधुनिक_605893_v2",
+    "variant_of": "आधुनिक_605893"
+  },
+  {
+    "q": "प्रेमचंद का गोदान वर्ष",
+    "options": [
+      "1936",
+      "1940",
+      "1926",
+      "1918"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_517385"
+  },
+  {
+    "q": "प्रेमचंद का गोदान वर्ष",
+    "options": [
+      "1940",
+      "1918",
+      "1926",
+      "1936"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_517385_v1",
+    "variant_of": "आधुनिक_517385"
+  },
+  {
+    "q": "प्रेमचंद का गोदान वर्ष",
+    "options": [
+      "1926",
+      "1918",
+      "1940",
+      "1936"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_517385_v2",
+    "variant_of": "आधुनिक_517385"
+  },
+  {
+    "q": "निराला का पूरा नाम",
+    "options": [
+      "जयशंकर",
+      "सूर्यकांत त्रिपाठी निराला",
+      "सुमित्रानंदन",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "आधुनिक_174193"
+  },
+  {
+    "q": "निराला का पूरा नाम",
+    "options": [
+      "सुमित्रानंदन",
+      "",
+      "जयशंकर",
+      "सूर्यकांत त्रिपाठी निराला"
+    ],
+    "answer": 3,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2022,
+    "id": "आधुनिक_174193_v1",
+    "variant_of": "आधुनिक_174193"
+  },
+  {
+    "q": "निराला का पूरा नाम",
+    "options": [
+      "सूर्यकांत त्रिपाठी निराला",
+      "सुमित्रानंदन",
+      "",
+      "जयशंकर"
+    ],
+    "answer": 0,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2022,
+    "id": "आधुनिक_174193_v2",
+    "variant_of": "आधुनिक_174193"
+  },
+  {
+    "q": "महादेवी वर्मा –",
+    "options": [
+      "प्रगतिवाद",
+      "छायावाद",
+      "प्रयोगवाद",
+      "भारतेंदु"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_953522"
+  },
+  {
+    "q": "महादेवी वर्मा –",
+    "options": [
+      "भारतेंदु",
+      "छायावाद",
+      "प्रगतिवाद",
+      "प्रयोगवाद"
+    ],
+    "answer": 1,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": null,
+    "id": "आधुनिक_953522_v1",
+    "variant_of": "आधुनिक_953522"
+  },
+  {
+    "q": "महादेवी वर्मा –",
+    "options": [
+      "प्रयोगवाद",
+      "प्रगतिवाद",
+      "छायावाद",
+      "भारतेंदु"
+    ],
+    "answer": 2,
+    "explanation": "RPSC 2nd Grade Hindi PYQ Pattern – Practice",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": null,
+    "id": "आधुनिक_953522_v2",
+    "variant_of": "आधुनिक_953522"
+  },
+  {
+    "q": "हिंदी का प्रथम उपन्यास",
+    "options": [
+      "परीक्षा गुरु",
+      "सेवासदन",
+      "गोदान",
+      "चंद्रकांता"
+    ],
+    "answer": 0,
+    "explanation": "लाला श्रीनिवास दास",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "आधुनिक_448799"
+  },
+  {
+    "q": "हिंदी का प्रथम उपन्यास",
+    "options": [
+      "गोदान",
+      "परीक्षा गुरु",
+      "सेवासदन",
+      "चंद्रकांता"
+    ],
+    "answer": 1,
+    "explanation": "लाला श्रीनिवास दास",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "आधुनिक_448799_v1",
+    "variant_of": "आधुनिक_448799"
+  },
+  {
+    "q": "हिंदी का प्रथम उपन्यास",
+    "options": [
+      "परीक्षा गुरु",
+      "सेवासदन",
+      "गोदान",
+      "चंद्रकांता"
+    ],
+    "answer": 0,
+    "explanation": "लाला श्रीनिवास दास",
+    "topic": "आधुनिक",
+    "difficulty": "Hard",
+    "pyq_year": 2011,
+    "id": "आधुनिक_448799_v2",
+    "variant_of": "आधुनिक_448799"
+  },
+  {
+    "q": "हिंदी की प्रथम कहानी",
+    "options": [
+      "पूस की रात",
+      "",
+      "इंदुमती",
+      "उसने कहा था"
+    ],
+    "answer": 2,
+    "explanation": "किशोरीलाल गोस्वामी",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "आधुनिक_592383"
+  },
+  {
+    "q": "हिंदी की प्रथम कहानी",
+    "options": [
+      "पूस की रात",
+      "",
+      "इंदुमती",
+      "उसने कहा था"
+    ],
+    "answer": 2,
+    "explanation": "किशोरीलाल गोस्वामी",
+    "topic": "आधुनिक",
+    "difficulty": "Easy",
+    "pyq_year": 2018,
+    "id": "आधुनिक_592383_v1",
+    "variant_of": "आधुनिक_592383"
+  },
+  {
+    "q": "हिंदी की प्रथम कहानी",
+    "options": [
+      "उसने कहा था",
+      "इंदुमती",
+      "",
+      "पूस की रात"
+    ],
+    "answer": 1,
+    "explanation": "किशोरीलाल गोस्वामी",
+    "topic": "आधुनिक",
+    "difficulty": "Medium",
+    "pyq_year": 2018,
+    "id": "आधुनिक_592383_v2",
+    "variant_of": "आधुनिक_592383"
+  }
+]
